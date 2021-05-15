@@ -15,7 +15,7 @@ params:
     primary_nav_links:
       - type: action
         label: Blogg
-        url: /vanliga-fragor
+        url: /blogg
         style: link
       - type: action
         label: Blogg
