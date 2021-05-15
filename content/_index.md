@@ -5,7 +5,7 @@ sections:
     title: Vill du ha fler kunder från Google?
     subtitle: >-
       Visste du att det bästa stället att gömma en död kropp på är sida två i
-      Google.
+      Google?
     actions:
       - type: action
         label: Try Free
