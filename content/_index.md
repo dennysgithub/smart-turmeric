@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Vill du ha fler kunder från Google?
-    subtitle: Optional hero section subtitle
+    subtitle: Det bästa stället att gömma en död kropp på är sida två i Google.
     content: |
       Det bästa stället att gömma en död kropp på är sida två i Google.
     actions:
