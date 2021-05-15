@@ -62,9 +62,9 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Blogg
+      value: Blog
     - name: 'twitter:description'
-      value: This is the blogg page
+      value: This is the blog page
     - name: 'twitter:image'
       value: images/classic/post-5.png
       relativeUrl: true
