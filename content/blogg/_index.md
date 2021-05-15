@@ -64,7 +64,7 @@ seo:
     - name: 'twitter:title'
       value: Blogg
     - name: 'twitter:description'
-      value: This is the blog page
+      value: This is the blogg page
     - name: 'twitter:image'
       value: images/classic/post-5.png
       relativeUrl: true
