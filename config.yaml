@@ -14,7 +14,7 @@ params:
     has_primary_nav: true
     primary_nav_links:
       - type: action
-        label: Pricing
+        label: FAQ
         url: /pricing
         style: link
       - type: action
