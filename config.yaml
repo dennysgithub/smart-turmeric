@@ -14,7 +14,7 @@ params:
     has_primary_nav: true
     primary_nav_links:
       - type: action
-        label: Vanliga Frågor
+        label: Blogg
         url: /vanliga-fragor
         style: link
       - type: action
