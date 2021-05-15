@@ -18,7 +18,7 @@ params:
         url: /pricing
         style: link
       - type: action
-        label: Blog
+        label: Blogg
         url: /blog
         style: link
     has_secondary_nav: true
