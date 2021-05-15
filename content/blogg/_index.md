@@ -43,14 +43,14 @@ sections:
     background_color: secondary
 seo:
   type: stackbit_page_meta
-  title: Blog
-  description: This is the blog page
+  title: Blogg
+  description: This is the blogg page
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Blog
+      value: Blogg
       keyName: property
     - name: 'og:description'
       value: This is the blog page
