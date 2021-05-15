@@ -63,7 +63,7 @@ params:
         style: link
       - type: action
         label: General
-        url: /blog/category/general
+        url: /blogg/category/general
         style: link
       - type: action
         label: Tutorials
