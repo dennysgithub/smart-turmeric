@@ -25,7 +25,7 @@ params:
     secondary_nav_links:
       - type: action
         label: Contact
-        url: /contact
+        url: /kontakt
         style: link
       - type: action
         label: Get Started
