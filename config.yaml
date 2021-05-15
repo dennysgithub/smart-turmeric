@@ -15,7 +15,7 @@ params:
     primary_nav_links:
       - type: action
         label: Vanliga Frågor
-        url: /pricing
+        url: /vanliga-fragor
         style: link
       - type: action
         label: Blogg
