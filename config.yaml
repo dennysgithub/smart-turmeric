@@ -18,10 +18,6 @@ params:
         url: /pricing
         style: link
       - type: action
-        label: About
-        url: /about
-        style: link
-      - type: action
         label: Blogg
         url: /blog
         style: link
