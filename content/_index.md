@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Vill du ha fler kunder från Google?
+    title: Vill du få fler kunder från Google?
     subtitle: >-
       Visste du att det bästa stället att gömma en död kropp på är sida två i
       Google?
