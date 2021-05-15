@@ -21,10 +21,6 @@ params:
         label: Blogg
         url: /blog
         style: link
-      - type: action
-        label: Style Guide
-        url: /style-guide
-        style: link
     has_secondary_nav: true
     secondary_nav_links:
       - type: action
