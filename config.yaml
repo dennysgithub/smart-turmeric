@@ -15,7 +15,7 @@ params:
     primary_nav_links:
       - type: action
         label: FAQ
-        url: /FAQ
+        url: /pricing
         style: link
       - type: action
         label: Blog
