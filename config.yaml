@@ -9,7 +9,7 @@ params:
   header:
     type: header
     title: DIY
-    logo: images/classic/logo.svg
+    logo: /images/logo.png
     logo_alt: DIY logo
     has_primary_nav: true
     primary_nav_links:
