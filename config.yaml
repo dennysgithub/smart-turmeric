@@ -26,10 +26,6 @@ params:
       - type: action
         label: Kontakt
         url: /kontakt
-        style: link
-      - type: action
-        label: Kontakt
-        url: /kontakt
         style: primary
     has_anncmnt: true
     anncmnt_content: >-
