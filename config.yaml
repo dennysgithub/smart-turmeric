@@ -55,11 +55,11 @@ params:
         url: /style-guide
         style: link
     has_secondary_nav: true
-    secondary_nav_title: Blog
+    secondary_nav_title: Blogg
     secondary_nav_links:
       - type: action
         label: News
-        url: /blog/category/news
+        url: /blogg/category/news
         style: link
       - type: action
         label: General
