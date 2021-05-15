@@ -28,7 +28,7 @@ params:
         url: /kontakt
         style: link
       - type: action
-        label: Get Started
+        label: Kontakt
         url: /pricing
         style: primary
     has_anncmnt: true
