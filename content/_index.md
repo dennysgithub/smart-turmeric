@@ -4,9 +4,8 @@ sections:
   - type: hero_section
     title: Vill du ha fler kunder från Google?
     subtitle: Optional hero section subtitle
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: |
+      Det bästa stället att gömma en död kropp på är sida två i Google.
     actions:
       - type: action
         label: Try Free
