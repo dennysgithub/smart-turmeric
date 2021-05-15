@@ -19,7 +19,7 @@ params:
         style: link
       - type: action
         label: Blogg
-        url: /blog
+        url: /blogg
         style: link
     has_secondary_nav: true
     secondary_nav_links:
