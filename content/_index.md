@@ -3,7 +3,9 @@ title: Home
 sections:
   - type: hero_section
     title: Vill du ha fler kunder från Google?
-    subtitle: Det bästa stället att gömma en död kropp på är sida två i Google.
+    subtitle: >-
+      Visste du att det bästa stället att gömma en död kropp på är sida två i
+      Google.
     actions:
       - type: action
         label: Try Free
