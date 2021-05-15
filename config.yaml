@@ -29,7 +29,7 @@ params:
         style: link
       - type: action
         label: Kontakt
-        url: /pricing
+        url: /kontakt
         style: primary
     has_anncmnt: true
     anncmnt_content: >-
