@@ -26,7 +26,7 @@ params:
         url: /about
         style: link
       - type: action
-        label: Blog
+        label: Blogg
         url: /blog
         style: link
       - type: action
