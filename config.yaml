@@ -19,7 +19,7 @@ params:
         style: link
       - type: action
         label: Vanliga Frågor
-        url: /blogg
+        url: /vanliga-fragor
         style: link
     has_secondary_nav: true
     secondary_nav_links:
