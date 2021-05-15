@@ -18,7 +18,7 @@ params:
         url: /blogg
         style: link
       - type: action
-        label: Blogg
+        label: Vanliga Frågor
         url: /blogg
         style: link
     has_secondary_nav: true
