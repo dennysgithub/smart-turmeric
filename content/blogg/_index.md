@@ -1,8 +1,8 @@
 ---
-title: Blogg
+title: Blog
 sections:
   - type: hero_section
-    title: Blogg
+    title: Blog
     subtitle: The optional subtitle
     align: center
     padding_top: medium
