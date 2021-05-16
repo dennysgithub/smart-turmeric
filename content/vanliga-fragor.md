@@ -1,5 +1,5 @@
 ---
-title: Pricing
+title: Vanliga frågor
 sections:
   - type: hero_section
     title: Pick Your Plan
