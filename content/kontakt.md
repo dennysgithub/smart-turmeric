@@ -69,7 +69,7 @@ sections:
     background_color: primary
 seo:
   type: stackbit_page_meta
-  title: General Enquiries
+  title: Kontakt
   description: This is the general enquiries page
   extra:
     - name: 'og:type'
