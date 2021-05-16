@@ -43,7 +43,7 @@ sections:
     background_color: secondary
 seo:
   type: stackbit_page_meta
-  title: seodennis | frilansande webbutvecklare - Blogg
+  title: seodennis.se | blogg
   description: This is the blog page
   extra:
     - name: 'og:type'
