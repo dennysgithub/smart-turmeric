@@ -70,7 +70,9 @@ sections:
 seo:
   type: stackbit_page_meta
   title: Kontakt
-  description: This is the general enquiries page
+  description: >-
+    Hör av dig för att se hur jag på seodennis.se kan hjälpa dig förbättra ditt
+    kundflöde. 
   extra:
     - name: 'og:type'
       value: website
