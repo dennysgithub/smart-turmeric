@@ -134,7 +134,7 @@ sections:
     background_color: secondary
 seo:
   type: stackbit_page_meta
-  title: Pricing
+  title: Vanliga frågor
   description: This is the pricing page
   extra:
     - name: 'og:type'
