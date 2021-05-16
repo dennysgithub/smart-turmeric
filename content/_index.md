@@ -156,7 +156,7 @@ sections:
     background_color: secondary
 seo:
   type: stackbit_page_meta
-  title: Stackbit DIY Theme
+  title: seodennis.se | frilansande webbutvecklare
   description: The preview of the DIY theme
   extra:
     - name: 'og:type'
