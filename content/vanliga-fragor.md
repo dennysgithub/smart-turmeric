@@ -135,7 +135,7 @@ sections:
 seo:
   type: stackbit_page_meta
   title: Vanliga frågor
-  description: This is the pricing page
+  description: Vanliga frågor och svar om SEO & webbdesign.
   extra:
     - name: 'og:type'
       value: website
