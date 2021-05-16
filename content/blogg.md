@@ -43,7 +43,7 @@ sections:
     background_color: secondary
 seo:
   type: stackbit_page_meta
-  title: seodennis.se | blogg
+  title: seodennis.se | tips & trix för företagare
   description: Små tips hur du som företagare kan driva in fler kunder från nätet.
   extra:
     - name: 'og:type'
