@@ -36,7 +36,7 @@ params:
     anncmnt_id: new-features
   footer:
     type: footer
-    logo: /images/magenta-tomato.png
+    logo: /images/seodennis1.png
     logo_alt: DIY logo
     has_primary_nav: true
     primary_nav_title: Company
