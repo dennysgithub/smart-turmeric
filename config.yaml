@@ -9,7 +9,7 @@ params:
   header:
     type: header
     title: DIY
-    logo: /images/seometoden.png
+    logo: /images/neat-wallaby.png
     logo_alt: DIY logo
     has_primary_nav: true
     primary_nav_links:
