@@ -6,7 +6,7 @@ sections:
     subtitle: Är du redo för fler kunder från Google?
     actions:
       - type: action
-        label: Try Free
+        label: Börja här
         url: /pricing
         style: primary
       - type: action
