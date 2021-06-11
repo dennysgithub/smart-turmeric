@@ -27,7 +27,7 @@ sections:
     features:
       - type: feature
         title: Finns du med i Googles 3-pack?
-        subtitle: 'Glöm annonser, glöm det vanliga sökresultatet.'
+        subtitle: Inte? Då missar du enormt mycket kunder!
         content: >
           En väldigt stor del av dina kunder kommer från Google Maps. Ett bra
           sätt att få in ännu fler kunder därifrån är att fokusera på rankingen
