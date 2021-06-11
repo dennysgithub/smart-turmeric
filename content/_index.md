@@ -28,10 +28,10 @@ sections:
       - type: feature
         title: Finns du med i Googles 3-pack?
         subtitle: 'Glöm annonser, glöm det vanliga sökresultatet.'
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          En väldigt stor del av dina kunder kommer från Google Maps. Ett bra
+          sätt att få in ännu fler kunder därifrån är att fokusera på rankingen
+          där. Med målet att synas i 3-packet. 
         actions:
           - type: action
             label: Learn More
