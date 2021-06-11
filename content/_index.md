@@ -26,7 +26,7 @@ sections:
     subtitle: Din väg till fler kunder
     features:
       - type: feature
-        title: The Big Title For the Feature
+        title: Finns du med i Googles 3-pack?
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
