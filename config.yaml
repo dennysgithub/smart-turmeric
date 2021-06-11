@@ -37,7 +37,7 @@ params:
   footer:
     type: footer
     logo: /images/terrific-giraffe.png
-    logo_alt: DIY logo
+    logo_alt: seometoden-logo
     has_primary_nav: true
     primary_nav_title: Company
     primary_nav_links:
