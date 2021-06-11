@@ -23,7 +23,7 @@ sections:
     background_color: primary
   - type: features_section
     title: Är du en lokal företagare?
-    subtitle: Features Section Example
+    subtitle: Börja här
     features:
       - type: feature
         title: The Big Title For the Feature
