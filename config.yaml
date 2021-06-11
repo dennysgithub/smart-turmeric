@@ -8,7 +8,7 @@ params:
   base_font: serif
   header:
     type: header
-    title: DIY
+    title: SEOmetoden
     logo: /images/splendid-rosemary.png
     logo_alt: DIY logo
     has_primary_nav: true
