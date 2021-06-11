@@ -124,7 +124,7 @@ params:
       href="https://app.stackbit.com/create?theme=diy&utm_source=deployed-footer"
       target="_blank" rel="noopener">now</a>
   domain: 'https://smart-turmeric-fa88b.netlify.app'
-  favicon: /images/curious-artichoke.png
+  favicon: /images/incredible-turmeric.png
 taxonomies:
   stub: stub
 disableKinds:
