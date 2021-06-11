@@ -27,7 +27,7 @@ sections:
     features:
       - type: feature
         title: Finns du med i Googles 3-pack?
-        subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
+        subtitle: 'Glöm annonser, glöm det vanliga sökresultatet.'
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
