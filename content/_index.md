@@ -157,7 +157,8 @@ seo:
   title: SEOmetoden | Är du redo för fler kunder från Google?
   description: >-
     Lokala företagare se hit. Du vill ha fler kunder från Google så klart. Det
-    verkar svårt & dyrt. Men så behöver det inte vara. Klicka in dig bara.
+    verkar svårt & dyrt. Men så behöver det inte vara. Klicka in dig så tar vi
+    ett snack.
   extra:
     - name: 'og:type'
       value: website
