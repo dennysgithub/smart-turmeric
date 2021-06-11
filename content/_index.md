@@ -22,7 +22,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: features_section
-    title: Features Section
+    title: Är du en lokal företagare?
     subtitle: Features Section Example
     features:
       - type: feature
