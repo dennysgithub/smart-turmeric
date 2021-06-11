@@ -154,7 +154,7 @@ sections:
     background_color: secondary
 seo:
   type: stackbit_page_meta
-  title: seodennis.se | frilansande webbutvecklare
+  title: SEOmetoden | Är du redo för fler kunder från Google?
   description: The preview of the DIY theme
   extra:
     - name: 'og:type'
