@@ -23,7 +23,7 @@ sections:
     background_color: primary
   - type: features_section
     title: Är du en lokal företagare?
-    subtitle: Börja här
+    subtitle: Din väg till fler kunder
     features:
       - type: feature
         title: The Big Title For the Feature
