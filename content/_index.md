@@ -155,7 +155,9 @@ sections:
 seo:
   type: stackbit_page_meta
   title: SEOmetoden | Är du redo för fler kunder från Google?
-  description: The preview of the DIY theme
+  description: >-
+    Lokala företagare se hit. Du vill ha fler kunder från Google så klart. Det
+    verkar svårt & dyrt. Men så behöver det inte vara. Klicka in dig bara.
   extra:
     - name: 'og:type'
       value: website
