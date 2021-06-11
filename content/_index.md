@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Hem
 sections:
   - type: hero_section
     title: Bästa stället att gömma en död kropp på är sida två i Google.
