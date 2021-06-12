@@ -26,7 +26,7 @@ sections:
     subtitle: Din väg till fler kunder.
     features:
       - type: feature
-        title: Finns du med i Googles 3-pack?
+        title: Dominera dina konkurrenter i Googles 3-pack.
         subtitle: Inte? Då missar du enormt mycket kunder!
         content: >
           Dominera dina konkurrenter i Google Maps-listan. Detta bör prioriteras
