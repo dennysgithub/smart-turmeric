@@ -29,9 +29,8 @@ sections:
         title: Finns du med i Googles 3-pack?
         subtitle: Inte? Då missar du enormt mycket kunder!
         content: >
-          En väldigt stor del av dina kunder kommer från Google Maps. Ett bra
-          sätt att få in ännu fler kunder därifrån är att fokusera på rankingen
-          där. Med målet att synas i 3-packet. 
+          Dominera dina konkurrenter i Google Maps-listan. Detta bör prioriteras
+          högt bland lokala företagare. 
         actions:
           - type: action
             label: Learn More
