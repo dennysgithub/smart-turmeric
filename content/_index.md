@@ -31,8 +31,10 @@ sections:
           Är du inte med här så förlorar du kunder dagligen och det är
           konkurrenterna som dominerar dig.
         content: >
-          Dominera dina konkurrenter i Google Maps-listan. Detta bör prioriteras
-          högt bland lokala företagare. 
+          Det behöver inte vara så knepigt att ranka bättre i den ack så viktiga
+          för lokala företagare, Google Maps listan. Du kan lätt fixa till
+          mycket på egen hand. Ta en titt på videon där jag går igenom bra
+          saker.
         actions:
           - type: action
             label: Learn More
