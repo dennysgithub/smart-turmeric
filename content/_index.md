@@ -27,7 +27,9 @@ sections:
     features:
       - type: feature
         title: Dominera dina konkurrenter i Googles 3-pack.
-        subtitle: Är du inte med här så försvinner dina kunder till konkurrenterna.
+        subtitle: >-
+          Är du inte med här så förlorar du kunder dagligen och det är
+          konkurrenterna som dominerar dig.
         content: >
           Dominera dina konkurrenter i Google Maps-listan. Detta bör prioriteras
           högt bland lokala företagare. 
