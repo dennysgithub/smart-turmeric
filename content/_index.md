@@ -30,8 +30,12 @@ sections:
         subtitle: >-
           Är du inte med här så förlorar du kunder dagligen och det är
           konkurrenterna som dominerar dig.
-        content: |
+        content: >
           Story, inte facts. Emotion.
+
+
+          Handlar inte bara om antalet besökare. Vad händer med de ni redan har?
+          Hur många bli faktiska kunder? 
         actions:
           - type: action
             label: Learn More
