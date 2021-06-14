@@ -30,9 +30,8 @@ sections:
         subtitle: >-
           Är du inte med här så förlorar du kunder dagligen och det är
           konkurrenterna som dominerar dig.
-        content: >
-          Ta en titt på videon där jag går igenom lite saker du kan fixa till
-          för att börja dra in fler kunder från Google Maps.
+        content: |
+          Story, inte facts. Emotion.
         actions:
           - type: action
             label: Learn More
