@@ -24,7 +24,7 @@ params:
     has_secondary_nav: true
     secondary_nav_links:
       - type: action
-        label: Kontakt
+        label: Snacka med mig idag!
         url: /kontakt
         style: primary
     has_anncmnt: true
