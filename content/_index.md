@@ -26,7 +26,7 @@ sections:
     subtitle: Din väg till fler kunder.
     features:
       - type: feature
-        title: Trött på konkurrenter som stjäl kunder?
+        title: Finns du med i Googles 3-pack?
         subtitle: Nästan 50% av alla kunder väljer ett företag från Google Maps-listan
         content: >
           Story, inte facts. Emotion.
