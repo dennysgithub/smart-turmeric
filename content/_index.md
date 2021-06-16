@@ -29,10 +29,6 @@ sections:
         title: Finns du med i Googles 3-pack?
         subtitle: Eller är det konkurrenterna som roffar åt sig kunderna här?
         content: >
-          Om det är dina konkurrenter som syns här istället så är det också dem
-          som får dina kunder.
-
-
           Kolla på videon för att få reda på varför Googles 3-pack är så viktigt
           att vara med i.
         actions:
