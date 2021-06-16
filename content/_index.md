@@ -77,7 +77,7 @@ sections:
           - dolor sit amet
         actions:
           - label: lorem-ipsum
-            url: '#'
+            url: '#borja'
             style: link
             has_icon: false
             icon: arrow-left
