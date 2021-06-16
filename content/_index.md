@@ -7,7 +7,7 @@ sections:
     actions:
       - type: action
         label: Börja här
-        url: '#borja-har'
+        <button onClick="javascript:showPopupSmart16439();" type="button">Click</button>
         style: primary
     image: images/classic/hero.png
     image_alt: Hero section placeholder image
