@@ -92,7 +92,10 @@ sections:
     features:
       - type: feature
         title: “Varför ska du välja en frilansare framför en etablerad webbyrå?”
-        subtitle: 'Brandon Guidelines, Sr. Design Manager at Company'
+        subtitle: >-
+          Det kanske du inte ska! Jag kommer inte vara rätt för alla och det
+          enda sättet vi får reda på om vi passar är om ni berättar mer om er
+          situation.
         image: images/brandon-guidelines.png
         image_alt: Brandon Guidelines
         media_position: right
