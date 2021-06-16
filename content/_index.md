@@ -72,8 +72,8 @@ sections:
           Majoriteten av all trafik kommer från mobiler idag. Och trenden
           fortsätter.
         content: >
-          Handfaten på dagis är anpassade för småbarn, eller hur? Varför ska
-          inte hemsidan anpassas till mobiler och surfplattor?
+          Handfaten på dagis är anpassade för småbarn, eller hur? På samma vis
+          måste hemsidor anpassas för olika slags skärmstorlekar.
 
 
           Ett bra första steg är att se vad Google säger, klicka på knappen
