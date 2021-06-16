@@ -20,6 +20,7 @@ sections:
   - type: features_section
     title: Är du en lokal företagare?
     subtitle: Din väg till fler kunder.
+    id: #borja-har
     features:
       - type: feature
         title: Finns du med i Googles 3-pack?
