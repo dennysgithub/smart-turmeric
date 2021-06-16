@@ -27,7 +27,7 @@ sections:
     features:
       - type: feature
         title: Finns du med i Googles 3-pack?
-        subtitle: Att dyka upp här är innebär många fler kunder dagligen.
+        subtitle: Att dyka upp här är innebär många fler kunder varje dag.
         content: >
           Story, inte facts. Emotion.
 
