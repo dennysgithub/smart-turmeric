@@ -26,7 +26,8 @@
 		{{ end }}
 		{{ if $section.title }}
 		<h2 class="section__title mt-0">{{ $section.title }}</h2>
-		{{ end }}
+		{{< ref "document#anchor" >}}
+        {{ end }}
 	</div>
 	{{ end }}
 
