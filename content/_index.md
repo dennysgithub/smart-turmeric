@@ -29,11 +29,12 @@ sections:
         title: Finns du med i Googles 3-pack?
         subtitle: Att dyka upp här är innebär många fler kunder varje dag.
         content: >
-          Story, inte facts. Emotion.
+          Om det är dina konkurrenter som syns här istället så är det också dem
+          som får dina kunder. 
 
 
-          Handlar inte bara om antalet besökare. Vad händer med de ni redan har?
-          Hur många bli faktiska kunder? 
+          Läs mer om varför, kolla på videon om varför googles 3-pack är så
+          viktigt att vara med i.
         actions:
           - type: action
             label: Learn More
