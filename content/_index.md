@@ -68,7 +68,9 @@ sections:
         media_width: fifty
       - type: feature
         title: Är hemsidan mobilvänlig?
-        subtitle: Majoriteten av all trafik kommer från mobiler. Och trenden fortsätter.
+        subtitle: >-
+          Majoriteten av all trafik kommer från mobiler idag. Och trenden
+          fortsätter.
         content: >
           Är hemsidan vare sig trevlig eller funktionell att använda på en mobil
           så kommer det inte bli några kunder därifrån heller. Vilket innebär en
