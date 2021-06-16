@@ -39,37 +39,6 @@ sections:
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: fifty
-      - title: lorem-ipsum
-        subtitle: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
-        actions:
-          - label: lorem-ipsum
-            url: '#borja-har'
-            style: link
-            has_icon: false
-            icon: arrow-left
-            icon_position: right
-            new_window: false
-            no_follow: false
-            type: action
-        image_alt: lorem-ipsum
-        video_embed_html: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-        media_position: top
-        media_width: fifty
-        align: left
-        type: feature
       - type: feature
         title: Blir det några kunder av de som besöker hemsidan?
         content: >
