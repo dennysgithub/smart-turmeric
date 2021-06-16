@@ -27,7 +27,7 @@ sections:
     features:
       - type: feature
         title: Finns du med i Googles 3-pack?
-        subtitle: Att dyka upp här är innebär många fler kunder varje dag.
+        subtitle: Eller är det konkurrenterna som roffar åt sig kunderna här?
         content: >
           Om det är dina konkurrenter som syns här istället så är det också dem
           som får dina kunder.
