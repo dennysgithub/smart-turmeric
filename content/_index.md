@@ -37,7 +37,7 @@ sections:
           att vara med i.
         actions:
           - type: action
-            label: Learn More
+            label: Kolla nu
             url: /style-guide
             style: primary
             has_icon: true
