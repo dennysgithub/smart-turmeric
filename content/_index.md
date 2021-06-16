@@ -50,11 +50,10 @@ sections:
           vill så klart att folk ska ringa, mejla, besöka er på plats.
 
 
-          En hemsida kan vara bra och dålig på att konvertera besökare till
-          kunder. Har du någon koll på hur bra ni är på detta?
+          Har du någon koll på hur många besökare som konverteras till kunder?
 
 
-          Är ni osäkra så hjälper jag er lösa mysteriet! 
+          Är ni osäkra så hjälper jag er lösa mysteriet!
         actions:
           - type: action
             label: Ta ett snack
