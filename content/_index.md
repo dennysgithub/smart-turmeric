@@ -27,7 +27,7 @@ sections:
     features:
       - type: feature
         title: Finns du med i Googles 3-pack?
-        subtitle: Nästan 50% av alla kunder väljer ett företag från Google Maps-listan
+        subtitle: Att dyka upp här är innebär många fler kunder dagligen.
         content: >
           Story, inte facts. Emotion.
 
