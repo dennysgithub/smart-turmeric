@@ -110,7 +110,7 @@ sections:
         media_position: right
         media_width: thirty-three
         actions:
-          - label: lorem-ipsum
+          - label: 'Berätta '
             url: '#'
             style: link
             has_icon: false
