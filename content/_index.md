@@ -72,9 +72,8 @@ sections:
           Majoriteten av all trafik kommer från mobiler idag. Och trenden
           fortsätter.
         content: >
-          Är hemsidan vare sig trevlig eller funktionell att använda på en mobil
-          så kommer det inte bli några kunder därifrån heller. Vilket innebär en
-          stor förlust av potentiella intäkter.
+          Handfaten på dagis är anpassade småbarn, eller hur? Varför ska inte
+          hemsidan anpassas till mobiler och surfplattor?
 
 
           Ett bra första steg är att se vad Google säger, klicka på knappen
