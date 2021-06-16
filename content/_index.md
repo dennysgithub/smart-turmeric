@@ -56,7 +56,7 @@ sections:
           Är ni osäkra så hjälper jag er lösa mysteriet!
         actions:
           - type: action
-            label: Ta ett snack
+            label: Jag vill veta mer
             url: /style-guide
             style: primary
             has_icon: true
