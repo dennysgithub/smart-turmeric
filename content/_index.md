@@ -130,7 +130,7 @@ sections:
 
     actions:
       - type: action
-        label: Learn More
+        label: Ta kontakt idag
         url: /features
         style: secondary
     actions_position: right
