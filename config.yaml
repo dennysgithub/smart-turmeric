@@ -60,10 +60,6 @@ params:
         label: Vanliga frågor
         url: /blog/category/general
         style: link
-      - type: action
-        label: Tutorials
-        url: /blog/category/tutorials
-        style: link
     has_tertiary_nav: true
     tertiary_nav_title: Legal
     tertiary_nav_links:
