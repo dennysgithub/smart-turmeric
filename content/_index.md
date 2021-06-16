@@ -103,10 +103,8 @@ sections:
     background_color: primary
   - type: cta_section
     title: Varför ska du välja en frilansare framför en etablerad webbyrå?
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+    content: |
+      Det kanske du inte ska! 
     actions:
       - type: action
         label: Learn More
