@@ -30,7 +30,12 @@ sections:
         actions:
           - type: action
             label: Kolla nu
-            url: 'https://youtu.be/w7Ft2ymGmfc'
+            url: >-
+              <iframe width="560" height="315"
+              src="https://www.youtube.com/embed/w7Ft2ymGmfc" title="YouTube
+              video player" frameborder="0" allow="accelerometer; autoplay;
+              clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              allowfullscreen></iframe>
             style: primary
             has_icon: true
             icon: youtube
