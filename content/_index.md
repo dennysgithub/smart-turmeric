@@ -96,7 +96,7 @@ sections:
           Det kanske ni inte ska! Jag kommer inte vara rätt för alla och det
           enda sättet vi får reda på om vi passar är om ni berättar mer om er
           situation.
-        image: /images/avatar-01.png
+        image: /images/majestic-spinach.png
         image_alt: Brandon Guidelines
         media_position: right
         media_width: thirty-three
