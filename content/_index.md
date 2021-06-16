@@ -18,7 +18,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: features_section
-    title: Är du en lokal företagare? 
+    title: Är du en lokal företagare?
     subtitle: Din väg till fler kunder.
     features:
       - type: feature
@@ -39,6 +39,28 @@ sections:
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: fifty
+      - title: lorem-ipsum
+        subtitle: lorem-ipsum
+        content: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
+        actions: []
+        image_alt: lorem-ipsum
+        video_embed_html: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        media_position: top
+        media_width: fifty
+        align: left
+        type: feature
       - type: feature
         title: Blir det några kunder av de som besöker hemsidan?
         content: >
