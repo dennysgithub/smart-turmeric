@@ -84,7 +84,7 @@ sections:
           nedan och gör ett mobil-test.
         actions:
           - type: action
-            label: Learn More
+            label: Kör testet
             url: /style-guide
             style: primary
             has_icon: true
