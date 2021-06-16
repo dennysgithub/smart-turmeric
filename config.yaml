@@ -61,7 +61,7 @@ params:
         url: /blog/category/general
         style: link
     has_tertiary_nav: true
-    tertiary_nav_title: Legal
+    tertiary_nav_title: Policy
     tertiary_nav_links:
       - type: action
         label: Terms & Conditions
