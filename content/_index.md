@@ -26,7 +26,7 @@ sections:
     subtitle: Din väg till fler kunder.
     features:
       - type: feature
-        title: Trött på konkurrenter som tar kunder?
+        title: Trött på konkurrenter som stjäl kunder?
         subtitle: >-
           Är du inte med här så förlorar du kunder dagligen och det är
           konkurrenterna som dominerar dig.
