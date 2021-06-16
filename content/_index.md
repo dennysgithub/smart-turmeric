@@ -102,7 +102,7 @@ sections:
     feature_padding_vert: small
     background_color: primary
   - type: cta_section
-    title: Varför ska du välja en frilansare framför en etablerad webbyrå?
+    title: This is Call To Action Section In DIY Theme!
     content: |
       Det kanske du inte ska! 
     actions:
