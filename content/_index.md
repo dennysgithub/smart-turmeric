@@ -18,7 +18,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: features_section
-    title: Är du en lokal företagare? <a href="#header-1">
+    title: Är du en lokal företagare?
     subtitle: Din väg till fler kunder.
     features:
       - type: feature
