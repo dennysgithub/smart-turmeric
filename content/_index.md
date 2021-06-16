@@ -72,12 +72,15 @@ sections:
           Majoriteten av all trafik kommer från mobiler idag. Och trenden
           fortsätter.
         content: >
-          Handfaten på dagis är anpassade för småbarn, eller hur? På samma vis
-          måste hemsidor anpassas för olika slags skärmstorlekar.
+          Handfaten på dagis är anpassade för småbarn, eller hur?
+
+
+          På samma vis måste hemsidor anpassas för olika slags skärmstorlekar.
+          Här förloras kunder väldigt lätt annars.
 
 
           Ett bra första steg är att se vad Google säger, klicka på knappen
-          nedan och gör ett mobil-test.
+          nedan och kör ett mobil-test.
         actions:
           - type: action
             label: Kör testet
