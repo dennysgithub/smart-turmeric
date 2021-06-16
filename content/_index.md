@@ -76,8 +76,8 @@ sections:
         subtitle: Majoriteten av all trafik kommer från mobiler. Och trenden fortsätter.
         content: >
           Är hemsidan vare sig trevlig eller funktionell att använda på en mobil
-          så kommer det inte bli några kunder som hittade er med sin mobil
-          heller. Vilket innebär en stor förlust av potentiella intäkter. 
+          så kommer det inte bli några kunder därifrån heller. Vilket innebär en
+          stor förlust av potentiella intäkter.
 
 
           Ett bra första steg är att se vad Google säger, klicka på knappen
