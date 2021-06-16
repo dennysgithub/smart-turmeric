@@ -103,8 +103,11 @@ sections:
     background_color: primary
   - type: cta_section
     title: This is Call To Action Section In DIY Theme!
-    content: |
-      Det kanske du inte ska! 
+    content: |+
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl 
+      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh 
+      fringilla, fringilla.
+
     actions:
       - type: action
         label: Learn More
