@@ -76,7 +76,6 @@ sections:
 
 
           På samma vis måste hemsidor anpassas för olika slags skärmstorlekar.
-          Här förloras kunder väldigt lätt annars.
 
 
           Ett bra första steg är att se vad Google säger, klicka på knappen
