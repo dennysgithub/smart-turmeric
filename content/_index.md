@@ -91,7 +91,7 @@ sections:
   - type: features_section
     features:
       - type: feature
-        title: “Varför ska du välja en frilansare framför en etablerad webbyrå?”
+        title: “Varför ska ni välja en frilansare framför en etablerad webbyrå?”
         subtitle: >-
           Det kanske du inte ska! Jag kommer inte vara rätt för alla och det
           enda sättet vi får reda på om vi passar är om ni berättar mer om er
