@@ -26,7 +26,7 @@ sections:
     subtitle: Din väg till fler kunder.
     features:
       - type: feature
-        title: Dominerar konkurrenterna er i Googles 3-pack?
+        title: Trött på konkurrenter som tar kunder?
         subtitle: >-
           Är du inte med här så förlorar du kunder dagligen och det är
           konkurrenterna som dominerar dig.
