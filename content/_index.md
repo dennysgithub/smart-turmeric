@@ -96,7 +96,7 @@ sections:
           Det kanske ni inte ska! Jag kommer inte vara rätt för alla och det
           enda sättet vi får reda på om vi passar är om ni berättar mer om er
           situation.
-        image: /images/smart-onion.png
+        image: /images/brandon-guidelines.png
         image_alt: Brandon Guidelines
         media_position: right
         media_width: thirty-three
