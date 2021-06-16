@@ -27,9 +27,7 @@ sections:
     features:
       - type: feature
         title: Trött på konkurrenter som stjäl kunder?
-        subtitle: >-
-          Är du inte med här så förlorar du kunder dagligen och det är
-          konkurrenterna som dominerar dig.
+        subtitle: Nästan 50% av alla kunder väljer ett företag från Google Maps-listan
         content: >
           Story, inte facts. Emotion.
 
