@@ -110,7 +110,7 @@ sections:
         media_position: right
         media_width: thirty-three
         actions:
-          - label: 'Berätta '
+          - label: Berätta om er
             url: '#'
             style: link
             has_icon: false
