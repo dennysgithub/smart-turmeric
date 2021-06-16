@@ -30,11 +30,11 @@ sections:
         subtitle: Att dyka upp här är innebär många fler kunder varje dag.
         content: >
           Om det är dina konkurrenter som syns här istället så är det också dem
-          som får dina kunder. 
+          som får dina kunder.
 
 
-          Läs mer om varför, kolla på videon om varför googles 3-pack är så
-          viktigt att vara med i.
+          Kolla på videon för att få reda på varför Googles 3-pack är så viktigt
+          att vara med i.
         actions:
           - type: action
             label: Learn More
