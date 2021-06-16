@@ -28,7 +28,7 @@ sections:
           Kolla på videon för att få reda på varför Googles 3-pack är så viktigt
           att vara med i.
         actions:
-          - type: popup
+          - type: action
             label: Kolla nu
             url: 
             style: primary
