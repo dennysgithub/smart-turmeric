@@ -46,7 +46,7 @@ sections:
       - type: feature
         title: Blir det några kunder av de som besöker hemsidan?
         content: >
-          Trafik till hemsidan är totalt värdelös om det inte generar leads. Du
+          Trafik till hemsidan är totalt värdelös om den inte generar leads. Du
           vill så klart att folk ska ringa, mejla, besöka er på plats.
 
 
