@@ -74,10 +74,14 @@ sections:
       - type: feature
         title: Är hemsidan mobilvänlig?
         subtitle: Majoriteten av all trafik kommer från mobiler. Och trenden fortsätter.
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          Är hemsidan vare sig trevlig eller funktionell att använda på en mobil
+          så kommer det inte bli några kunder som hittade er med sin mobil
+          heller. Vilket innebär en stor förlust av potentiella intäkter. 
+
+
+          Ett bra första steg är att se vad Google säger, klicka på knappen
+          nedan och gör ett mobil-test.
         actions:
           - type: action
             label: Learn More
