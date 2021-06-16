@@ -51,15 +51,14 @@ sections:
         title: Blir det några kunder av de som besöker hemsidan?
         content: >
           Trafik till hemsidan är totalt värdelös om det inte generar leads. Du
-          vill så klart att folk ska ringa, mejla, besöka er på plats. 
+          vill så klart att folk ska ringa, mejla, besöka er på plats.
 
 
           En hemsida kan vara bra och dålig på att konvertera besökare till
-          kunder. Har du någon koll på hur bra ni är på detta? 
+          kunder. Har du någon koll på hur bra ni är på detta?
 
 
-          Varför lämna pengar på bordet om kunderna redan tagit sig innanför
-          dörren och vill köpa?
+          Är ni osäkra så hjälper jag er lösa mysteriet! 
         actions:
           - type: action
             label: Learn More
