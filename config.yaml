@@ -53,7 +53,7 @@ params:
     secondary_nav_title: Information
     secondary_nav_links:
       - type: action
-        label: News
+        label: Blogg
         url: /blog/category/news
         style: link
       - type: action
