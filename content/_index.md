@@ -22,20 +22,6 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: features_section
-    features:
-      - type: feature
-        title: “Varför ska ni välja en frilansare framför en etablerad webbyrå?”
-        subtitle: >-
-          Det kanske ni inte ska! Jag kommer inte vara rätt för alla och det
-          enda sättet vi får reda på om vi passar är om ni berättar mer om er
-          situation.
-        image: /images/brandon-guidelines.png
-        image_alt: Brandon Guidelines
-        media_position: right
-        media_width: thirty-three
-    feature_padding_vert: small
-    background_color: primary
-  - type: features_section
     title: Är du en lokal företagare?
     subtitle: Din väg till fler kunder.
     features:
@@ -102,6 +88,20 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: secondary
+  - type: features_section
+    features:
+      - type: feature
+        title: “Varför ska ni välja en frilansare framför en etablerad webbyrå?”
+        subtitle: >-
+          Det kanske ni inte ska! Jag kommer inte vara rätt för alla och det
+          enda sättet vi får reda på om vi passar är om ni berättar mer om er
+          situation.
+        image: /images/brandon-guidelines.png
+        image_alt: Brandon Guidelines
+        media_position: right
+        media_width: thirty-three
+    feature_padding_vert: small
+    background_color: primary
   - type: cta_section
     title: This is Call To Action Section In DIY Theme!
     content: |+
