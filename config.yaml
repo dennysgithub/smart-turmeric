@@ -123,7 +123,7 @@ params:
       target="_blank" rel="noopener">Stackbit</a>. Create yours <a
       href="https://app.stackbit.com/create?theme=diy&utm_source=deployed-footer"
       target="_blank" rel="noopener">now</a>
-  domain: 'https://seo'
+  domain: 'https://seometoden.se'
   favicon: /images/incredible-turmeric.png
 taxonomies:
   stub: stub
