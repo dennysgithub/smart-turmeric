@@ -124,9 +124,9 @@ sections:
   - type: cta_section
     title: “Varför ska ni välja en frilansare framför en etablerad webbyrå?”
     content: |+
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl 
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh 
-      fringilla, fringilla.
+      Det kanske ni inte ska! Jag kommer inte vara rätt för alla och det enda 
+      sättet vi får reda på om vi passar är om ni berättar mer om er 
+      situation.
 
     actions:
       - type: action
