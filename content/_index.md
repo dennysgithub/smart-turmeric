@@ -7,7 +7,7 @@ sections:
     actions:
       - type: action
         label: Börja här
-        url: #borja-har
+        url: '#borja-har'
         style: primary
     image: images/classic/hero.png
     image_alt: Hero section placeholder image
