@@ -50,7 +50,7 @@ sections:
           vill så klart att folk ska ringa, mejla, besöka er på plats.
 
 
-          Har du någon koll på hur många besökare som konverteras till kunder?
+          Har du någon koll på hur många besökare som aldrig hör av sig? 
 
 
           Är ni osäkra så hjälper jag er lösa mysteriet!
