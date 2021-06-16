@@ -6,7 +6,7 @@ sections:
     subtitle: Är du redo för fler kunder från Google?
     actions:
       - type: action
-        label: Börja här
+        label: '#Börja här'
         url: /borja-har
         style: primary
     image: images/classic/hero.png
