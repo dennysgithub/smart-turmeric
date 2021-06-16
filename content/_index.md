@@ -18,7 +18,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: features_section
-    title: Är du en lokal företagare?
+    title: Är du en lokal företagare? {{< ref "document#borja-har" >}}
     subtitle: Din väg till fler kunder.
     features:
       - type: feature
