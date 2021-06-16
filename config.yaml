@@ -123,7 +123,7 @@ params:
       target="_blank" rel="noopener">Stackbit</a>. Create yours <a
       href="https://app.stackbit.com/create?theme=diy&utm_source=deployed-footer"
       target="_blank" rel="noopener">now</a>
-  domain: 'https://smart-turmeric-fa88b.netlify.app'
+  domain: 'https://seo'
   favicon: /images/incredible-turmeric.png
 taxonomies:
   stub: stub
