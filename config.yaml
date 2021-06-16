@@ -57,7 +57,7 @@ params:
         url: /blog/category/news
         style: link
       - type: action
-        label: General
+        label: Vanliga frågor
         url: /blog/category/general
         style: link
       - type: action
