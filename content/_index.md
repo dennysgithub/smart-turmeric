@@ -33,7 +33,7 @@ sections:
             url: /style-guide
             style: primary
             has_icon: true
-            icon: arrow-right
+            icon: youtube
             icon_position: right
         image: images/classic/feature-1.png
         image_alt: Feature 1 placeholder image
