@@ -110,7 +110,7 @@ sections:
         media_position: right
         media_width: thirty-three
         actions:
-          - label: Berätta om er
+          - label: Ta kontakt idag
             url: '#'
             style: secondary
             has_icon: false
