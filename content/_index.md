@@ -30,7 +30,7 @@ sections:
         actions:
           - type: action
             label: Kolla nu
-            url: {{< youtube w7Ft2ymGmfc >}}
+            {{< youtube w7Ft2ymGmfc >}}
             style: primary
             has_icon: true
             icon: youtube
