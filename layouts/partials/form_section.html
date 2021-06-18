@@ -85,10 +85,7 @@
 					<div class="form-content{{ if $form_is_inline }} flex{{ end }}{{ if $form_is_inline }} flex-column{{ end }}{{ if $form_is_inline }} flex-xs-row{{ end }}">
 						{{ if $section.form_fields }}
 							{{ range $field := $section.form_fields }}
-							<div class="form-group{{ if eq $form_is_inline false }} mb-2{{ end }}{{ if eq $form_is_inline true }} mb-1{{ end }}{{ if eq $form_is_inline true }} mb-xs-0{{ end }}{{ if $form_is_inline }} flex-auto{{ end }}">
-								{{ $include_dict := dict "field" $field }}
-								{{ partial "form_field.html" $include_dict }}
-							</div>
+							
 							{{ end }}
 						{{ end }}
 
