@@ -7,7 +7,7 @@ sections:
     content_align: left
     form_position: right
     form_width: fifty
-    form_layout: stacked
+    form_layout: inline
     enable_card: false
     form_id: contact-form
     form_action: /thank-you
