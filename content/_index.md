@@ -26,7 +26,7 @@ sections:
       - input_type: text
         name: webbplats
         label: lorem-ipsum
-        default_value: Din webbplats URL
+        default_value: Din webbplats URL och namn
         options: []
         is_required: true
         type: form_field
