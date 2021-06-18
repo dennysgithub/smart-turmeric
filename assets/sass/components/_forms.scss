@@ -93,6 +93,9 @@ textarea {
 }
 
 .form-inline {
+    display: flex;
+  flex-flow: row wrap;
+  align-items: center;
 	label {
 		@include sr-only();
 	}
