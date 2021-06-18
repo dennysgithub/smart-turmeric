@@ -217,7 +217,7 @@ sections:
     form_fields:
       - input_type: text
         name: Namn
-        label: lorem-ipsum
+        label: Namn
         default_value: lorem-ipsum
         options: []
         is_required: false
