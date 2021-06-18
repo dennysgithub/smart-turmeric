@@ -55,7 +55,7 @@ sections:
           - test
         is_required: false
         type: form_field
-      - input_type: text
+      - input_type: select
         name: Namn
         default_value: Ditt namn
         options: []
