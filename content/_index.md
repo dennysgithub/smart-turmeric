@@ -1,7 +1,7 @@
 ---
 title: Hem
 sections:
-  - title: lorem-ipsum
+  - title: Bästa stället att gömma en död kropp på är sida 2 i Google.
     subtitle: lorem-ipsum
     title_align: left
     content: >-
