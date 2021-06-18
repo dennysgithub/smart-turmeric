@@ -13,13 +13,6 @@ sections:
     form_action: /thank-you
     form_fields:
       - input_type: text
-        name: Namn
-        label: Namn
-        default_value: Ditt namn
-        options: []
-        is_required: false
-        type: form_field
-      - input_type: text
         name: Webbplats
         label: Webbplats URL
         default_value: Din webbplats
