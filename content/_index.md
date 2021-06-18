@@ -222,7 +222,7 @@ sections:
         options: []
         is_required: false
         type: form_field
-    submit_label: Webbplats
+    submit_label: Skicka
     align_vert: top
     padding_top: medium
     padding_bottom: medium
