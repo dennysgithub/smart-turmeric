@@ -18,7 +18,7 @@ sections:
     content_align: left
     form_position: right
     form_width: fifty
-    form_layout: inline
+    form_layout: stacked
     enable_card: false
     form_id: contact-form
     form_action: lorem-ipsum
