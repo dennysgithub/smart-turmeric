@@ -219,7 +219,8 @@ sections:
         name: Namn
         label: Namn
         default_value: Namn
-        options: []
+        options:
+          - lorem-ipsum
         is_required: false
         type: form_field
     submit_label: Skicka
