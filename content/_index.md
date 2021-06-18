@@ -60,7 +60,6 @@ sections:
         type: form_field
       - input_type: text
         name: Namn
-        label: lorem-ipsum
         default_value: Ditt namn
         options: []
         is_required: false
