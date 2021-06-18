@@ -24,7 +24,7 @@ sections:
         options: []
         is_required: true
         type: form_field
-    submit_label: Dominera
+    submit_label: Gräv
     align_vert: top
     padding_top: large
     padding_bottom: large
