@@ -35,7 +35,7 @@ sections:
         label: Din epost
         default_value: Epostadress
         options: []
-        is_required: false
+        is_required: true
         type: form_field
     submit_label: Skicka
     align_vert: top
