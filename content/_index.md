@@ -3,9 +3,9 @@ title: Hem
 sections:
   - title_align: left
     content: |
-      ## Are you doing SEO wrong?
+      ## Vill du ha fler kunder från Google?
 
-      Let me take a 5 minute look at your website to see how you are doing.
+      Lämna dina uppgifter så återkomer jag med den hjälp du behöver.
     content_align: left
     form_position: bottom
     form_width: fifty
