@@ -20,7 +20,7 @@ sections:
       - input_type: tel
         name: epost-adress
         label: lorem-ipsum
-        default_value: Ditt telefonnr
+        default_value: Din mejl
         options: []
         is_required: false
         type: form_field
