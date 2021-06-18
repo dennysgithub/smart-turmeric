@@ -220,7 +220,7 @@ sections:
         label: Namn
         default_value: Namn
         options:
-          - lorem-ipsum
+          - Epost
         is_required: false
         type: form_field
     submit_label: Skicka
