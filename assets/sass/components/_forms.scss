@@ -93,9 +93,7 @@ textarea {
 }
 
 .form-inline {
-     	label {
-		@include sr-only();
-	}
+     	display: flex;
 }
 
 .style-classic {
