@@ -14,7 +14,6 @@ sections:
     form_fields:
       - input_type: text
         name: Webbplats
-        label: Webbplats URL
         default_value: Din webbplats
         options: []
         is_required: false
