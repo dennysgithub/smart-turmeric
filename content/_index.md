@@ -3,10 +3,10 @@ title: Hem
 sections:
   - title_align: left
     content: >
-      ## Förändra din hemsida.
+      ## Förändra företagets hemsida.
 
 
-      ## Förändra företagets framtid.&#xA;
+      ## Förändra framtiden.&#xA;
 
 
       Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
