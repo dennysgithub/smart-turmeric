@@ -22,7 +22,7 @@ sections:
         label: lorem-ipsum
         default_value: Din mejl
         options: []
-        is_required: false
+        is_required: true
         type: form_field
     submit_label: Dominera
     align_vert: top
