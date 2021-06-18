@@ -37,41 +37,6 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: form_section
-  - title_align: left
-    content: |
-      # Bästa stället att gömma en död kropp på är sida två i Google.&#xA;&#xA;
-    content_align: left
-    form_position: bottom
-    form_width: fifty
-    form_layout: inline
-    enable_card: false
-    form_id: subscribeForm
-    form_action: /thank-you
-    form_fields:
-      - input_type: text
-        name: Webbplats
-        default_value: Din webbplats
-        options:
-          - test
-        is_required: false
-        type: form_field
-      - input_type: select
-        name: Namn
-        default_value: Ditt namn
-        options: []
-        is_required: false
-        type: form_field
-    submit_label: Dominera
-    align_vert: top
-    padding_top: large
-    padding_bottom: medium
-    has_border: false
-    background_color: primary
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: form_section
   - type: hero_section
     title: Bästa stället att gömma en död kropp på är sida två i Google.
     subtitle: Är du redo för fler kunder från Google?
