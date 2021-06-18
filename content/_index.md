@@ -16,7 +16,7 @@ sections:
     form_width: fifty
     form_layout: inline
     enable_card: false
-    form_id: contact-form
+    form_id: subscribeForm
     form_action: lorem-ipsum
     form_fields:
       - input_type: text
