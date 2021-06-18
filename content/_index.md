@@ -23,7 +23,7 @@ sections:
     form_id: contact-form
     form_action: lorem-ipsum
     form_fields:
-      - input_type: select
+      - input_type: text
         name: webbplats
         label: lorem-ipsum
         default_value: Din webbplats URL
