@@ -27,8 +27,7 @@ sections:
         name: webbplats
         label: lorem-ipsum
         default_value: Din webbplats URL
-        options:
-          - ferferfr
+        options: []
         is_required: true
         type: form_field
     submit_label: Dominera
