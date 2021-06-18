@@ -9,9 +9,11 @@ sections:
 
 
 
-      ## Förändra företagets hemsida.
 
-      ## Förändra framtiden.&#xA;
+
+      ### Förändra företagets hemsida.
+
+      ### Förändra framtiden.&#xA;
     content_align: left
     form_position: right
     form_width: fifty
