@@ -18,7 +18,7 @@ sections:
         options: []
         is_required: false
         type: form_field
-    submit_label: Jag ä
+    submit_label: Dominera
     align_vert: top
     padding_top: large
     padding_bottom: medium
