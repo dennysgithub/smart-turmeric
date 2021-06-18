@@ -6,8 +6,9 @@ sections:
       ## Det bästa stället att gömma en död kropp på är sida 2 i Google.
 
 
-      Lämna din mejl för att inleda en diskussion huruvida vi kan gräva fram er
-      och börja dra in fler kunder.
+      Lämna din mejl för att inleda en diskussion huruvida jag kan gräva fram er
+      och börja dra in fler kunder. Kanske kan jag inte, men om vi inte tar ett
+      snack så kan vi inte veta
     content_align: left
     form_position: bottom
     form_width: fifty
