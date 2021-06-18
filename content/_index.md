@@ -18,7 +18,7 @@ sections:
     form_action: lorem-ipsum
     form_fields:
       - input_type: tel
-        name: lorem-ipsum
+        name: epost-adress
         label: lorem-ipsum
         default_value: Ditt telefonnr
         options: []
