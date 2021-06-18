@@ -47,7 +47,7 @@ sections:
     align: left
     padding_top: large
     padding_bottom: large
-    background_color: primary
+    background_color: secondary
   - type: features_section
     title: Är du en lokal företagare?
     subtitle: Din väg till fler kunder.
