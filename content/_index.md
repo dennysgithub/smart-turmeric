@@ -252,7 +252,7 @@ sections:
       src="https://www.youtube.com/embed/pCx5Std7mCo" title="YouTube video
       player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
       encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    media_position: right
+    media_position: bottom
     media_width: fifty
     align: left
     padding_top: medium
