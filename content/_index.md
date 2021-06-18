@@ -24,7 +24,7 @@ sections:
         options: []
         is_required: true
         type: form_field
-    submit_label: Gräv
+    submit_label: Börja
     align_vert: top
     padding_top: large
     padding_bottom: large
