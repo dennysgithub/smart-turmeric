@@ -5,7 +5,7 @@ sections:
     content: |
       # Bästa stället att gömma en död kropp på är sida två i Google.&#xA;&#xA;
     content_align: left
-    form_position: right
+    form_position: bottom
     form_width: fifty
     form_layout: inline
     enable_card: false
