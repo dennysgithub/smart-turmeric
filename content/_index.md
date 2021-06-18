@@ -2,10 +2,12 @@
 title: Hem
 sections:
   - title_align: left
-    content: |
+    content: >
       ## Bästa stället att gömma en död kropp på är sida 2 i Google.
 
-      Ska vi ta reda på om vi kan gräva fram er?
+
+      Lämna din mejl för att inleda en diskussion huruvida vi kan gräva fram er
+      och börja dra in fler kunder.
     content_align: left
     form_position: bottom
     form_width: fifty
