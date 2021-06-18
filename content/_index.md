@@ -20,13 +20,6 @@ sections:
         is_required: false
         type: form_field
       - input_type: text
-        name: Din epost
-        label: Din epost
-        default_value: Epostadress
-        options: []
-        is_required: true
-        type: form_field
-      - input_type: text
         name: Webbplats
         label: Webbplats URL
         default_value: Din webbplats
