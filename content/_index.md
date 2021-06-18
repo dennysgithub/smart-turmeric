@@ -39,7 +39,7 @@ sections:
         type: form_field
       - input_type: text
         name: Webbplats
-        label: lorem-ipsum
+        label: Webbplats URL
         default_value: lorem-ipsum
         options: []
         is_required: false
