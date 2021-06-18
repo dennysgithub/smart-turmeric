@@ -108,7 +108,7 @@ sections:
         media_width: fifty
     feature_padding_vert: large
     align: center
-    background_color: primary
+    background_color: secondary
   - type: hero_section
     title: Bästa stället att gömma en död kropp på är sida två i Google.
     subtitle: Är du redo för fler kunder från Google?
