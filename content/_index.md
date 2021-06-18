@@ -66,7 +66,7 @@ sections:
         is_required: false
         type: form_field
     submit_label: Dominera
-    align_vert: top
+    align_vert: bottom
     padding_top: large
     padding_bottom: medium
     has_border: false
