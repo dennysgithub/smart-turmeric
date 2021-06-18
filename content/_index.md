@@ -32,22 +32,6 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: form_section
-  - type: hero_section
-    title: Bästa stället att gömma en död kropp på är sida två i Google.
-    subtitle: Är du redo för fler kunder från Google?
-    actions:
-      - type: action
-        label: Börja här
-        url: '#borja-har'
-        style: primary
-    image: images/classic/hero.png
-    image_alt: Hero section placeholder image
-    media_position: left
-    media_width: fifty
-    align: left
-    padding_top: large
-    padding_bottom: large
-    background_color: primary
   - type: features_section
     title: Är du en lokal företagare?
     subtitle: Din väg till fler kunder.
@@ -121,6 +105,22 @@ sections:
         media_width: fifty
     feature_padding_vert: large
     align: center
+    background_color: primary
+  - type: hero_section
+    title: Bästa stället att gömma en död kropp på är sida två i Google.
+    subtitle: Är du redo för fler kunder från Google?
+    actions:
+      - type: action
+        label: Börja här
+        url: '#borja-har'
+        style: primary
+    image: images/classic/hero.png
+    image_alt: Hero section placeholder image
+    media_position: left
+    media_width: fifty
+    align: left
+    padding_top: large
+    padding_bottom: large
     background_color: primary
   - type: features_section
     features:
