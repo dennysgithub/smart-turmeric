@@ -31,7 +31,7 @@ sections:
         is_required: true
         type: form_field
     submit_label: Dominera
-    align_vert: bottom
+    align_vert: top
     padding_top: medium
     padding_bottom: medium
     has_border: false
