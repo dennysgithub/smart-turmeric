@@ -19,7 +19,7 @@ sections:
     form_position: bottom
     form_width: fifty
     form_layout: inline
-    enable_card: true
+    enable_card: false
     form_id: contact-form
     form_action: lorem-ipsum
     form_fields:
