@@ -21,7 +21,7 @@ sections:
 
       ## Förändra framtiden.&#xA;
     content_align: left
-    form_position: bottom
+    form_position: right
     form_width: fifty
     form_layout: inline
     enable_card: true
