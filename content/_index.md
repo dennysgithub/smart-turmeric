@@ -7,8 +7,8 @@ sections:
 
 
       Lämna din mejl för att inleda en diskussion huruvida jag kan gräva fram er
-      och börja dra in fler kunder. Kanske kan jag inte, men om vi inte tar ett
-      snack så får vi aldrig veta.
+      så ni kan börja dra in fler kunder. Kanske kan jag inte, men om vi inte
+      tar ett snack så får vi aldrig veta.
     content_align: left
     form_position: bottom
     form_width: fifty
