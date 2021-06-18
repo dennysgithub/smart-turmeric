@@ -2,12 +2,10 @@
 title: Hem
 sections:
   - title_align: left
-    content: >
-      ## Lorem ipsum
+    content: |
+      ## Are you doing SEO wrong?
 
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      Let me take a 5 minute look at your website to see how you are doing.
     content_align: left
     form_position: bottom
     form_width: fifty
