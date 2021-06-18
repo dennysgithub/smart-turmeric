@@ -3,7 +3,7 @@ title: Hem
 sections:
   - title_align: left
     content: >
-      ## Bästa stället att gömma en död kropp på är sida 2 i Google.
+      ## Det bästa stället att gömma en död kropp på är sida 2 i Google.
 
 
       Lämna din mejl för att inleda en diskussion huruvida vi kan gräva fram er
