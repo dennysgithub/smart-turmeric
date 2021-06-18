@@ -4,10 +4,6 @@ sections:
   - title_align: left
     content: |
       # Bästa stället att gömma en död kropp på är sida två i Google.&#xA;&#xA;
-
-      ## Förändra företagets hemsida.
-
-      ## Förändra framtiden.&#xA;
     content_align: left
     form_position: right
     form_width: fifty
