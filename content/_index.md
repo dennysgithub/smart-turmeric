@@ -16,7 +16,7 @@ sections:
 
       - dolor sit amet
     content_align: left
-    form_position: top
+    form_position: bottom
     form_width: fifty
     form_layout: inline
     enable_card: false
