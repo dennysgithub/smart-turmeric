@@ -219,8 +219,7 @@ sections:
         name: Namn
         label: Namn
         default_value: Namn
-        options:
-          - Epost
+        options: []
         is_required: false
         type: form_field
     submit_label: Skicka
