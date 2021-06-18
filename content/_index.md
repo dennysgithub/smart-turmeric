@@ -4,17 +4,13 @@ sections:
   - title: Bästa stället att gömma en död kropp på är sida 2 i Google.
     subtitle: lorem-ipsum
     title_align: left
-    content: >-
-      ## Lorem ipsum
+    content: |
+      ## Gör ni fel med er digitala strategi?
 
+      Vill du att jag tar en snabb titt på er hemsida och ger en bedömning?
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      *   Dominera era konkurrenter
+      *   dolor sit amet
     content_align: left
     form_position: bottom
     form_width: fifty
