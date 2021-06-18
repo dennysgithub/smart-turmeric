@@ -92,6 +92,11 @@ textarea {
 	}
 }
 
+.form-inline {
+     	label {
+		@include sr-only();
+	}
+}
 
 .style-classic {
 	input[type="text"],
