@@ -32,7 +32,7 @@ sections:
         type: form_field
       - input_type: text
         name: Din epost
-        label: lorem-ipsum
+        label: Din epost
         default_value: lorem-ipsum
         options: []
         is_required: false
