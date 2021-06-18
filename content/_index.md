@@ -56,7 +56,7 @@ sections:
         name: Webbplats
         default_value: Din webbplats
         options:
-          - lorem-ipsum
+          - test
         is_required: false
         type: form_field
       - input_type: text
