@@ -3,9 +3,9 @@ title: Hem
 sections:
   - title_align: left
     content: |
-      ## Vill du ha fler kunder från Google?
+      ## Bästa stället att gömma en död kropp på är sida 2 i Google.
 
-      Lämna dina uppgifter så återkomer jag med den hjälp du behöver.
+      Ska vi ta reda på om vi kan gräva fram er?
     content_align: left
     form_position: bottom
     form_width: fifty
