@@ -171,8 +171,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: secondary
-  - title: lorem-ipsum
-    title_align: left
+  - title_align: left
     content: >
       ## Lorem ipsum
 
