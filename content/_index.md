@@ -1,6 +1,46 @@
 ---
 title: Hem
 sections:
+  - title: lorem-ipsum
+    subtitle: lorem-ipsum
+    title_align: left
+    content: >-
+      ## Lorem ipsum
+
+
+      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+      - Lorem ipsum
+
+      - dolor sit amet
+    content_align: left
+    form_position: right
+    form_width: fifty
+    form_layout: inline
+    enable_card: true
+    form_id: contact-form
+    form_action: /thank-you
+    form_fields:
+      - input_type: text
+        name: Namn
+        label: Namn
+        default_value: Namn
+        options: []
+        is_required: false
+        type: form_field
+    submit_label: Skicka
+    align_vert: top
+    padding_top: medium
+    padding_bottom: medium
+    has_border: false
+    background_color: none
+    background_image_opacity: 0
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: form_section
   - type: hero_section
     title: Bästa stället att gömma en död kropp på är sida två i Google.
     subtitle: Är du redo för fler kunder från Google?
@@ -193,46 +233,6 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: secondary
-  - title: lorem-ipsum
-    subtitle: lorem-ipsum
-    title_align: left
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
-    content_align: left
-    form_position: right
-    form_width: fifty
-    form_layout: inline
-    enable_card: true
-    form_id: contact-form
-    form_action: /thank-you
-    form_fields:
-      - input_type: text
-        name: Namn
-        label: Namn
-        default_value: Namn
-        options: []
-        is_required: false
-        type: form_field
-    submit_label: Skicka
-    align_vert: top
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: none
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: form_section
 seo:
   type: stackbit_page_meta
   title: SEOmetoden | Är du redo för fler kunder från Google?
