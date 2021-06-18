@@ -40,7 +40,7 @@ sections:
       - input_type: text
         name: Webbplats
         label: Webbplats URL
-        default_value: lorem-ipsum
+        default_value: Din webbplats
         options: []
         is_required: false
         type: form_field
