@@ -26,7 +26,7 @@ sections:
       - input_type: text
         name: Namn
         label: Namn
-        default_value: Namn
+        default_value: Ditt namn
         options: []
         is_required: false
         type: form_field
