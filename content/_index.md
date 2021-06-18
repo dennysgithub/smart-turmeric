@@ -1,7 +1,7 @@
 ---
 title: Hem
 sections:
-  - title_align: center
+  - title_align: left
     content: |
       ## Förändra företagets hemsida.
 
