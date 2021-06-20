@@ -43,7 +43,7 @@ sections:
     subtitle: Din väg till fler kunder.
     features:
       - type: feature
-        title: Finns du med i Googles 3-pack?
+        title: Den heliga gralen för
         subtitle: Eller är det konkurrenterna som roffar åt sig kunderna här?
         content: >
           Kolla på videon för att få reda på varför Googles 3-pack är så viktigt
