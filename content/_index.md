@@ -43,7 +43,7 @@ sections:
     subtitle: Din väg till fler kunder.
     features:
       - type: feature
-        title: Google Maps är din
+        title: Google Maps är din skattkista.. heliga graal..
         subtitle: Eller är det konkurrenterna som roffar åt sig kunderna här?
         content: >
           Kolla på videon för att få reda på varför Googles 3-pack är så viktigt
