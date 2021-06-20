@@ -206,7 +206,7 @@ $media-breakpoints: (
 ) !default;
 
 // Spacing
-$spacer: 5rem !default;
+$spacer: 1rem !default;
 $spacers: (
 	0: 0,
 	1: ($spacer * .55556),
