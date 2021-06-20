@@ -61,7 +61,7 @@ sections:
         media_position: right
         media_width: fifty
       - type: feature
-        title: Blir det några kunder av de som besöker hemsidan?
+        title: Är hemsidan fylld av däcksparkare?
         content: >
           Trafik till hemsidan är totalt värdelös om den inte generar leads. Du
           vill så klart att folk ska ringa, mejla, besöka er på plats.
