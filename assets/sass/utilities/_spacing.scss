@@ -42,7 +42,7 @@
 
 	.pb-#{$key},
 	.py-#{$key} {
-		padding-bottom: 7.5rem;
+		padding-bottom: $size;
 	}
 
 	.pl-#{$key},
