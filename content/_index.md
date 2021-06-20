@@ -112,7 +112,7 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: secondary
-    padding_top: none
+    padding_top: small
   - type: features_section
     features:
       - type: feature
