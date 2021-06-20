@@ -40,7 +40,7 @@ sections:
     type: form_section
   - type: features_section
     title: Är du en lokal företagare?
-    subtitle: Din väg till fler kunder.
+    subtitle: Din resa fler kunder.
     features:
       - type: feature
         title: Google Maps är din skattkista.. heliga graal..
