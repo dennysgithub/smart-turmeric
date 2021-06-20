@@ -47,7 +47,7 @@
 
 	.pl-#{$key},
 	.px-#{$key} {
-		padding-left: 7.5rem;
+		padding-left: $size;
 	}
 }
 
