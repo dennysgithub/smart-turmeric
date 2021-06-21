@@ -6,7 +6,7 @@ sections:
       ##
 
 
-      ## Det bästa stället att gömma en död kropp på är sida 2 i Google.
+      ## sDet bästa stället att gömma en död kropp på är sida 2 i Google.
 
 
       Lämna din mejl för att inleda en diskussion huruvida jag kan gräva fram er
