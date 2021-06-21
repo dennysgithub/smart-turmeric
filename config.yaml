@@ -28,8 +28,9 @@ params:
         url: /kontakt
         style: primary
     has_anncmnt: true
-    anncmnt_content: |
-      Den här webbplatsen använder kakor. [**Läs mer**](www.google.com).
+    anncmnt_content: >
+      Den här webbplatsen använder kakor för att förbättra din upplevelse.
+      [**Läs mer**](www.google.com).
     anncmnt_align: left
     anncmnt_is_home_only: true
     anncmnt_has_close: true
