@@ -2,7 +2,8 @@
  * Grid
  */
 .grid {
-	margin-bottom:8rem; 
+	@include make-grid();
+    margin-bottom: 5rem;
 }
 
 .cell,
