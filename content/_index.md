@@ -58,7 +58,7 @@ sections:
             icon_position: right
         image_alt: Feature 1 placeholder image
         media_position: right
-        media_width: thirty-three
+        media_width: sixty
         image: /images/fierce-sunflower.png
       - type: feature
         title: Är hemsidan full av däcksparkare?
