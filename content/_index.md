@@ -127,7 +127,7 @@ sections:
         label: Ta kontakt idag
         url: /features
         style: secondary
-      - label: lorem-ipsum
+      - label: Mejla
         url: '#'
         style: link
         has_icon: false
