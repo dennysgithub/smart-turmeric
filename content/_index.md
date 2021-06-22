@@ -107,7 +107,7 @@ sections:
             icon_position: right
         image_alt: Feature 3 placeholder image
         media_position: right
-        media_width: thirty-three
+        media_width: fourty
         image: >-
           /images/Screenshot 2021-06-22 at 10-15-47 Vi Målar - Din målare i
           Stockholm Ett måleri att lita på_ipad_silver_portrait.png
