@@ -124,7 +124,7 @@ sections:
 
     actions:
       - type: action
-        label: Ta kontakt idag
+        label: Chatta
         url: /features
         style: secondary
       - label: Mejla en fråga
