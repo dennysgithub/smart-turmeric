@@ -127,7 +127,7 @@ sections:
         label: Ta kontakt idag
         url: /features
         style: secondary
-      - label: Mejla
+      - label: Mejla en fråga
         url: '#'
         style: link
         has_icon: false
