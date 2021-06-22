@@ -58,7 +58,7 @@ sections:
             icon_position: right
         image_alt: Feature 1 placeholder image
         media_position: right
-        media_width: fifty
+        media_width: fourty
         image: >-
           /images/Screenshot 2021-06-22 at 09-46-29 snickare stockholm - Google
           Search(1).png
