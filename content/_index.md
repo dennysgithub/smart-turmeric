@@ -56,7 +56,6 @@ sections:
             has_icon: true
             icon: youtube
             icon_position: right
-        image: /images/google-3-pack-iphone.png
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: fifty
