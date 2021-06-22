@@ -56,7 +56,9 @@ sections:
             has_icon: true
             icon: youtube
             icon_position: right
-        image: /images/classic/feature-1.png
+        image: >-
+          /images/Screenshot 2021-06-22 at 09-27-01 snickare stockholm - Google
+          Search_iphone12black_portrait.png
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: fifty
