@@ -59,7 +59,9 @@ sections:
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: fifty
-        image: /images/scientific-wallaby.png
+        image: >-
+          /images/Screenshot 2021-06-22 at 09-46-29 snickare stockholm - Google
+          Search.png
       - type: feature
         title: Är hemsidan full av däcksparkare?
         content: >
