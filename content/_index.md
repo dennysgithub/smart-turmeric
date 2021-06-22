@@ -133,30 +133,6 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-  - type: features_section
-    features:
-      - type: feature
-        title: “Varför ska ni välja en frilansare framför en etablerad webbyrå?”
-        subtitle: >-
-          Det kanske ni inte ska! Jag kommer inte vara rätt för alla och det
-          enda sättet vi får reda på om vi passar är om ni berättar mer om er
-          situation.
-        image: /images/brandon-guidelines.png
-        image_alt: Brandon Guidelines
-        media_position: right
-        media_width: thirty-three
-        actions:
-          - label: Ta kontakt idag
-            url: '#'
-            style: secondary
-            has_icon: false
-            icon: arrow-left
-            icon_position: right
-            new_window: false
-            no_follow: false
-            type: action
-    feature_padding_vert: small
-    background_color: primary
   - type: blog_feed_section
     title: What's New
     subtitle: Blog Feed Section Example
@@ -195,6 +171,30 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: secondary
+  - type: features_section
+    features:
+      - type: feature
+        title: “Varför ska ni välja en frilansare framför en etablerad webbyrå?”
+        subtitle: >-
+          Det kanske ni inte ska! Jag kommer inte vara rätt för alla och det
+          enda sättet vi får reda på om vi passar är om ni berättar mer om er
+          situation.
+        image: /images/brandon-guidelines.png
+        image_alt: Brandon Guidelines
+        media_position: right
+        media_width: thirty-three
+        actions:
+          - label: Ta kontakt idag
+            url: '#'
+            style: secondary
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
+    feature_padding_vert: small
+    background_color: primary
 seo:
   type: stackbit_page_meta
   title: SEOmetoden | Är du redo för fler kunder från Google?
