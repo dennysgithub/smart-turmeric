@@ -87,7 +87,7 @@ sections:
         title: Handfaten på dagis är anpassade efter småbarn
         subtitle: >-
           Majoriteten av all trafik kommer från mobiler idag. Och trenden
-          fortsätter.
+          fortsätter..
         content: >
           Handfaten på dagis är anpassade för småbarn, eller hur?
 
