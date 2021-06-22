@@ -59,7 +59,7 @@ sections:
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: fifty
-        image: /images/google-3-pack-iphone(1).png
+        image: /images/scientific-wallaby.png
       - type: feature
         title: Är hemsidan full av däcksparkare?
         content: >
