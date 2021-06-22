@@ -115,6 +115,24 @@ sections:
     align: center
     background_color: secondary
     padding_top: medium
+  - type: cta_section
+    title: “Varför ska ni välja en frilansare framför en etablerad webbyrå?”
+    content: |+
+      Det kanske ni inte ska! Jag kommer inte vara rätt för alla och det enda 
+      sättet vi får reda på om vi passar är om ni berättar mer om er 
+      situation.
+
+    actions:
+      - type: action
+        label: Ta kontakt idag
+        url: /features
+        style: secondary
+    actions_position: right
+    actions_width: fourty
+    align: left
+    padding_top: large
+    padding_bottom: large
+    background_color: primary
   - type: features_section
     features:
       - type: feature
@@ -138,24 +156,6 @@ sections:
             no_follow: false
             type: action
     feature_padding_vert: small
-    background_color: primary
-  - type: cta_section
-    title: “Varför ska ni välja en frilansare framför en etablerad webbyrå?”
-    content: |+
-      Det kanske ni inte ska! Jag kommer inte vara rätt för alla och det enda 
-      sättet vi får reda på om vi passar är om ni berättar mer om er 
-      situation.
-
-    actions:
-      - type: action
-        label: Ta kontakt idag
-        url: /features
-        style: secondary
-    actions_position: right
-    actions_width: fourty
-    align: left
-    padding_top: large
-    padding_bottom: large
     background_color: primary
   - type: blog_feed_section
     title: What's New
