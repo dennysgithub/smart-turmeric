@@ -195,22 +195,6 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: secondary
-  - type: hero_section
-    title: Bästa stället att gömma en död kropp på är sida två i Google.
-    subtitle: Är du redo för fler kunder från Google?
-    actions:
-      - type: action
-        label: Börja här
-        url: '#borja-har'
-        style: primary
-    image: images/classic/hero.png
-    image_alt: Hero section placeholder image
-    media_position: left
-    media_width: fifty
-    align: left
-    padding_top: large
-    padding_bottom: large
-    background_color: primary
 seo:
   type: stackbit_page_meta
   title: SEOmetoden | Är du redo för fler kunder från Google?
