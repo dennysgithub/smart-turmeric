@@ -61,7 +61,7 @@ sections:
         media_width: fourty
         image: /images/testetste.png
       - type: feature
-        title: Är hemsidan full av däcksparkare?
+        title: Är hemsidan full av fönstershoppare?
         content: >
           Trafik till hemsidan är totalt värdelös om den inte generar leads. Du
           vill så klart att folk ska ringa, mejla, besöka er på plats.
