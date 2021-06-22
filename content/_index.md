@@ -126,7 +126,7 @@ sections:
       - type: action
         label: Chatta
         url: /features
-        style: secondary
+        style: primary
       - label: Mejla en fråga
         url: '#'
         style: secondary
