@@ -59,9 +59,7 @@ sections:
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: fourty
-        image: >-
-          /images/Screenshot 2021-06-22 at 09-53-29 snickare stockholm - Google
-          Search.png
+        image: /images/testetste.png
       - type: feature
         title: Är hemsidan full av däcksparkare?
         content: >
