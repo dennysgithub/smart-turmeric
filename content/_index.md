@@ -59,7 +59,7 @@ sections:
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: fifty
-        image: /images/polite-lettuce.png
+        image: /images/groovy-sun.png
       - type: feature
         title: Är hemsidan full av däcksparkare?
         content: >
