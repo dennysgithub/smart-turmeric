@@ -56,7 +56,7 @@ sections:
             has_icon: true
             icon: youtube
             icon_position: right
-        image: /images/local-3-pack-mobile-400x672.jpg
+        image: /images/classic/feature-1.png
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: fifty
