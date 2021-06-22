@@ -108,7 +108,7 @@ sections:
         image_alt: Feature 3 placeholder image
         media_position: right
         media_width: fourty
-        image: /images/forminskadenna.png
+        image: /images/forminskadenna-01.png
     feature_padding_vert: large
     align: center
     background_color: secondary
