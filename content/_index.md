@@ -56,7 +56,7 @@ sections:
             has_icon: true
             icon: youtube
             icon_position: right
-        image_alt: Feature 1 placeholder image
+        image_alt: google-3-pack-seometoden
         media_position: right
         media_width: fourty
         image: /images/google-3-pack.png
