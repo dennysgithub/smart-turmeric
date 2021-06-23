@@ -20,7 +20,7 @@ sections:
     form_id: mejl-cta
     form_fields:
       - input_type: email
-        name: epost-adress
+        name: email
         default_value: Din mejl
         options: []
         is_required: true
