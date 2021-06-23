@@ -18,7 +18,7 @@ sections:
     form_layout: inline
     enable_card: false
     form_id: mejl-cta
-    form_action: tack
+    form_action: testarnysida
     form_fields:
       - input_type: text
         name: epost-adress
