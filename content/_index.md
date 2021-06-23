@@ -37,7 +37,7 @@ sections:
     padding_top: medium
     padding_bottom: medium
     has_border: true
-    background_color: secondary
+    background_color: primary
     
   - type: features_section
     title: Är du en lokal företagare?
