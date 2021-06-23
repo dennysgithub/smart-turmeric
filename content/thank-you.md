@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: Snyggt jobbat!
     subtitle: >-
-      Jag återkommer så så snart jag kan.
+      Jag återkommer så snart jag kan.
     actions:
       - type: action
         label: Tillbaka till startsidan
