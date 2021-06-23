@@ -134,7 +134,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-  - title: lorem-ipsum
+  - title: 'Några fördelar med '
     subtitle: lorem-ipsum
     actions: []
     grid_items: []
