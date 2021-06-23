@@ -37,6 +37,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: form_section
+    form_action: tack
   - type: features_section
     title: Är du en lokal företagare?
     subtitle: Här börjar din resa till fler kunder.
