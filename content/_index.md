@@ -105,7 +105,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image_alt: Feature 3 placeholder image
+        image_alt: responsiv-design-seometoden
         media_position: right
         media_width: fourty
         image: /images/responsiv-design.png
