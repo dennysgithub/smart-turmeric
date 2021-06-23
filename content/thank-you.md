@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: Thank You!
     subtitle: >-
-      Snyggt jobbat! Jag hör av mig 
+      Snyggt jobbat! Jag hör av mig så snart jag kan.
     actions:
       - type: action
         label: Tillbaka till startsidan
