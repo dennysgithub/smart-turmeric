@@ -121,10 +121,6 @@ sections:
       situation.
 
     actions:
-      - type: action
-        label: Chatta direkt
-        url: /features
-        style: primary
       - label: Mejla en fråga
         url: '#'
         style: secondary
