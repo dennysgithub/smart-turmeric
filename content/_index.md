@@ -82,7 +82,7 @@ sections:
         media_position: left
         media_width: fifty
       - type: feature
-        title: Handfaten på dagis är anpassade efter småbarn
+        title: Är du responsiv?
         subtitle: >-
           Majoriteten av all trafik kommer från mobiler idag. Och trenden
           fortsätter..
