@@ -105,7 +105,7 @@ sections:
             icon_position: right
         image_alt: responsiv-design-seometoden
         media_position: right
-        media_width: fourty
+        media_width: fifty
         image: /images/output-onlinepngtools.png
     feature_padding_vert: large
     align: center
