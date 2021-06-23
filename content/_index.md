@@ -19,7 +19,7 @@ sections:
     enable_card: false
     form_id: contact-form
     form_fields:
-      - input_type: text
+      - input_type: email
         name: epost-adress
         label: Epostadress
         default_value: Din mejl
