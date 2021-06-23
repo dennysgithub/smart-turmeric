@@ -17,27 +17,25 @@ sections:
     form_width: fifty
     form_layout: inline
     enable_card: false
-    type: form_section
-    title: Inline Form
-    title_align: center
-    content: Subscribe to our newsletter to make sure you don't miss anything.
-    content_align: center
-    form_position: bottom
-    form_layout: inline
-    form_id: subscribeForm
-    form_action: /tack
+     form_id: mejl-cta
     form_fields:
-      - type: form_field
-        input_type: email
-        name: email
-        label: Email
-        default_value: Your email address
+      - input_type: email
+        name: epost-adress
+        default_value: Din mejl
+        options: []
         is_required: true
-    submit_label: Subscribe
+        type: form_field
+    submit_label: Börja gräv
+    align_vert: top
     padding_top: large
     padding_bottom: large
-    has_border: true
+    has_border: false
     background_color: primary
+    background_image_opacity: 0
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: form_section
     
   - type: features_section
     title: Är du en lokal företagare?
