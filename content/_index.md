@@ -21,7 +21,6 @@ sections:
     form_fields:
       - input_type: email
         name: epost-adress
-        label: Epostadress
         default_value: Din mejl
         options: []
         is_required: true
