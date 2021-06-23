@@ -8,7 +8,7 @@ sections:
       a great day!
     actions:
       - type: action
-        label: Back to homepage
+        label: Tillbaka till startsidan
         url: /
         style: primary
     align: center
