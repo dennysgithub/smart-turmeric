@@ -59,7 +59,7 @@ sections:
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: fourty
-        image: /images/testetste.png
+        image: /images/google-3-pack.png
       - type: feature
         title: Är hemsidan full av fönstershoppare?
         content: >
