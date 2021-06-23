@@ -134,7 +134,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-  - title: 'Några fördelar med '
+  - title: Några fördelar att jobba med mig
     subtitle: lorem-ipsum
     actions: []
     grid_items: []
