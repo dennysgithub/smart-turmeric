@@ -34,8 +34,8 @@ sections:
         default_value: Your email address
         is_required: true
     submit_label: Subscribe
-    padding_top: medium
-    padding_bottom: medium
+    padding_top: large
+    padding_bottom: large
     has_border: true
     background_color: primary
     
