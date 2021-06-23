@@ -17,7 +17,7 @@ sections:
     form_width: fifty
     form_layout: inline
     enable_card: false
-    form_id: mejl-cta
+    form_id: contact-form
     form_action: tack
     form_fields:
       - input_type: email
