@@ -135,7 +135,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - title: Några fördelar att jobba med mig
-    subtitle: men när du ändå frågar..
+    subtitle: men när du ändå frågar...
     actions: []
     grid_items: []
     grid_cols: three
