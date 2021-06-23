@@ -2,9 +2,9 @@
 title: Thank You
 sections:
   - type: hero_section
-    title: Thank You!
+    title: Snyggt jobbat!
     subtitle: >-
-      Snyggt jobbat! Jag hör av mig så snart jag kan.
+      Jag återkommer så så snart jag kan.
     actions:
       - type: action
         label: Tillbaka till startsidan
