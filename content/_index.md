@@ -24,27 +24,20 @@ sections:
     content_align: center
     form_position: bottom
     form_layout: inline
-     type: form_section
-  form_id: subscribeForm
+    form_id: subscribeForm
+    form_action: /tack
     form_fields:
-		type: form_field
-      - input_type: email
+      - type: form_field
+        input_type: email
         name: email
-		label: email
-        default_value: Din mejl
+        label: Email
+        default_value: Your email address
         is_required: true
-        
-    submit_label: Börja gräv
-    align_vert: top
+    submit_label: Subscribe
     padding_top: large
     padding_bottom: large
-    has_border: false
+    has_border: true
     background_color: primary
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    
     
   - type: features_section
     title: Är du en lokal företagare?
