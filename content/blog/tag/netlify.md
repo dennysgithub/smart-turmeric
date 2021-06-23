@@ -29,7 +29,7 @@ sections:
     form_position: bottom
     form_layout: inline
     form_id: subscribeForm
-    form_action: /thank-you
+    form_action: /tack
     form_fields:
       - type: form_field
         input_type: email
