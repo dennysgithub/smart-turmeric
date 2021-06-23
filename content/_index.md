@@ -90,7 +90,7 @@ sections:
           Handfaten på dagis är anpassade för småbarn, eller hur?
 
 
-          På samma vis måste hemsidor anpassas för olika slags skärmstorlekar.
+          På samma vis måste hemsidor anpassas för olika slags skärmstorlekar
 
 
           Ett bra första steg är att se vad Google säger, klicka på knappen
