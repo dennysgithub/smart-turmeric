@@ -15,9 +15,7 @@ sections:
     content_align: left
     form_position: bottom
     form_width: fifty
-    form_layout: inline
-    enable_card: false
-    type: form_section
+     type: form_section
     title: Inline Form
     title_align: center
     content: Subscribe to our newsletter to make sure you don't miss anything.
@@ -34,10 +32,10 @@ sections:
         default_value: Your email address
         is_required: true
     submit_label: Subscribe
-    padding_top: large
-    padding_bottom: large
+    padding_top: medium
+    padding_bottom: medium
     has_border: true
-    background_color: primary
+    background_color: secondary
     
   - type: features_section
     title: Är du en lokal företagare?
