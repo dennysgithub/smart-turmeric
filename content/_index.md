@@ -82,7 +82,7 @@ sections:
         media_position: left
         media_width: fifty
       - type: feature
-        title: Är du responsiv?
+        title: Små skärmar.. många kunder
         subtitle: >-
           Majoriteten av all trafik kommer från mobiler idag. Och trenden
           fortsätter..
