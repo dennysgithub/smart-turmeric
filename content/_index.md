@@ -80,7 +80,7 @@ sections:
             icon: arrow-right
             icon_position: right
         image: /images/avvisningsfrekvens.jpg
-        image_alt: Feature 2 placeholder image
+        image_alt: avvisningsfrekvens-seometoden
         media_position: left
         media_width: fifty
       - type: feature
