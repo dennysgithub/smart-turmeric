@@ -20,7 +20,7 @@ sections:
     form_id: mejl-cta
     form_action: tack
     form_fields:
-      - input_type: email
+      - input_type: text
         name: epost-adress
         label: Epostadress
         default_value: Din mejl
