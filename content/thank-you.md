@@ -1,5 +1,5 @@
 ---
-title: Thank You
+title: Tack
 sections:
   - type: hero_section
     title: Snyggt jobbat!
