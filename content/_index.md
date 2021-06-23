@@ -106,9 +106,7 @@ sections:
         image_alt: responsiv-design-seometoden
         media_position: right
         media_width: fifty
-        image: >-
-          /images/Screenshot 2021-06-22 at 10-18-13 Vi Målar - Din målare i
-          Stockholm Ett måleri att lita på_ipad_silver_landscape.png
+        image: /images/responsiv-design-seometoden.png
     feature_padding_vert: large
     align: center
     background_color: secondary
