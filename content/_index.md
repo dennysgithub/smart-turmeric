@@ -194,7 +194,7 @@ sections:
         image_has_padding: true
         type: grid_item
         image: /images/classic/icon-1.svg
-      - title: Lokal
+      - title: Webbdesign
         title_align: left
         content: >+
           Ac felis donec et odio 
