@@ -173,7 +173,7 @@ sections:
     subtitle: Grid Section Example
     actions: []
     grid_items:
-      - title: Section Item 1
+      - title: Google Maps SEO
         title_align: left
         content: >+
           Lorem ipsum dolor sit amet, 
