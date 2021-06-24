@@ -42,7 +42,7 @@ sections:
     subtitle: Här börjar din resa till fler kunder.
     features:
       - type: feature
-        title: Google Maps är din skattkista.. heliga graal..vägen.
+        title: Google Maps är din snabbaste väg till fler kunder idag.
         subtitle: Eller är det konkurrenterna som roffar åt sig kunderna här?
         content: |
           *   56% klickar på tre första
