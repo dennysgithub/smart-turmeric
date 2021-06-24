@@ -135,7 +135,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - title: Cards Grid Section
-    subtitle: lorem-ipsum
+    subtitle: Grid Section Example
     actions: []
     grid_items: []
     grid_cols: three
