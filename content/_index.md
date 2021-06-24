@@ -44,14 +44,18 @@ sections:
       - type: feature
         title: Google Maps är din snabbaste väg till fler kunder idag.
         subtitle: Finns du med i det lokala 3-packet?
-        content: |
+        content: >
           *   56% klickar på tre första
+
 
           *   90% gör detta och det där
 
+
           *   100% av kunderna går ut från hemsidan
 
-          se källa
+
+          Checka blogginlägget för källor och mer information varför Google Maps
+          är så viktigt för en lokal företagare.
         actions:
           - type: action
             label: Kolla nu
