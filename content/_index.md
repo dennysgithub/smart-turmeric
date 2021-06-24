@@ -10,8 +10,8 @@ sections:
 
 
       Jag är specialiserad på ranking i Google Maps och webbdesign. Lämna din
-      mejl för att inleda en diskussion så tar vi ta reda på om jag kan fixa
-      fler kunder till er. 
+      mejl för att inleda en diskussion så tar vi ta reda på om jag kan gräva
+      fram er och fixa fler kunder.
     content_align: left
     form_position: bottom
     form_width: fifty
