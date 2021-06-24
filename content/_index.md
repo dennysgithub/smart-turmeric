@@ -140,17 +140,14 @@ sections:
     grid_items:
       - title: Section Item 1
         title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: >+
+          Lorem ipsum dolor sit amet, 
 
+          consectetur adipiscing elit. Donec nisl ligula, cursus id molestie
+          vel, 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          maximus aliquet risus. Vivamus in nibh fringilla, fringilla.
 
-
-          - Lorem ipsum
-
-          - dolor sit amet
         content_align: left
         actions: []
         actions_align: left
