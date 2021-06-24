@@ -179,7 +179,10 @@ sections:
         image_has_padding: true
         type: grid_item
         image: /images/classic/icon-2.svg
-      - title: lorem-ipsum
+      - title: >-
+          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
+          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
+          euismod lacinia.
         subtitle: lorem-ipsum
         title_align: left
         content: >-
