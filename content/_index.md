@@ -43,7 +43,7 @@ sections:
     features:
       - type: feature
         title: Google Maps är din snabbaste väg till fler kunder idag.
-        subtitle: Eller är det konkurrenterna som roffar åt sig kunderna här?
+        subtitle: Finns du med i det lokala 3-packet?
         content: |
           *   56% klickar på tre första
 
