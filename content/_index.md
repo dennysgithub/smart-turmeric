@@ -134,7 +134,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-  - title: Cards Grid Section
+  - title: En enkel process
     subtitle: Grid Section Example
     actions: []
     grid_items:
