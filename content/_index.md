@@ -129,7 +129,7 @@ sections:
           - Lorem ipsum
 
           - dolor sit amet
-        content_align: left
+        content_align: center
         actions: []
         actions_align: left
         actions_width: auto
