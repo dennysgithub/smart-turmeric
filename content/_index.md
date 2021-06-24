@@ -82,7 +82,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: /images/svartskugga1.png
+        image: /images/15.png
         image_alt: avvisningsfrekvens-seometoden
         media_position: left
         media_width: fifty
