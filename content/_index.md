@@ -214,7 +214,7 @@ sections:
         image_has_padding: true
         type: grid_item
         image: /images/classic/icon-2.svg
-      - title: Section Item 3
+      - title: GM
         title_align: left
         content: >+
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
