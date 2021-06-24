@@ -109,7 +109,7 @@ sections:
         image: /images/responsiv-design-seometoden.png
     feature_padding_vert: large
     align: center
-    background_color: none
+    background_color: secondary
     padding_top: medium
   - type: cta_section
     title: “Varför ska ni välja en frilansare framför en etablerad webbyrå?”
