@@ -138,7 +138,7 @@ sections:
     subtitle: Grid Section Example
     actions: []
     grid_items:
-      - title: lorem-ipsum
+      - title: Grid Section Example
         subtitle: lorem-ipsum
         title_align: left
         content: >-
