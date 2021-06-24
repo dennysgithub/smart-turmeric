@@ -62,7 +62,7 @@ sections:
         image_alt: google-3-pack-seometoden
         media_position: right
         media_width: fourty
-        image: /images/skugga2.png
+        image: /images/skugga3.png
       - type: feature
         title: Är hemsidan full av fönstershoppare?
         content: >
