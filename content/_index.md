@@ -43,9 +43,14 @@ sections:
       - type: feature
         title: Google Maps är din skattkista.. heliga graal..vägen.
         subtitle: Eller är det konkurrenterna som roffar åt sig kunderna här?
-        content: >
-          Kolla på videon för att få reda på varför Googles 3-pack är så viktigt
-          att vara med i.
+        content: |
+          *   56% klickar på tre första
+
+          *   90% gör detta och det där
+
+          *   100% av kunderna går ut från hemsidan
+
+          se källa
         actions:
           - type: action
             label: Kolla nu
