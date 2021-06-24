@@ -176,7 +176,7 @@ sections:
         image_position: top
         image_width: twenty-five
         image_align: left
-        image_has_padding: false
+        image_has_padding: true
         type: grid_item
         image: /images/classic/icon-2.svg
     grid_cols: three
