@@ -180,7 +180,6 @@ sections:
         type: grid_item
         image: /images/classic/icon-2.svg
       - title: Section Item 3
-        subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum
