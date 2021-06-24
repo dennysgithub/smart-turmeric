@@ -75,7 +75,9 @@ sections:
           vill så klart att folk ska ringa, mejla, besöka er på plats.
 
 
-          Har du någon koll på hur många besökare som aldrig hör av sig? 
+          En hemsida som inte konverterar besökare till kunder kan bero på olika
+          saker. Designen av hemsidan kan fungera dåligt på mobila plattformar,
+          hemsidan kanske laddas långsamt, det kan vara dåliga knappar.
 
 
           Är ni osäkra så hjälper jag er lösa mysteriet!
