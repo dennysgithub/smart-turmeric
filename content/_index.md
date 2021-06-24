@@ -134,7 +134,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-  - title: lorem-ipsum
+  - title: Cards Grid Section
     subtitle: lorem-ipsum
     actions: []
     grid_items: []
