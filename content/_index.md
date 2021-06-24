@@ -211,6 +211,22 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
+  - type: cta_section
+    title: This is Call To Action Section In DIY Theme!
+    content: >-
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
+      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
+      fringilla, fringilla.
+    actions:
+      - type: action
+        label: Button
+        url: /pricing
+        style: primary
+    actions_position: bottom
+    align: center
+    padding_top: large
+    padding_bottom: large
+    background_color: secondary
   - type: blog_feed_section
     title: What's New
     subtitle: Blog Feed Section Example
@@ -233,22 +249,6 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: none
-  - type: cta_section
-    title: This is Call To Action Section In DIY Theme!
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
-    actions:
-      - type: action
-        label: Button
-        url: /pricing
-        style: primary
-    actions_position: bottom
-    align: center
-    padding_top: large
-    padding_bottom: large
-    background_color: secondary
 seo:
   type: stackbit_page_meta
   title: SEOmetoden | Är du redo för fler kunder från Google?
