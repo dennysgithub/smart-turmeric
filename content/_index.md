@@ -111,7 +111,7 @@ sections:
         image_alt: responsiv-design-seometoden
         media_position: right
         media_width: fifty
-        image: /images/responsiv-design-seometoden.png
+        image: /images/seometoden-responsiv-design.png
     feature_padding_vert: large
     align: center
     background_color: none
