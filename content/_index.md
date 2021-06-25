@@ -64,7 +64,7 @@ sections:
             has_icon: true
             icon: youtube
             icon_position: right
-        image_alt: google-3-pack-seometoden
+        image_alt: google-maps-3-pack-seometoden
         media_position: right
         media_width: fourty
         image: /images/google-maps-3-pack.png
