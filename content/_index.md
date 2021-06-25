@@ -177,7 +177,10 @@ sections:
     type: grid_section
   - features:
       - title: “Varför ska ni välja en frilansare framför en etablerad webbyrå?”
-        subtitle: Det kanske ni inte ska!
+        subtitle: >-
+          Det kanske ni inte ska! Jag kommer inte vara rätt för alla och det
+          viktiga är att jag faktiskt kan hjälpa er. Kan jag inte det så åtar
+          jag mig inte heller jobbet.
         actions: []
         image_alt: lorem-ipsum
         media_position: right
