@@ -101,7 +101,7 @@ sections:
     background_color: none
     padding_top: medium
   - actions:
-      - label: lorem-ipsum
+      - label: Learn More
         url: '#'
         style: link
         has_icon: true
