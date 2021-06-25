@@ -114,7 +114,7 @@ sections:
 
         content_align: left
         actions:
-          - label: Prata rank
+          - label: Prata ranking
             url: '#'
             style: primary
             has_icon: true
