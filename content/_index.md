@@ -100,16 +100,7 @@ sections:
     align: center
     background_color: none
     padding_top: medium
-  - actions:
-      - label: Learn More
-        url: /style-guide
-        style: link
-        has_icon: true
-        icon: arrow-right
-        icon_position: left
-        new_window: false
-        no_follow: false
-        type: action
+  - actions: []
     grid_items:
       - title: Google Maps SEO
         title_align: left
