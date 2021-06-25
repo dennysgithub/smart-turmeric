@@ -102,7 +102,7 @@ sections:
     padding_top: medium
   - actions:
       - label: Learn More
-        url: '#'
+        url: /style-guide
         style: link
         has_icon: true
         icon: arrow-left
