@@ -209,7 +209,6 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: features_section
-    subtitle: 'Brandon Guidelines, Sr. Design Manager at Company'
   - type: cta_section
     title: “Varför ska ni välja en frilansare framför en etablerad webbyrå?”
     content: |+
