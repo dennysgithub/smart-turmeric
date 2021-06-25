@@ -96,32 +96,6 @@ sections:
         image_alt: avvisningsfrekvens-seometoden
         media_position: left
         media_width: fifty
-      - type: feature
-        title: Små skärmar.. många kunder
-        subtitle: >-
-          Majoriteten av all trafik kommer från mobiler idag. Och trenden
-          fortsätter..
-        content: >
-          Handfaten på dagis är anpassade för småbarn, eller hur?
-
-
-          På samma vis måste hemsidor anpassas för olika slags skärmstorlekar
-
-
-          Ett bra första steg är att se vad Google säger, klicka på knappen
-          nedan och kör ett mobil-test.
-        actions:
-          - type: action
-            label: Kör testet
-            url: /style-guide
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-        image_alt: responsiv-design-seometoden
-        media_position: right
-        media_width: fifty
-        image: /images/seometoden-responsiv-design.png
     feature_padding_vert: large
     align: center
     background_color: none
