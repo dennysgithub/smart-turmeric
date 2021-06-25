@@ -131,7 +131,7 @@ sections:
         image_align: left
         image_has_padding: true
         type: grid_item
-        image: /images/classic/icon-3.svg
+        image: /images/162461883798438570.png
       - title: Webbdesign
         title_align: left
         content: >+
