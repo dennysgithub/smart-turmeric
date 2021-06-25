@@ -9,9 +9,9 @@ sections:
       ## Det bästa stället att gömma en död kropp på är sida 2 i Google.
 
 
-      Jag är specialiserad på ranking i Google Maps och webbdesign. Lämna din
-      mejl för att inleda en diskussion så tar vi ta reda på om jag kan gräva
-      fram er och fixa fler kunder.
+      Jag är specialiserad på ranking i Google Maps & Webbdesign. Lämna din mejl
+      för att inleda en diskussion så tar vi ta reda på om jag kan gräva fram er
+      och fixa fler kunder.
     content_align: left
     form_position: bottom
     form_width: fifty
