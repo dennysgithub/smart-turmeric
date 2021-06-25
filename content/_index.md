@@ -100,8 +100,7 @@ sections:
     align: center
     background_color: none
     padding_top: medium
-  - title: En enkel process
-    subtitle: Grid Section Example
+  - subtitle: Grid Section Example
     actions: []
     grid_items:
       - title: Google Maps SEO
