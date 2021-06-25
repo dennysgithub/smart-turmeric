@@ -9,7 +9,6 @@ params:
   header:
     type: header
     title: SEOmetoden
-    logo: /images/caring-onion.png
     logo_alt: seometoden-logo
     has_primary_nav: true
     primary_nav_links:
