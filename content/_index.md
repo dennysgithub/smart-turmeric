@@ -145,7 +145,7 @@ sections:
         actions:
           - label: Prata webbdesign
             url: '#'
-            style: secondary
+            style: primary
             has_icon: true
             icon: arrow-right
             icon_position: right
