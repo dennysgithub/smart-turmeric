@@ -114,7 +114,7 @@ sections:
 
         content_align: left
         actions:
-          - label: Börja ranka
+          - label: 'Prata '
             url: '#'
             style: primary
             has_icon: true
