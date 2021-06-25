@@ -131,7 +131,7 @@ sections:
         image_align: left
         image_has_padding: true
         type: grid_item
-        image: /images/smiling-crane.png
+        image: /images/google-maps-seo-icon.png
       - title: Webbdesign
         title_align: left
         content: >+
