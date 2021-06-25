@@ -8,7 +8,6 @@ params:
   base_font: serif
   header:
     type: header
-    title: SEOmetoden
     logo_alt: seometoden-logo
     has_primary_nav: true
     primary_nav_links:
