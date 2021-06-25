@@ -113,7 +113,7 @@ params:
         icon: vimeo
         icon_position: center
         new_window: true
-    content: '&copy; SEOmetoden'
+    content: 2021 &copy; SEOmetoden
   domain: 'https://seometoden.se'
   favicon: /images/incredible-turmeric.png
 taxonomies:
