@@ -177,7 +177,7 @@ sections:
     type: grid_section
   - features:
       - title: “Varför ska ni välja en frilansare framför en etablerad webbyrå?”
-        subtitle: 'Brandon Guidelines, Sr. Design Manager at Company'
+        subtitle: Det kanske ni inte ska!
         actions: []
         image_alt: lorem-ipsum
         media_position: right
