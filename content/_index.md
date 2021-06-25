@@ -100,8 +100,7 @@ sections:
     align: center
     background_color: none
     padding_top: medium
-  - subtitle: Grid Section Example
-    actions: []
+  - actions: []
     grid_items:
       - title: Google Maps SEO
         title_align: left
