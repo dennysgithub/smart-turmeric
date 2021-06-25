@@ -126,29 +126,6 @@ sections:
     align: center
     background_color: none
     padding_top: medium
-  - type: cta_section
-    title: “Varför ska ni välja en frilansare framför en etablerad webbyrå?”
-    content: |+
-      Det kanske ni inte ska! Jag kommer inte vara rätt för alla och det enda 
-      sättet vi får reda på om vi passar är om ni berättar mer om er 
-      situation.
-
-    actions:
-      - label: Mejla en fråga
-        url: '#'
-        style: secondary
-        has_icon: false
-        icon: arrow-left
-        icon_position: right
-        new_window: false
-        no_follow: false
-        type: action
-    actions_position: right
-    actions_width: fourty
-    align: left
-    padding_top: large
-    padding_bottom: large
-    background_color: primary
   - title: En enkel process
     subtitle: Grid Section Example
     actions: []
@@ -226,6 +203,29 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
+  - type: cta_section
+    title: “Varför ska ni välja en frilansare framför en etablerad webbyrå?”
+    content: |+
+      Det kanske ni inte ska! Jag kommer inte vara rätt för alla och det enda 
+      sättet vi får reda på om vi passar är om ni berättar mer om er 
+      situation.
+
+    actions:
+      - label: Mejla en fråga
+        url: '#'
+        style: secondary
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
+        type: action
+    actions_position: right
+    actions_width: fourty
+    align: left
+    padding_top: large
+    padding_bottom: large
+    background_color: primary
   - type: cta_section
     title: This is Call To Action Section In DIY Theme!
     content: >-
