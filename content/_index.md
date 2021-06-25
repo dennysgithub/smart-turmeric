@@ -67,7 +67,7 @@ sections:
         image_alt: google-3-pack-seometoden
         media_position: right
         media_width: fourty
-        image: /images/seometoden-google-3-pack.png
+        image: /images/dwedwedwedw.png
       - type: feature
         title: Är hemsidan full av fönstershoppare?
         content: >
