@@ -92,7 +92,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: /images/melodic-octopus.png
+        image: /images/dwedwedwed.png
         image_alt: avvisningsfrekvens-seometoden
         media_position: left
         media_width: fifty
