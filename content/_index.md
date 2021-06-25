@@ -145,24 +145,6 @@ sections:
         image_has_padding: true
         type: grid_item
         image: /images/classic/icon-2.svg
-      - title: GMB Coaching
-        title_align: left
-        content: >+
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
-
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: twenty-five
-        image_align: left
-        image_has_padding: true
-        type: grid_item
-        image: /images/classic/icon-3.svg
     grid_cols: two
     grid_gap_vert: small
     grid_gap_horiz: medium
