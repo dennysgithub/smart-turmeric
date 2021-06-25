@@ -176,7 +176,9 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
   - features:
-      - title: lorem-ipsum
+      - title: >-
+          “Stackbit is fast! Themes are always up to date. It’s easy to use
+          across the organization, and collaboration is easy.”
         subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
