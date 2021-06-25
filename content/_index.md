@@ -131,7 +131,7 @@ sections:
         image_align: left
         image_has_padding: true
         type: grid_item
-        image: /images/tewdwe.png
+        image: /images/smiling-crane.png
       - title: Webbdesign
         title_align: left
         content: >+
