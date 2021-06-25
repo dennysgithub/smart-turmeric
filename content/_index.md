@@ -212,6 +212,7 @@ sections:
     title: >-
       “Stackbit is fast! Themes are always up to date. It’s easy to use across
       the organization, and collaboration is easy.”
+    subtitle: 'Brandon Guidelines, Sr. Design Manager at Company'
   - type: cta_section
     title: “Varför ska ni välja en frilansare framför en etablerad webbyrå?”
     content: |+
