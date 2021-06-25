@@ -187,7 +187,7 @@ sections:
         media_width: thirty-three
         align: left
         type: feature
-        image: /images/brandon-guidelines.png
+        image: /images/hero.png
     feature_padding_vert: medium
     align: center
     padding_top: medium
