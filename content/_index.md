@@ -114,7 +114,7 @@ sections:
 
         content_align: left
         actions:
-          - label: lorem-ipsum
+          - label: Börja ranka
             url: '#'
             style: link
             has_icon: false
