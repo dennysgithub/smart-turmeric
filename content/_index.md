@@ -100,7 +100,16 @@ sections:
     align: center
     background_color: none
     padding_top: medium
-  - actions: []
+  - actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
+        type: action
     grid_items:
       - title: Google Maps SEO
         title_align: left
