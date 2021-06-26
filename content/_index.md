@@ -214,7 +214,7 @@ sections:
     align: center
     padding_top: large
     padding_bottom: large
-    background_color: secondary
+    background_color: primary
   - type: blog_feed_section
     title: What's New
     subtitle: Blog Feed Section Example
