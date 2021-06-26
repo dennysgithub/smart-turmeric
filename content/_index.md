@@ -10,8 +10,8 @@ sections:
 
 
       **Jag är specialiserad på Google Maps SEO & Webbdesign**. Hämta hem en
-      **gratis **mall för att ta reda på **varför dina konkurrenter rankar högre
-      än er i Google Maps.**
+      gratis mall för att ta reda på **varför dina konkurrenter rankar högre än
+      er i Google Maps.**
     content_align: left
     form_position: bottom
     form_width: fifty
