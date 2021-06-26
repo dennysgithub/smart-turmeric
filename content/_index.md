@@ -9,9 +9,9 @@ sections:
       ## Det bästa stället att gömma en död kropp på är sida 2 i Google.
 
 
-      Jag är specialiserad på Google Maps SEO & Webbdesign. Lämna din mejl för
-      att inleda en diskussion så tar vi ta reda på om jag kan gräva fram er och
-      fixa fler kunder.
+      Jag är specialiserad på Google Maps SEO & Webbdesign. Hämta hem en gratis
+      mall för att ta reda på varför dina konkurrenter rankar högre än er i
+      Google Maps.
     content_align: left
     form_position: bottom
     form_width: fifty
