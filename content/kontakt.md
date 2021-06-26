@@ -71,6 +71,7 @@ sections:
     padding_top: medium
     padding_bottom: medium
     background_color: primary
+    title: wedwdwde
 seo:
   type: stackbit_page_meta
   title: Kontakt
