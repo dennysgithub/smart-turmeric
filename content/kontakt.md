@@ -14,9 +14,8 @@ sections:
       Google.**&#xA;
 
 
-      ### Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+      ### Varför rankar konkurrenterna högre? Begär en gratis analys om varför
+      ni rankar som ni gör och vad konkurrenterna gör bättre än er.
 
 
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
