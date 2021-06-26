@@ -71,6 +71,7 @@ sections:
     padding_top: medium
     padding_bottom: medium
     background_color: primary
+    background_image: /images/dianne-ameter.jpg
 seo:
   type: stackbit_page_meta
   title: Kontakt
