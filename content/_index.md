@@ -37,7 +37,6 @@ sections:
     background_image_repeat: no-repeat
     type: form_section
     background_image: /images/dianne-ameter.jpg
-    form_action: /tack2
   - type: features_section
     title: Är du en lokal företagare?
     subtitle: Här börjar din resa till fler kunder.
