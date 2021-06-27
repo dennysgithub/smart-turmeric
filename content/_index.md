@@ -26,7 +26,7 @@ sections:
         is_required: true
         type: form_field
       - input_type: text
-        name: m
+        name: email
         default_value: Webbplats URL
         options: []
         is_required: false
