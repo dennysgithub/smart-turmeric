@@ -11,7 +11,7 @@ sections:
     grid_items:
       - type: grid_item
         title: GMB Optimering
-        subtitle: Optional subtitle
+        subtitle: Ge GMB profilen en power boost.
         title_align: left
         content: |
           ***
