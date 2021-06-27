@@ -35,7 +35,7 @@ sections:
     form_layout: inline
     enable_card: true
     form_id: contact-form
-    form_action: /tack-fo
+    form_action: /tack-for-ditt-meddelande
     form_fields:
       - type: form_field
         input_type: text
