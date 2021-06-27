@@ -10,7 +10,7 @@ sections:
 
 
       Dina konkurrenter använder sig inte av svart magi. Missa inte chansen att
-      få en** gratis **Google My Business ranking analys av er profil + era
+      få en gratis Google My Business ranking analys av er profil + era
       konkurrenters.
     content_align: left
     form_position: bottom
