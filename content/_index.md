@@ -16,7 +16,7 @@ sections:
     form_position: right
     form_width: fifty
     form_layout: inline
-    enable_card: false
+    enable_card: true
     form_id: subscribeForm
     form_fields:
       - input_type: email
