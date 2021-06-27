@@ -7,9 +7,10 @@ sections:
 
 
       Missa inte chansen att få en färgglatt illustrerande analys av er Google
-      My Business ranking + era konkurrenter, \*\*Helt gratis! \*\*Missa inte
-      chansen att få en färgglatt illustrerande analys av er Google My Business
-      ranking + era konkurrenter, **Helt gratis!**
+      My Business ranking + era konkurrenter. **Helt gratis!**
+
+
+      Blöder ni kunder utan att veta om det? Få koll på hur det ligger till.
     content_align: left
     form_position: right
     form_width: fifty
