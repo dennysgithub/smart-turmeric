@@ -75,6 +75,7 @@
 				{{ partial "markdownify-block" $section.content }}
 			</div>
 			{{ end }}
+            <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfgUbKiPvg2aofqBPHSbUXUk17aSinK8FpI8OPV1TrM79xYcw/viewform?embedded=true" width="640" height="410" frameborder="0" marginheight="0" marginwidth="0">Läser in …</iframe>
 			<div class="section__form my-2 cell-12{{ if and (and $is_horiz $has_text) (eq $form_width "fourty") }} cell-md-5{{ end }}{{ if and (and $is_horiz $has_text) (eq $form_width "fifty") }} cell-md-6{{ end }}{{ if and (and $is_horiz $has_text) (eq $form_width "sixty") }} cell-md-7{{ end }}{{ if or (eq $form_pos "top") (eq $form_pos "left") }} order-first{{ end }}">
 				<form name="{{ $section.form_id }}" id="{{ $section.form_id }}"{{ if $section.form_action }} action="{{ $section.form_action }}"{{ end }} method="POST" data-netlify="true" data-netlify-honeypot="{{ $section.form_id }}-bot-field" class="{{ if $form_is_inline }}form-inline{{ end }}{{ if $form_is_card }} card{{ end }}{{ if $form_is_card }} p-4{{ end }}{{ if $form_is_card }} p-sm-5{{ end }}">
 					<div class="sr-only">
