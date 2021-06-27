@@ -14,8 +14,8 @@ sections:
       Google.**&#xA;
 
 
-      ### Varför rankar konkurrenterna högre? Begär en gratis analys om varför
-      ni rankar som ni gör och vad konkurrenterna gör bättre än er.
+      ### Missa inte chansen att få en gratis ranking analys av er Google My
+      Business + era konkurrenters.
 
 
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
