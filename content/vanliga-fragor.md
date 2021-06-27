@@ -16,9 +16,9 @@ sections:
         content: |
           ***
 
-          ### $9
+          ### 5387 SEK
 
-          per month, billed yearly
+          fast kostnad
 
           *   **Et semper leo mattis orci conubia congue**
           *   **Quisque eleifend imperdiet tortor**
