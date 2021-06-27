@@ -13,7 +13,7 @@ sections:
       få en gratis Google My Business ranking analys av er profil + era
       konkurrenters.
     content_align: left
-    form_position: right
+    form_position: bottom
     form_width: fifty
     form_layout: inline
     enable_card: true
