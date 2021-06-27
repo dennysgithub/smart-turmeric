@@ -10,7 +10,7 @@ sections:
   - type: grid_section
     grid_items:
       - type: grid_item
-        title: Personal
+        title: GMB Optimering
         subtitle: Optional subtitle
         title_align: left
         content: |
