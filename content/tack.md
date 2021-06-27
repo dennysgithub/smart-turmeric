@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: Snyggt jobbat!
     subtitle: >-
-      Kolla skräpposten och kli
+      Ibland hamnar mejlen i skräpposten!
     actions:
       - type: action
         label: Tillbaka till startsidan
