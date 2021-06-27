@@ -37,7 +37,7 @@ sections:
         options: []
         is_required: false
         type: form_field
-    submit_label: Börja gräv
+    submit_label: Analysera din GMB ranking
     align_vert: top
     padding_top: large
     padding_bottom: large
