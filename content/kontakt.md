@@ -1,13 +1,6 @@
 ---
 title: General enquiries
 sections:
-  - type: hero_section
-    title: This is the Hero
-    subtitle: The optional subtitle
-    align: center
-    padding_top: medium
-    padding_bottom: medium
-    background_color: none
   - type: form_section
     content: >+
       # Det bästa stället att gömma en död kropp på är **sida två i
