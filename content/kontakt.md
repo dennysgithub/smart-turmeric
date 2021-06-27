@@ -39,7 +39,7 @@ sections:
         is_required: true
     submit_label: Send Message
     align_vert: top
-    padding_top: medium
+    padding_top: large
     padding_bottom: medium
     background_color: primary
     background_image: /images/dianne-ameter.jpg
