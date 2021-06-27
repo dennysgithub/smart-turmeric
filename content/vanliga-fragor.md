@@ -37,7 +37,7 @@ sections:
         actions_width: full-width
       - type: grid_item
         title: GMB Optimering Extra
-        subtitle: Optional subtitle
+        subtitle: Power boost + underhåll
         title_align: left
         content: |-
           ---
