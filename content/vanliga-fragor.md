@@ -36,7 +36,7 @@ sections:
         actions_align: left
         actions_width: full-width
       - type: grid_item
-        title: Premium
+        title: GMB Optimering Extra
         subtitle: Optional subtitle
         title_align: left
         content: |-
