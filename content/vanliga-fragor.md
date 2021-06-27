@@ -61,7 +61,7 @@ sections:
         actions_width: full-width
       - type: grid_item
         title: Webbdesign
-        subtitle: Optional subtitle
+        subtitle: 'Wordpress, statisk hemsida'
         title_align: left
         content: |-
           ---
