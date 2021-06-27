@@ -11,7 +11,7 @@ sections:
 
       Dina konkurrenter använder sig inte av svart magi. Börja med att hämta hem
       en gratis mall för att ta reda på **varför konkurrenterna rankar högre än
-      er i Google Maps.**
+      er i [Google Maps]().**
     content_align: left
     form_position: bottom
     form_width: fifty
