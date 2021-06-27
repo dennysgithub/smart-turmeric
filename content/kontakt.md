@@ -40,7 +40,7 @@ sections:
     submit_label: Send Message
     align_vert: top
     padding_top: large
-    padding_bottom: medium
+    padding_bottom: large
     background_color: primary
     background_image: /images/dianne-ameter.jpg
     background_image_opacity: 20
