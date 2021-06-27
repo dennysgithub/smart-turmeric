@@ -160,7 +160,7 @@ sections:
         image_align: left
         image_has_padding: true
         type: grid_item
-        image: /images/webbdesign-seometoden.svg
+        image: /images/wordpress-webbdesign.png
     grid_cols: two
     grid_gap_vert: small
     grid_gap_horiz: medium
