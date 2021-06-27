@@ -21,7 +21,7 @@ sections:
     form_fields:
       - input_type: email
         name: webbplats
-        default_value: Ditt namn
+        default_value: Webbplats URL
         options: []
         is_required: true
         type: form_field
