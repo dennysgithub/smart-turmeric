@@ -9,7 +9,7 @@ sections:
     padding_bottom: medium
     background_color: none
   - type: form_section
-    content: >
+    content: >+
       # Det bästa stället att gömma en död kropp på är **sida två i
       Google.**&#xA;
 
@@ -17,18 +17,6 @@ sections:
       ### Missa inte chansen att få en gratis ranking analys av er Google My
       Business + era konkurrenters.
 
-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
-
-
-      ### Privacy
-
-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
     content_align: left
     form_position: right
     form_width: fifty
