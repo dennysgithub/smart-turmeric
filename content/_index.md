@@ -10,7 +10,8 @@ sections:
       My Business ranking + era konkurrenter. **Helt gratis!**
 
 
-      Osäker på vad GMB är eller varför du ska bry dig? [Börja här.](#google-maps)
+      Osäker på vad GMB är eller varför du ska bry dig? [Börja
+      här.](#google-maps)
     content_align: left
     form_position: right
     form_width: fifty
@@ -47,7 +48,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: form_section
-    background_image: /images/dianne-ameter.jpg
+    background_image: /images/local-rank-tracking-for-google-maps.jpg
     form_action: /tack
   - type: features_section
     title: Är du en lokal företagare?
