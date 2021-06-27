@@ -35,7 +35,7 @@ sections:
         input_type: email
         name: email
         label: Webbplats
-        default_value: Your email address
+        default_value: Webbplats URL
         is_required: true
       - type: form_field
         input_type: checkbox
