@@ -39,18 +39,18 @@ sections:
         title: GMB Optimering Extra
         subtitle: Power boost + underhåll
         title_align: left
-        content: |-
-          ---
+        content: |
+          ***
 
-          ### $19
+          ### 5387 SEK + 1874 SEK
 
-          per month, billed yearly
+          fast kostnad + månatlig
 
-          * Et semper leo mattis orci conubia congue
-          * Quisque eleifend imperdiet tortor
-          * Elementum eu rhoncus, volutpat
-          * Fringilla diam magnis libero lacinia
-          * Litora primis facilisis ullamcorper per
+          *   Et semper leo mattis orci conubia congue
+          *   Quisque eleifend imperdiet tortor
+          *   Elementum eu rhoncus, volutpat
+          *   Fringilla diam magnis libero lacinia
+          *   Litora primis facilisis ullamcorper per
         content_align: left
         actions:
           - type: action
