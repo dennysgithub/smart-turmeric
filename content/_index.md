@@ -3,9 +3,6 @@ title: Hem
 sections:
   - title_align: left
     content: >
-      ##
-
-
       ## Det bästa stället att gömma en död kropp på är sida 2 i Google.
 
 
