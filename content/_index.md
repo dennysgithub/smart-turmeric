@@ -176,7 +176,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
-    title: Jag är specialiserad på Google Maps  & Webbdesign.
+    title: Jag är specialiserad på Google Maps Ranking & Webbdesign.
   - features:
       - title: “Varför ska ni välja en frilansare framför en etablerad webbyrå?”
         subtitle: >-
