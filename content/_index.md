@@ -40,7 +40,7 @@ sections:
     form_action: /tack
   - type: features_section
     title: Är du en lokal företagare?
-    subtitle: _Här börjar din resa till fler kunder._
+    subtitle: <em>Här börjar din resa till fler kunder.</em>
     features:
       - type: feature
         title: Google Maps är din snabbaste väg till fler kunder idag.
