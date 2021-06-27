@@ -2,15 +2,16 @@
 title: Hem
 sections:
   - title_align: left
-    content: >
+    content: >+
       ## Det bästa stället att gömma en död kropp på är sida 2 i Google.
+
+
+      Blöder ni kunder utan att veta om det? Få koll på saken utan ansträngning.
 
 
       Missa inte chansen att få en färgglatt illustrerande analys av er Google
       My Business ranking + era konkurrenter. **Helt gratis!**
 
-
-      Blöder ni kunder utan att veta om det? Få koll på hur det ligger till.
     content_align: left
     form_position: right
     form_width: fifty
