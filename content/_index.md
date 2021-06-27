@@ -9,9 +9,9 @@ sections:
       ## Det bästa stället att gömma en död kropp på är sida 2 i Google.
 
 
-      Dina konkurrenter använder sig inte av svart magi. Börja med att hämta hem
-      en gratis mall för att ta reda på **varför konkurrenterna rankar högre än
-      er i [Google Maps](#google-maps).**
+      Dina konkurrenter använder sig inte av svart magi. Missa inte chansen att
+      få en** gratis **Google My Business ranking analys av er profil + era
+      konkurrenters.
     content_align: left
     form_position: bottom
     form_width: fifty
