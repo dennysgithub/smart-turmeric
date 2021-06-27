@@ -27,7 +27,7 @@ sections:
         type: form_field
       - input_type: text
         name: email
-        default_value: Webbplats URL
+        default_value: Din mejl
         options: []
         is_required: false
         type: form_field
