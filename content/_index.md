@@ -32,7 +32,7 @@ sections:
         is_required: false
         type: form_field
       - input_type: text
-        name: lorem-ipsum
+        name: namn
         default_value: Din mejl
         options: []
         is_required: false
