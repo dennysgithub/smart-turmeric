@@ -63,18 +63,18 @@ sections:
         title: Webbdesign
         subtitle: 'Wordpress, statisk hemsida'
         title_align: left
-        content: |-
-          ---
+        content: |
+          ***
 
-          ### $39
+          ### 9680 SEK
 
-          per month, billed yearly
+          startar från
 
-          * Et semper leo mattis orci conubia congue
-          * Quisque eleifend imperdiet tortor
-          * Elementum eu rhoncus, volutpat
-          * Nisi cubilia interdum ultricies
-          * Feugiat porta tortor
+          *   Et semper leo mattis orci conubia congue
+          *   Quisque eleifend imperdiet tortor
+          *   Elementum eu rhoncus, volutpat
+          *   Nisi cubilia interdum ultricies
+          *   Feugiat porta tortor
         content_align: left
         actions:
           - type: action
