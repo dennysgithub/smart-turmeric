@@ -10,7 +10,7 @@ sections:
       My Business ranking + era konkurrenter. **Helt gratis!**
 
 
-      Osäker på vad GMB är eller om du behöver bry dig? [Börja här.](google.se)
+      Osäker på vad GMB är eller varför du ska bry dig? [Börja här.](google.se)
 
 
       ***
