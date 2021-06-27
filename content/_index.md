@@ -48,7 +48,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: form_section
-    background_image: /images/local-rank-tracking-for-google-maps.jpg
+    background_image: /images/dianne-ameter.jpg
     form_action: /tack
   - type: features_section
     title: Är du en lokal företagare?
