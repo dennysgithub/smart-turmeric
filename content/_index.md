@@ -132,7 +132,7 @@ sections:
         image_has_padding: true
         type: grid_item
         image: /images/google-maps-seo-icon.png
-      - title: Webbdesign
+      - title: Wordpress
         title_align: left
         content: >+
           Ac felis donec et odio 
