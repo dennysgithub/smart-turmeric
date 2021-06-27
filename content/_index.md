@@ -11,9 +11,6 @@ sections:
 
 
       Osäker på vad GMB är eller varför du ska bry dig? [Börja här.](google.se)
-
-
-      ***
     content_align: left
     form_position: right
     form_width: fifty
