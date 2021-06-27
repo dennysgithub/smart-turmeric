@@ -26,7 +26,7 @@ sections:
           *   ~~Nisi cubilia interdum ultricies~~
           *   ~~Nisi cubilia interdum ultricies~~
           *   ~~Nisi cubilia interdum ultricies~~
-          *   Nisi cubilia interdum ultricies~~
+          ~~*   Nisi cubilia interdum ultricies~~
         content_align: left
         actions:
           - type: action
