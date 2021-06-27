@@ -21,7 +21,7 @@ sections:
     form_fields:
       - input_type: email
         name: email
-        default_value: Din mejl
+        default_value: Ditt namn
         options: []
         is_required: true
         type: form_field
