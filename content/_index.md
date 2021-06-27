@@ -20,7 +20,7 @@ sections:
     form_id: subscribeForm
     form_fields:
       - input_type: email
-        name: email
+        name: webbplats
         default_value: Ditt namn
         options: []
         is_required: true
