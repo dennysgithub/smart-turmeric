@@ -27,7 +27,7 @@ sections:
         type: form_field
       - input_type: text
         name: lorem-ipsum
-        default_value: lorem-ipsum
+        default_value: Webbplats URL
         options: []
         is_required: false
         type: form_field
