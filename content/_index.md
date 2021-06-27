@@ -12,7 +12,7 @@ sections:
       Missa inte chansen att få en färgglad illustration & analys av er Google
       My Business ranking + era konkurrenter. **Helt gratis!**
     content_align: left
-    form_position: bottom
+    form_position: right
     form_width: fifty
     form_layout: inline
     enable_card: true
