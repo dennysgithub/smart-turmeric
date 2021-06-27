@@ -2,7 +2,7 @@
 title: Tack
 sections:
   - type: hero_section
-    title: Testar
+    title: Tack för ditt meddelande
     subtitle: >-
       Jag återkommer så snart jag kan.
     actions:
