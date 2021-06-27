@@ -33,7 +33,7 @@ sections:
         type: form_field
       - input_type: text
         name: namn
-        default_value: Din mejl
+        default_value: Ditt namn
         options: []
         is_required: false
         type: form_field
