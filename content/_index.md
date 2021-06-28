@@ -121,7 +121,7 @@ sections:
           eiusmod tempor incididunt ut.
         content_align: left
         actions:
-          - label: GMB SEO
+          - label: gmb seo
             url: '#'
             style: link
             has_icon: true
