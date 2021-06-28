@@ -189,6 +189,7 @@ sections:
         image_has_padding: true
         type: grid_item
         image: /images/classic/icon-3.svg
+        title: Lokal SEO
     grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: medium
