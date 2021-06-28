@@ -191,7 +191,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: /images/bubbles-1985153_640.png
-    grid_cols: two
+    grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: medium
     enable_cards: true
