@@ -141,7 +141,7 @@ sections:
         image_align: left
         image_has_padding: true
         type: grid_item
-        image: /images/n06UtXw7-rt-right.webp
+        image: /images/google-maps-seo-icon.png
       - title_align: left
         content: >
           ### Webbdesign 
