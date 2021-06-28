@@ -1,3 +1,4 @@
+enableEmoji: true
 stackbitVersion: ~0.3.0
 ssgName: hugo
 ssgVersion: 0.80.0
