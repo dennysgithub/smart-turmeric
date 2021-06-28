@@ -142,7 +142,7 @@ sections:
         actions:
           - label: Webbdesign
             url: '#'
-            style: primary
+            style: link
             has_icon: false
             icon: arrow-left
             icon_position: right
