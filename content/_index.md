@@ -153,7 +153,7 @@ sections:
         image: /images/bubbles-1985153_640.png
       - title_align: left
         content: >
-          ## Lorem ipsum
+          ### Lorem ipsum
 
 
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
