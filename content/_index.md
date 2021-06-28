@@ -145,8 +145,7 @@ sections:
         image_has_padding: true
         type: grid_item
         image: /images/google-maps-seo-icon.png
-      - title: lorem-ipsum
-        subtitle: lorem-ipsum
+      - subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum
