@@ -25,7 +25,7 @@ params:
         label: Prata med Dennis idag
         url: /kontakt
         style: primary
-    has_anncmnt: true
+    has_anncmnt: false
     anncmnt_content: >
       Den här webbplatsen använder kakor för att förbättra din upplevelse.
       [**Läs mer**](www.google.com).
