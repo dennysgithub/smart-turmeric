@@ -196,31 +196,6 @@ sections:
         image_has_padding: false
         type: grid_item
         image: /images/B5441374-E3D9-4644-9FD1-21566E6EF40F-760x400.jpeg
-      - title: lorem-ipsum
-        subtitle: lorem-ipsum
-        title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
-        image: /images/google-maps-seo-icon.png
     grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: medium
