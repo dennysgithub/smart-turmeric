@@ -115,36 +115,6 @@ sections:
     padding_top: medium
   - actions: []
     grid_items:
-      - title: Google Maps SEO
-        title_align: left
-        content: >+
-          Lorem ipsum dolor sit amet, 
-
-          consectetur adipiscing elit. Donec nisl ligula, cursus id molestie
-          vel, 
-
-          maximus aliquet risus. Vivamus in nibh fringilla, fringilla.
-
-        content_align: left
-        actions:
-          - label: Prata ranking
-            url: '#'
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-            new_window: false
-            no_follow: false
-            type: action
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: twenty-five
-        image_align: left
-        image_has_padding: true
-        type: grid_item
-        image: /images/google-maps-seo-icon.png
       - title_align: left
         content: >-
           ## Lorem ipsum
