@@ -139,7 +139,7 @@ sections:
         image_position: top
         image_width: twenty-five
         image_align: left
-        image_has_padding: true
+        image_has_padding: false
         type: grid_item
         image: /images/n06UtXw7-rt-right.webp
       - title_align: left
