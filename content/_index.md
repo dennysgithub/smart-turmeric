@@ -135,7 +135,7 @@ sections:
         image: /images/wordpress-1084758_640.jpg
       - title_align: left
         content: >
-          ## Lorem ipsum
+          ### Lorem ipsum
 
 
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
