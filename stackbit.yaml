@@ -26,7 +26,6 @@ logicFields:
 models:
   config:
     type: config
-    enableEmoji: true
     label: Site configuration
     fields:
       - type: string
