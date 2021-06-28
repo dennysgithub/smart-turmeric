@@ -45,7 +45,7 @@ sections:
     background_image_opacity: 20
 seo:
   type: stackbit_page_meta
-  title: Kontakt
+  title: SEOmetoden | Kontakt
   description: >-
     Hör av dig för att se hur jag på seodennis.se kan hjälpa dig förbättra ditt
     kundflöde. 
