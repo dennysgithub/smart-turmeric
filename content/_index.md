@@ -117,7 +117,7 @@ sections:
     grid_items:
       - title_align: left
         content: >
-          ### Lorem ipsum
+          ### Google My Business Ranking
 
 
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
