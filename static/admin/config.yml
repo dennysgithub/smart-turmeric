@@ -1,4 +1,3 @@
-enableEmoji: true
 backend:
   name: git-gateway
   branch: preview
