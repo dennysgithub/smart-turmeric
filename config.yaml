@@ -113,8 +113,7 @@ params:
     content: '&copy; 2021  SEOmetoden'
   domain: 'https://seometoden.se'
   favicon: /images/incredible-turmeric.png
-  
-taxonomies:
+  taxonomies:
   stub: stub
 disableKinds:
   - RSS
@@ -123,4 +122,4 @@ disableKinds:
 markup:
   goldmark:
     renderer:
-      unsafe: true    
+    unsafe: true
