@@ -157,7 +157,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: /images/website-1624028_640.png
+        image: /images/wordpress-webbdesign.png
       - title_align: left
         content: >
           ### Lokal SEO
