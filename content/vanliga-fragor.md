@@ -20,13 +20,7 @@ sections:
 
           fast kostnad
 
-             Et semper leo mattis orci conubia congue
-             Quisque eleifend imperdiet tortor
-             Elementum eu rhoncus, volutpat
-             Nisi cubilia interdum ultricies
-             Nisi cubilia interdum ultricies
-             Nisi cubilia interdum ultricies
-             Nisi cubilia interdum ultricies
+             Et semper leo mattis orci conubia 
         content_align: left
         actions:
           - type: action
