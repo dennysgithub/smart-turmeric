@@ -120,16 +120,7 @@ sections:
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
           eiusmod tempor incididunt ut.
         content_align: left
-        actions:
-          - label: gmb seo
-            url: '#'
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-            new_window: false
-            no_follow: false
-            type: action
+        actions: []
         actions_align: left
         actions_width: auto
         image_alt: lorem-ipsum
