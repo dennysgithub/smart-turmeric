@@ -191,35 +191,6 @@ sections:
         image_has_padding: false
         type: grid_item
         image: /images/bubbles-1985153_640.png
-      - title: Wordpress
-        title_align: left
-        content: >+
-          Ac felis donec et odio 
-
-          pellentesque. Sagittis vitae et leo duis ut diam quam nulla.
-          Ullamcorper
-           a lacus vestibulum sed arcu non odio euismod lacinia.
-
-        content_align: left
-        actions:
-          - label: Prata webbdesign
-            url: '#'
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-            new_window: false
-            no_follow: false
-            type: action
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: twenty-five
-        image_align: left
-        image_has_padding: true
-        type: grid_item
-        image: /images/energetic-avocado.jpg
     grid_cols: two
     grid_gap_vert: small
     grid_gap_horiz: medium
