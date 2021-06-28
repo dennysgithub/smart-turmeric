@@ -117,7 +117,7 @@ sections:
     grid_items:
       - title_align: left
         content: >
-          ### Google My Business Ranking
+          ### GMB Ranking
 
 
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
