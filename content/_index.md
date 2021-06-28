@@ -138,7 +138,7 @@ sections:
         image_align: left
         image_has_padding: true
         type: grid_item
-        image: /images/google-maps-2020-icon(1).svg
+        image: /images/google-maps-seo-icon.png
         title: Google My Business
       - title_align: left
         content: >
