@@ -11,7 +11,7 @@ sections:
 
 
       Osäker på vad GMB är eller varför du ska bry dig? [Börja
-      här.](#google-maps) 
+      här.](#google-maps) :white_check_mark:
     content_align: left
     form_position: right
     form_width: fourty
