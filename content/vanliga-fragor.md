@@ -22,7 +22,7 @@ sections:
 
           *   **Et semper leo mattis orci conubia congue**
           *   **Quisque eleifend imperdiet tortor**
-            - [x] Elementum eu rhoncus, volutpat
+            :heavy_check_mark: Elementum eu rhoncus, volutpat
           *   ~~Nisi cubilia interdum ultricies~~
           *   ~~Nisi cubilia interdum ultricies~~
           *   ~~Nisi cubilia interdum ultricies~~
