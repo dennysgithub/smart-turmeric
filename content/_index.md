@@ -144,7 +144,7 @@ sections:
         image: /images/n06UtXw7-rt-right.webp
       - title_align: left
         content: >
-          ### Lorem ipsum
+          ### Webbdesign 
 
 
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
