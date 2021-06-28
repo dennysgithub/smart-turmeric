@@ -123,3 +123,4 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+enableemoji: true
