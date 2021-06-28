@@ -132,7 +132,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: /images/wordpress-1084758_640.jpg
+        image: /images/n06UtXw7-rt-right.webp
       - title_align: left
         content: >
           ### Lorem ipsum
