@@ -131,7 +131,7 @@ sections:
     background_color: secondary
 seo:
   type: stackbit_page_meta
-  title: seodennis.se | Vanliga frågor
+  title: SEOmetoden | Vanliga frågor
   description: Vanliga frågor och svar om SEO & webbdesign.
   extra:
     - name: 'og:type'
