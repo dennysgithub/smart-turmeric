@@ -163,7 +163,7 @@ sections:
         image_align: left
         image_has_padding: true
         type: grid_item
-        image: /images/wordpress-webbdesign.png
+        image: /images/social+square+wordpress+icon-1320185502277900473_128.png
         title: Webbdesign
       - title_align: left
         content: >
