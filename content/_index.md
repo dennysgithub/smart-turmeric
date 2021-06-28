@@ -117,9 +117,6 @@ sections:
     grid_items:
       - title_align: left
         content: >
-          ### GMB Ranking
-
-
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
           eiusmod tempor incididunt ut.
         content_align: left
