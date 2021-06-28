@@ -182,7 +182,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: /images/B5441374-E3D9-4644-9FD1-21566E6EF40F-760x400.jpeg
+        image: /images/classic/icon-3.svg
     grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: medium
