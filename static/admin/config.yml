@@ -2904,3 +2904,4 @@ collections:
     filter:
       field: layout
       value: advanced
+enableEmoji: true
