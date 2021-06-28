@@ -167,7 +167,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: /images/bubbles-1985153_640(1).png
+        image: /images/wordpress-1084758_640.jpg
       - title: Wordpress
         title_align: left
         content: >+
