@@ -151,8 +151,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: /images/bubbles-1985153_640.png
-      - title: d
-        title_align: left
+      - title_align: left
         content: >
           ## Lorem ipsum
 
