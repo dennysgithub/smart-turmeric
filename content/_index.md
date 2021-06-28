@@ -117,7 +117,7 @@ sections:
     grid_items:
       - title_align: left
         content: >
-          ## Lorem ipsum
+          ### Lorem ipsum
 
 
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
