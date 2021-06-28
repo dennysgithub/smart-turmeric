@@ -168,7 +168,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: /images/bubbles-1985153_640.png
+        image: /images/charming-aspen.jpg
       - title_align: left
         content: >
           ### Lokal SEO
