@@ -152,7 +152,6 @@ sections:
         type: grid_item
         image: /images/bubbles-1985153_640.png
       - title: lorem-ipsum
-        subtitle: f
         title_align: left
         content: >
           ## Lorem ipsum
