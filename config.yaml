@@ -113,7 +113,7 @@ params:
     content: '&copy; 2021  SEOmetoden'
   domain: 'https://seometoden.se'
   favicon: /images/incredible-turmeric.png
-  enableemoji: true
+  
 taxonomies:
   stub: stub
 disableKinds:
