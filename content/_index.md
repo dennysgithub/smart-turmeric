@@ -133,9 +133,6 @@ sections:
         title: GMB SEO
       - title_align: left
         content: >
-          ### Webbdesign 
-
-
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
           eiusmod tempor incididunt ut.
         content_align: left
