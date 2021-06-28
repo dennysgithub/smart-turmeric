@@ -1696,3 +1696,4 @@ models:
               default: name
             - type: boolean
               name: relativeUrl
+enableEmoji: true
