@@ -167,7 +167,7 @@ sections:
           *   dolor sit amet
         content_align: left
         actions:
-          - label: SEO Analys av hemsida
+          - label: SEO analys av hemsida
             url: '#'
             style: link
             has_icon: false
