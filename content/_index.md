@@ -113,7 +113,7 @@ sections:
     align: center
     background_color: none
     padding_top: medium
-  - title: lorem-ipsum
+  - title: Vad är du intresserad av?
     subtitle: lorem-ipsum
     actions: []
     grid_items:
