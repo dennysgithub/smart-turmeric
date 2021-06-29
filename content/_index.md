@@ -6,8 +6,8 @@ sections:
       # Din ranking i Google Maps är kanske inte så bra som du tror.
 
 
-      Hämta hem en färgglatt illustrerande analys över er Google Maps ranking
-      och era konkurrenter. Gratis såklart.
+      Hämta hem en **färgglatt illustrerande analys över er Google Maps ranking
+      och era konkurrenter**. Gratis såklart.
 
 
       Osäker på vad Google Maps är eller varför du ska bry dig? [Börja
