@@ -120,7 +120,7 @@ sections:
           viktiga är att jag faktiskt kan hjälpa er. Kan jag inte det så åtar
           jag mig inte heller jobbet.
         actions:
-          - label: lorem-ipsum
+          - label: Ta kontakt
             url: '#'
             style: link
             has_icon: false
