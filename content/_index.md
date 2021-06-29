@@ -114,7 +114,7 @@ sections:
     background_color: none
     padding_top: medium
   - title: Vad är du intresserad av?
-    subtitle: lorem-ipsum
+    subtitle: Ett steg i taget..
     actions: []
     grid_items:
       - title: Google My Business Ranking
