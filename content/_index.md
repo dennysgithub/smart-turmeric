@@ -146,6 +146,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
+        image: /images/google-maps-seo-icon.png
       - title: SEO analys av hemsida
         title_align: left
         content: >
