@@ -93,7 +93,7 @@ sections:
 
           En hemsida som inte konverterar besökare till kunder kan bero på olika
           saker. Designen av hemsidan kan fungera dåligt på mobila plattformar,
-          hemsidan kanske laddas långsamt, det kan vara dåliga knappar.
+          hemsidan kanske laddas långsamt, dåliga CTA's, m.m.
 
 
           Är ni osäkra så hjälper jag er lösa mysteriet!
