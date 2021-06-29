@@ -153,28 +153,6 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: none
-  - type: blog_feed_section
-    title: What's New
-    subtitle: Blog Feed Section Example
-    actions:
-      - type: action
-        label: View All
-        url: /blog
-        style: primary
-    blog_feed_cols: three
-    enable_cards: true
-    show_recent: true
-    recent_count: 3
-    show_date: true
-    show_categories: true
-    show_author: true
-    show_excerpt: false
-    show_image: true
-    align: center
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: none
   - actions: []
     grid_items:
       - title_align: left
