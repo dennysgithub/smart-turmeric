@@ -10,8 +10,8 @@ sections:
       & era konkurrenter**. Gratis såklart.
 
 
-      Osäker på vad Google Maps är eller varför du ska bry dig? [Börja
-      här.](#google-maps)
+      [V](#google-maps)änta lite, [varför är inte min ranking så bra som jag
+      tror?](seometoden.se/blog/ranking) 
     content_align: left
     form_position: right
     form_width: fourty
