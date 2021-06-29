@@ -132,7 +132,7 @@ sections:
           - label: Google My Business Ranking
             url: '#'
             style: link
-            has_icon: false
+            has_icon: true
             icon: arrow-left
             icon_position: right
             new_window: false
