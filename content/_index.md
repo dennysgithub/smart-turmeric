@@ -37,7 +37,7 @@ sections:
         options: []
         is_required: false
         type: form_field
-    submit_label: Kolla min Google Maps ranking
+    submit_label: Kolla min Google Maps ranking + konkurrenter
     align_vert: top
     padding_top: large
     padding_bottom: large
