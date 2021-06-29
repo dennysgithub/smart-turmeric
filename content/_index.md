@@ -115,16 +115,7 @@ sections:
     padding_top: medium
   - title: Vad är du intresserad av?
     subtitle: lorem-ipsum
-    actions:
-      - label: SEO Analys av hemsida
-        url: '#'
-        style: link
-        has_icon: true
-        icon: arrow-right
-        icon_position: center
-        new_window: false
-        no_follow: false
-        type: action
+    actions: []
     grid_items:
       - title: Google My Business Ranking
         title_align: left
