@@ -6,8 +6,12 @@ sections:
       # Din ranking i Google Maps är kanske inte så bra som du tror.
 
 
-      Missa inte chansen att få en färgglatt illustrerande analys av er Google
-      My Business ranking + era konkurrenter. **Helt gratis!**
+      **Sökresultatet du får på kontoret stämmer inte överens med verkligheten.
+      **
+
+
+      **Hämta hem en färgglatt illustrerande analys över er Google Maps ranking
+      och era konkurrenter. **
 
 
       Osäker på vad Google Maps är eller varför du ska bry dig? [Börja
