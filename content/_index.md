@@ -167,7 +167,7 @@ sections:
         image_has_padding: true
         type: grid_item
         image: /images/webbdesign-seometoden.svg
-      - title: Webbdesign
+      - title: Webbdesign i Wordpress
         title_align: left
         content: >
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
