@@ -10,8 +10,8 @@ sections:
       & era konkurrenter**. Gratis såklart.
 
 
-      [V](#google-maps)änta lite, [varför är inte min ranking så bra som jag
-      tror?](seometoden.se/blog/ranking) 
+      [V](seometoden.se/blog/ranking)änta lite, [varför är inte min ranking så
+      bra som jag tror?](seometoden.se)
     content_align: left
     form_position: right
     form_width: fourty
