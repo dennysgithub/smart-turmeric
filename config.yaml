@@ -33,7 +33,7 @@ params:
     anncmnt_is_home_only: true
     anncmnt_has_close: true
     anncmnt_id: new-features
-    logo: /images/logo.png
+    logo: /images/Namnlöst-1.png
   footer:
     type: footer
     logo: /images/logo.png
