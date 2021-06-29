@@ -115,7 +115,16 @@ sections:
     padding_top: medium
   - title: Vad är du intresserad av?
     subtitle: lorem-ipsum
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
+        type: action
     grid_items:
       - title: Google My Business Ranking
         title_align: left
