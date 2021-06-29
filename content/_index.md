@@ -6,12 +6,11 @@ sections:
       # Din ranking i Google Maps är kanske inte så bra som du tror.
 
 
-      **Sökresultatet du får på kontoret stämmer inte överens med verkligheten.
-      **
+      Sökresultatet du får på kontoret stämmer inte överens med verkligheten.
 
 
-      **Hämta hem en färgglatt illustrerande analys över er Google Maps ranking
-      och era konkurrenter. **
+      Hämta hem en färgglatt illustrerande analys över er Google Maps ranking
+      och era konkurrenter.
 
 
       Osäker på vad Google Maps är eller varför du ska bry dig? [Börja
