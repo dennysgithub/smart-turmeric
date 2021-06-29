@@ -10,7 +10,7 @@ sections:
       My Business ranking + era konkurrenter. **Helt gratis!**
 
 
-      Osäker på vad GMB är eller varför du ska bry dig? [Börja
+      Osäker på vad Google Maps är eller varför du ska bry dig? [Börja
       här.](#google-maps)
     content_align: left
     form_position: right
