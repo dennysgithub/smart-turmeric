@@ -116,7 +116,7 @@ sections:
   - title: Vad är du intresserad av?
     subtitle: lorem-ipsum
     actions:
-      - label: lorem-ipsum
+      - label: SEO Analys av hemsida
         url: '#'
         style: link
         has_icon: false
