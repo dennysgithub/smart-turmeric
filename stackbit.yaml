@@ -28,7 +28,6 @@ models:
     type: config
     label: Site configuration
     fields:
-        enableEmoji: true
       - type: string
         name: title
         label: Title
