@@ -79,14 +79,6 @@ params:
         icon_position: center
         new_window: true
       - type: action
-        label: LinkedIn
-        url: 'https://www.linkedin.com/'
-        style: link
-        has_icon: true
-        icon: linkedin
-        icon_position: center
-        new_window: true
-      - type: action
         label: YouTube
         url: 'https://www.youtube.com/'
         style: link
