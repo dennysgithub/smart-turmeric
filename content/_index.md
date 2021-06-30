@@ -80,7 +80,7 @@ sections:
         image_alt: google-maps-3-pack-seometoden
         media_position: right
         media_width: fourty
-        image: /images/maps.png
+        image: /images/Namnlöst-1.png
       - type: feature
         title: Är hemsidan full av fönstershoppare?
         content: >
