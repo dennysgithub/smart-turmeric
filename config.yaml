@@ -68,7 +68,7 @@ params:
         label: Privacy Policy
         url: /privacy-policy
         style: link
-    has_social: false
+    has_social: true
     social_links:
       - type: action
         label: Twitter
