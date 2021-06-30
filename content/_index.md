@@ -61,7 +61,7 @@ sections:
           *   56% klickar på tre första.
 
 
-          *   90% gör detta och det där
+          *   90% gör detta och det där :kissing_heart:
 
 
           *   100% av kunderna går ut från hemsidan
