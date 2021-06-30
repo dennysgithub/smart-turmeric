@@ -79,7 +79,7 @@ sections:
             icon_position: right
         image_alt: google-maps-3-pack-seometoden
         media_position: right
-        media_width: fourty
+        media_width: fifty
         image: /images/google-maps-3-pack.png
       - type: feature
         title: Är hemsidan full av fönstershoppare?
