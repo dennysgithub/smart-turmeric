@@ -41,7 +41,7 @@ sections:
     align_vert: top
     padding_top: large
     padding_bottom: large
-    has_border: false
+    has_border: true
     background_color: primary
     background_image_opacity: 20
     background_image_size: cover
