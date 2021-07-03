@@ -166,6 +166,7 @@ sections:
         image_align: left
         image_has_padding: true
         type: grid_item
+        image: /images/woman-5579998_640.png
       - title: Webbdesign i Wordpress
         title_align: left
         content: >
