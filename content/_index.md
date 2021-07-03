@@ -65,7 +65,7 @@ sections:
           *   [Användare litar på det lokala
           3-packet](https://www.searchenginewatch.com/2015/08/27/google-local-pack-is-233-percent-more-important/)
           **mer än det organiska (vanliga) sökresultatet & annonser
-          tillsammans!**
+          kombinerat!**
         actions:
           - type: action
             label: Kolla nu
