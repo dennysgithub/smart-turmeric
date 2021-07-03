@@ -142,7 +142,7 @@ sections:
         image_has_padding: true
         type: grid_item
         image: /images/pngegg(1)(1).png
-      - title: SEO analys
+      - title: Webbdesign
         title_align: center
         content: >
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
