@@ -141,7 +141,7 @@ sections:
         image_align: left
         image_has_padding: true
         type: grid_item
-        image: /images/pngegg(1)(1).png
+        image: /images/aaaaaaaaaaaa-01.png
       - title: Webbdesign
         title_align: center
         content: >
