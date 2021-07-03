@@ -143,7 +143,7 @@ sections:
         type: grid_item
         image: /images/pngegg(1)(1).png
       - title: SEO analys
-        title_align: right
+        title_align: center
         content: >
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
