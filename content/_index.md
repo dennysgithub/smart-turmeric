@@ -141,7 +141,7 @@ sections:
         image_align: left
         image_has_padding: true
         type: grid_item
-        image: /images/jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj-01.png
+        image: /images/ferferferfefrf-01.png
       - title: Webbdesign
         title_align: center
         content: >
