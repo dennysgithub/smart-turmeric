@@ -141,8 +141,6 @@ sections:
         image_align: left
         image_has_padding: true
         type: grid_item
-        image: >-
-          /images/png-clipart-brand-logo-google-my-business-review-google-text-logo.png
       - title: SEO analys av hemsida
         title_align: left
         content: >
