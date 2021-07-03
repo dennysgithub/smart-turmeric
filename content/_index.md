@@ -62,10 +62,16 @@ sections:
           Google-sökningar](https://www.seoclarity.net/how-googles-local-pack-update-has-reshaped-the-organic-landscape-12952/).
 
 
-          *   90% gör detta och det där :kissing_heart:
+          *   44% of people clicked in the Local Pack
 
 
-          *   100% av kunderna går ut från hemsidan
+          *   8% chose to load â€œmore local results
+
+
+          *   29% clicked on the organic listings
+
+
+          *   19% clicked on the paid results
 
 
           Checka blogginlägget för källor och mer information varför Google Maps
