@@ -22,9 +22,9 @@ sections:
 
           :white_check_mark: Et semper leo mattis orci conubia
 
+          \*\*\*
 
-
-          \*\*\* ###
+          \###
 
         content_align: left
         actions:
