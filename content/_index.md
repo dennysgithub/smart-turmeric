@@ -142,7 +142,7 @@ sections:
         image_has_padding: true
         type: grid_item
         image: /images/pngegg(1).png
-      - title: Webbdesign
+      - title: Webbdesign i Wordpress
         title_align: center
         content: >
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
