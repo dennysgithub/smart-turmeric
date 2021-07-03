@@ -167,7 +167,7 @@ sections:
         image_has_padding: true
         type: grid_item
         image: /images/vvvvvvvvvvvvvvv-01.png
-      - title: Webbdesign i Wordpress
+      - title: SEO Analys
         title_align: center
         content: >
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
