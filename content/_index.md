@@ -142,7 +142,7 @@ sections:
         image_has_padding: true
         type: grid_item
         image: /images/webbdesign-i-wordpress.png
-      - title: Webbdesign i Wordpress
+      - title: Google My Business Ranking
         title_align: center
         content: >
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
