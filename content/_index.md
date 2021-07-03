@@ -166,7 +166,7 @@ sections:
         image_align: left
         image_has_padding: true
         type: grid_item
-        image: /images/bubbles-1985153_640(2).png
+        image: /images/ggggggggggggggggggggggggg-01.png
       - title: Webbdesign i Wordpress
         title_align: left
         content: >
