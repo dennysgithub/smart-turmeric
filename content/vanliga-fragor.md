@@ -14,9 +14,9 @@ sections:
         subtitle: Ge GMB profilen en power boost.
         title_align: left
         content: |+
-          
+          ***
 
-           5387 SEK
+          ### 5387 SEK
 
           fast kostnad
 
