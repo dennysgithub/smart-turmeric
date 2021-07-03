@@ -166,7 +166,7 @@ sections:
         image_align: left
         image_has_padding: true
         type: grid_item
-        image: /images/algorithms-1641852_640.png
+        image: /images/algorithms-1641852_640(1).png
       - title: Webbdesign i Wordpress
         title_align: left
         content: >
