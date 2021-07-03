@@ -141,7 +141,7 @@ sections:
         image_align: center
         image_has_padding: true
         type: grid_item
-        image: /images/pngegg(1).png
+        image: /images/gmb-ranking.png
       - title: Webbdesign i Wordpress
         title_align: center
         content: >
