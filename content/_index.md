@@ -62,16 +62,9 @@ sections:
           Google-sökningar](https://www.seoclarity.net/how-googles-local-pack-update-has-reshaped-the-organic-landscape-12952/).
 
 
-          *   44% of people clicked in the Local Pack
-
-
-          *   8% chose to load â€œmore local results
-
-
-          *   29% clicked on the organic listings
-
-
-          *   19% clicked on the paid results
+          *   [Användare litar på det lokala
+          3-packet](https://www.searchenginewatch.com/2015/08/27/google-local-pack-is-233-percent-more-important/)
+          mer än det organiska (vanliga) sökresultatet & annonser tillsammans!
         actions:
           - type: action
             label: Kolla nu
