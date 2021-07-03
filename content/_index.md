@@ -191,7 +191,7 @@ sections:
         image_align: left
         image_has_padding: true
         type: grid_item
-        image: /images/vvvvvvvvvvvvvvv-01.png
+        image: /images/ddddddddddddddddddddd-01.png
     grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
