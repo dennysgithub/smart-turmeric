@@ -58,7 +58,7 @@ sections:
         title: Google Maps är din snabbaste väg till fler kunder idag.
         subtitle: Det lokala 3-packet är var pengarna finns.
         content: >
-          *   56% klickar på tre första.
+          *   Det syns först för kunder som söker på Google 93% av fallen
 
 
           *   90% gör detta och det där :kissing_heart:
