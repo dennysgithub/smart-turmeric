@@ -126,7 +126,7 @@ sections:
         actions:
           - label: GMB Ranking
             url: '#'
-            style: primary
+            style: link
             has_icon: false
             icon: arrow-right
             icon_position: center
