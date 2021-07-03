@@ -127,7 +127,7 @@ sections:
           - label: GMB Ranking
             url: '#'
             style: primary
-            has_icon: true
+            has_icon: false
             icon: arrow-right
             icon_position: center
             new_window: false
