@@ -58,7 +58,8 @@ sections:
         title: Google Maps är din snabbaste väg till fler kunder idag.
         subtitle: Det lokala 3-packet är var pengarna finns.
         content: >
-          *   3-packet är det första kunder ser i 93% av Google-sökningar.
+          *   3-packet är det första kunder ser i [93% av
+          Google-sökningar](https://www.seoclarity.net/how-googles-local-pack-update-has-reshaped-the-organic-landscape-12952/).
 
 
           *   90% gör detta och det där :kissing_heart:
