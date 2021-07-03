@@ -166,7 +166,7 @@ sections:
         image_align: center
         image_has_padding: true
         type: grid_item
-        image: /images/vvvvvvvvvvvvvvv-01.png
+        image: /images/webbdesign-i-wordpress.png
       - title: SEO Analys av din hemsida
         title_align: center
         content: >
