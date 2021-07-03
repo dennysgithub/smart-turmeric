@@ -124,7 +124,7 @@ sections:
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
         content_align: center
         actions:
-          - label: dwedwdwdd
+          - label: GMB Ranking
             url: '#'
             style: primary
             has_icon: true
