@@ -118,7 +118,7 @@ sections:
     actions: []
     grid_items:
       - title: GMB Ranking
-        title_align: left
+        title_align: center
         content: >
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
