@@ -31,7 +31,7 @@ sections:
           - type: action
             label: Start with Personal
             url: /features
-            style: primary
+            style: secondary
         actions_align: left
         actions_width: full-width
       - type: grid_item
