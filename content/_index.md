@@ -191,7 +191,7 @@ sections:
         image_align: center
         image_has_padding: true
         type: grid_item
-        image: /images/ddddddddddddddddddddd-01.png
+        image: /images/seo-analys.png
     grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
