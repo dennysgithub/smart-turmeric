@@ -124,7 +124,7 @@ sections:
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
         content_align: center
         actions:
-          - label: Google My Business Ranking
+          - label: dwedwdwdd
             url: '#'
             style: primary
             has_icon: true
