@@ -62,7 +62,7 @@ sections:
           Google-sökningar](https://www.seoclarity.net/how-googles-local-pack-update-has-reshaped-the-organic-landscape-12952/).
 
 
-          *   [Användare litar på det lokala
+          *   [Kunder litar på det lokala
           3-packet](https://www.searchenginewatch.com/2015/08/27/google-local-pack-is-233-percent-more-important/)
           **mer än det organiska (vanliga) sökresultatet & annonser
           kombinerat!**
