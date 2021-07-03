@@ -117,7 +117,7 @@ sections:
     subtitle: Ett steg i taget..
     actions: []
     grid_items:
-      - title: Google My Business Ranking
+      - title: Ranking i Google My Business
         title_align: left
         content: >
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
