@@ -168,7 +168,7 @@ sections:
         type: grid_item
         image: /images/ddddddddddddddddddddd-01.png
       - title: Webbdesign i Wordpress
-        title_align: left
+        title_align: center
         content: >
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
