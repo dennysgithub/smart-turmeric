@@ -72,10 +72,6 @@ sections:
 
 
           *   19% clicked on the paid results
-
-
-          Checka blogginlägget för källor och mer information varför Google Maps
-          är så viktigt för en lokal företagare.
         actions:
           - type: action
             label: Kolla nu
