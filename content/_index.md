@@ -56,7 +56,7 @@ sections:
     features:
       - type: feature
         title: Google Maps är din snabbaste väg till fler kunder idag.
-        subtitle: Det lokala 3-packet rankar 1 positionen i 93% av Google-sökningar.
+        subtitle: Lokala
         content: >
           *   56% klickar på tre första.
 
