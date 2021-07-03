@@ -141,7 +141,7 @@ sections:
         image_align: left
         image_has_padding: true
         type: grid_item
-        image: /images/pngegg(1).png
+        image: /images/pngegg(1)(1).png
       - title: SEO analys av hemsida
         title_align: left
         content: >
