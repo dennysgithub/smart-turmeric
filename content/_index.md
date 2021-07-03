@@ -117,7 +117,7 @@ sections:
     subtitle: Ett steg i taget..
     actions: []
     grid_items:
-      - title: Google My Business Ranking
+      - title: Webbdesign i Wordpress
         title_align: center
         content: >
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
