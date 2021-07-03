@@ -58,7 +58,8 @@ sections:
         title: Det lokala 3-packet är din snabbaste väg till fler kunder idag.
         subtitle: Google My Business är var lokala företagare håvar in kunderna.
         content: >
-          *   Det lokala 3-packet är det första kunder ser i <a href="https://www.seoclarity.net/how-googles-local-pack-update-has-reshaped-the-organic-landscape-12952/" target="_blank">93% av Google-sökningar.</a>
+          *   Det lokala 3-packet är det första kunder ser i [93% av
+          Google-sökningar.](https://www.seoclarity.net/how-googles-local-pack-update-has-reshaped-the-organic-landscape-12952/)
 
 
           *   [Kunder litar på det lokala
