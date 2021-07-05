@@ -20,7 +20,7 @@ params:
         label: Vanliga Frågor
         url: /vanliga-fragor
         style: link
-    has_secondary_nav: false
+    has_secondary_nav: true
     secondary_nav_links:
       - type: action
         label: Prata med Dennis idag
