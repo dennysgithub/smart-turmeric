@@ -15,7 +15,7 @@ params:
         label: Blogg
         url: /blogg
         style: link
-        has_icon: true
+        has_icon: false
       - type: action
         label: Vanliga Frågor
         url: /vanliga-fragor
