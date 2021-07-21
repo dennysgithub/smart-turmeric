@@ -68,7 +68,7 @@ sections:
           kombinerat!**
         actions:
           - type: action
-            label: 'Checka in GMB '
+            label: Checka in GMB serien
             url: null
             style: primary
             has_icon: true
