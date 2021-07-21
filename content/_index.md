@@ -143,8 +143,9 @@ sections:
       - title: Google My Business Ranking
         title_align: center
         content: >
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Du vill få fler nya kunder till företaget. Du vill gå om dina
+          konkurrenter. Tillsammans gör vi det genom att förbättra din ranking i
+          Google Maps.
         content_align: center
         actions:
           - label: SEO analys av hemsida
