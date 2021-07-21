@@ -97,7 +97,7 @@ sections:
         title: Vad är SEO?
         content: >
           Välkommen till Google & Bing, dagens telefonböcker. Istället för att
-          basera på alfabetisk ordning är det sökmotorernas parametrar som
+          baseras på alfabetisk ordning är det sökmotorernas parametrar som
           bestämmer. SEO hjälper dig vara överrens med dem.
       - type: grid_item
         title: Sagittis vitae et leo duis ut diam?
