@@ -91,7 +91,7 @@ sections:
     has_border: false
     background_color: none
   - type: grid_section
-    title: 'You asked, we answered!'
+    title: Vanliga frågor & svar!
     grid_items:
       - type: grid_item
         title: Vad är SEO?
