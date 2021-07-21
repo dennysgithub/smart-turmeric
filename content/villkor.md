@@ -93,9 +93,11 @@ Dessa organisationer kan länka till vår hemsida så länge som länken: (a) in
 
 Om du är en av de organisationer som anges i punkt 2 ovan och är intresserad av att länka till vår webbplats måste du informera oss genom att skicka ett e-postmeddelande till SEOmetoden. Vänligen inkludera ditt namn, ditt organisationsnamn, kontaktinformation samt webbadressen till din webbplats, en lista över alla webbadresser som du tänker länka till vår webbplats och en lista över webbadresserna på vår webbplats som du vill länk. Vänta 2-3 veckor på svar.
 
-Godkända organisationer kan länka till vår webbplats enligt följande: Genom att använda vårt företagsnamn; eller
- Genom att använda den enhetliga resurssökaren som är länkad till; eller
- Genom att använda någon annan beskrivning av vår webbplats som är länkad till som är vettigt i sammanhanget och formatet på innehållet på den länkande partens webbplats.
+Godkända organisationer kan länka till vår webbplats enligt följande: 
+
+Genom att använda vårt företagsnamn; eller
+Genom att använda den enhetliga resurssökaren som är länkad till; eller
+Genom att använda någon annan beskrivning av vår webbplats som är länkad till som är vettigt i sammanhanget och formatet på innehållet på den länkande partens webbplats.
 
 Ingen användning av SEOmetodens logotyp eller annat konstverk är tillåtet för att länka från varumärkeslicensavtal.
 
