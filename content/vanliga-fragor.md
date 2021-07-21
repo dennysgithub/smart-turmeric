@@ -10,31 +10,6 @@ sections:
   - type: grid_section
     grid_items:
       - type: grid_item
-        title: GMB Optimering
-        subtitle: Ge GMB profilen en power boost.
-        title_align: left
-        content: |+
-          ***
-
-          ### 5387 SEK
-
-          fast kostnad
-
-          :white_check_mark: Et semper leo mattis orci conubia
-
-          \*\*\*
-
-          \###
-
-        content_align: left
-        actions:
-          - type: action
-            label: Start with Personal
-            url: /features
-            style: primary
-        actions_align: left
-        actions_width: full-width
-      - type: grid_item
         title: GMB Optimering Extra
         subtitle: Power boost + underhåll
         title_align: left
