@@ -120,7 +120,7 @@ sections:
           keyword-research hitta dom bästa möjligheterna för er att börja synas
           bättre och på så sätt få in fler kunder.
       - type: grid_item
-        title: Vad SEO göra för en hemsida?
+        title: Vad kan SEO göra för en hemsida?
         content: >
           Ta den från en broschyr-hemsida som inte har någon tydligt riktning
           förutom att delge information till en webbplats där allting går ut på
