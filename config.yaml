@@ -55,6 +55,30 @@ params:
   favicon: /images/incredible-turmeric.png
   taxonomies: null
   stub: stub
+  header:
+    title: lorem-ipsum
+    logo_alt: lorem-ipsum
+    has_primary_nav: true
+    primary_nav_links: []
+    has_secondary_nav: true
+    secondary_nav_links: []
+    has_anncmnt: false
+    anncmnt_content: >-
+      ## Lorem ipsum
+
+
+      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+      - Lorem ipsum
+
+      - dolor sit amet
+    anncmnt_align: left
+    anncmnt_is_home_only: false
+    anncmnt_has_close: false
+    anncmnt_id: lorem-ipsum
+    type: header
 disableKinds:
   - RSS
   - taxonomy
