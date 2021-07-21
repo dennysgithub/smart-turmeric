@@ -213,7 +213,7 @@ sections:
           viktiga är att jag faktiskt kan hjälpa er. Kan jag inte det så åtar
           jag mig inte heller jobbet.
         actions:
-          - label: Ta kontakt
+          - label: Jag vill snacka lite
             url: '#'
             style: primary
             has_icon: false
