@@ -2,7 +2,7 @@
 title: Privatpolicy
 seo:
   type: stackbit_page_meta
-  title: Privacy Policy
+  title: Privatpolicy
   description: This is the privacy policy page
   extra:
     - name: 'og:type'
