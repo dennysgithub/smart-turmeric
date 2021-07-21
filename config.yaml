@@ -90,7 +90,7 @@ params:
         no_follow: false
         type: action
       - label: Prata med mig idag
-        url: '#'
+        url: /kontakt
         style: secondary
         has_icon: true
         icon: youtube
