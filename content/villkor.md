@@ -42,7 +42,7 @@ Om inte annat anges äger SEOmetoden och / eller dess licensgivare immateriella 
 
 Du får inte:
 
-*   Publiceramaterial från SEOmetoden
+*   Publicera material från SEOmetoden
 
 *   Sälj, hyra eller underlicensera material från SEOmetoden
 
@@ -95,7 +95,7 @@ Om du är en av de organisationer som anges i punkt 2 ovan och är intresserad a
 
 Godkända organisationer kan länka till vår webbplats enligt följande:
 
-Genom att använda vårt företagsnamn; eller, 
+Genom att använda vårt företagsnamn; eller,
 Genom att använda den enhetliga resurssökaren som är länkad till; eller,
 Genom att använda någon annan beskrivning av vår webbplats som är länkad till som är vettigt i sammanhanget och formatet på innehållet på den länkande partens webbplats.
 
