@@ -113,7 +113,7 @@ sections:
           Google eller i det lokala 3-packet. OBS: Att få ett korrekt
           rankingresultat kan vara knepigt, ta kontakt så hjälper jag till.
       - type: grid_item
-        title: Cras tincidunt lobortis feugiat vivamus at augue eget arcu?
+        title: Var ska småföretagare börja?
         content: >-
           Blandit aliquam etiam erat velit. In massa tempor nec feugiat.
           Volutpat maecenas volutpat blandit aliquam. Sem integer vitae justo
