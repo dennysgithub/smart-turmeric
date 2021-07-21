@@ -1,5 +1,5 @@
 ---
-title: Privacy Policy
+title: Privatpolicy
 seo:
   type: stackbit_page_meta
   title: Privacy Policy
