@@ -1,5 +1,5 @@
 ---
-title: Terms & Conditions
+title: Villkor
 seo:
   type: stackbit_page_meta
   title: Terms and Conditions
