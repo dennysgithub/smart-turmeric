@@ -169,8 +169,9 @@ sections:
       - title: SEO Analys av din hemsida
         title_align: center
         content: >
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Skulle du köra en bil som inte blivit besiktigad på 30 år i högsta
+          fart på motorvägen? Hemsidan kanske ser fin ut, men läcker det ut
+          kunder överallt?
         content_align: center
         actions:
           - label: Webbdesign
