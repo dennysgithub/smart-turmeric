@@ -95,7 +95,7 @@ sections:
     grid_items:
       - type: grid_item
         title: >-
-          Can random people really make changes to my Google My Business
+          Kan vem som helst verkligen göra ändringar i min Google My Business
           Listing?
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
