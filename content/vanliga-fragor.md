@@ -121,10 +121,11 @@ sections:
           bättre och på så sätt få in fler kunder.
       - type: grid_item
         title: Vad SEO göra för en hemsida?
-        content: >-
-          Facilisis gravida neque convallis a cras semper auctor neque vitae.
-          Dictum varius duis at consectetur lorem donec massa. Porta non
-          pulvinar neque laoreet suspendisse interdum consectetur libero.
+        content: >
+          Ta den från en broschyr-hemsida som inte har någon tydligt riktning
+          förutom att delge information till en webbplats där allting går ut på
+          att få besökarna att ringa, mejla eller ta kontakt på annat vis. Och
+          hjälpa er synas bättre i Google naturligtvis. 
     grid_cols: two
     grid_gap_vert: medium
     grid_gap_horiz: medium
