@@ -52,7 +52,7 @@ params:
     secondary_nav_links:
       - type: action
         label: Blogg
-        url: /blog/category/news
+        url: /blogg
         style: link
       - type: action
         label: Vanliga frågor
