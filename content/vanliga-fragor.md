@@ -102,12 +102,9 @@ sections:
       - type: grid_item
         title: Är SEO viktigare för vissa företag?
         content: >
-          Ja!
-
-
-          Det är viktigt för BTC företag (business-to-consumer) som gör många
-          individuella jobb som; målare, fönsterputsare, frisörer, takläggare,
-          etc.
+          Ja! Det är viktigt för BTC företag (business-to-consumer) som gör
+          många individuella jobb som; målare, fönsterputsare, frisörer,
+          takläggare, etc.
       - type: grid_item
         title: Viverra nam libero justo laoreet sit?
         content: >-
