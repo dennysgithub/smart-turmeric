@@ -3,7 +3,7 @@ title: Villkor
 seo:
   type: stackbit_page_meta
   title: Villkor
-  description: This is the terms and conditions page
+  description: SEOmetoden villkor
   extra:
     - name: 'og:type'
       value: website
