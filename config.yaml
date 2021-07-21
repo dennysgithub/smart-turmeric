@@ -61,7 +61,7 @@ params:
     has_primary_nav: true
     primary_nav_links:
       - label: Blogg
-        url: '#'
+        url: /blogg
         style: link
         has_icon: false
         icon: arrow-left
