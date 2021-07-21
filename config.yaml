@@ -72,14 +72,6 @@ params:
     has_social: true
     social_links:
       - type: action
-        label: Twitter
-        url: 'https://twitter.com/'
-        style: link
-        has_icon: true
-        icon: twitter
-        icon_position: center
-        new_window: true
-      - type: action
         label: YouTube
         url: 'https://www.youtube.com/'
         style: link
