@@ -72,7 +72,7 @@ sections:
             url: null
             style: primary
             has_icon: true
-            icon: arrow-left
+            icon: arrow-right
             icon_position: right
         image_alt: google-maps-3-pack-seometoden
         media_position: right
