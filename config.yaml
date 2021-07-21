@@ -50,7 +50,7 @@ params:
         icon: youtube
         icon_position: center
         new_window: true
-    content: '&copy; 2021  SEOmetoden'
+    content: '&copy; 2021  SEOmetoden.se'
   domain: 'https://seometoden.se'
   favicon: /images/incredible-turmeric.png
   taxonomies: null
