@@ -95,8 +95,8 @@ Om du är en av de organisationer som anges i punkt 2 ovan och är intresserad a
 
 Godkända organisationer kan länka till vår webbplats enligt följande:
 
-Genom att använda vårt företagsnamn
-Genom att använda den enhetliga resurssökaren som är länkad till
+Genom att använda vårt företagsnamn; eller, 
+Genom att använda den enhetliga resurssökaren som är länkad till; eller,
 Genom att använda någon annan beskrivning av vår webbplats som är länkad till som är vettigt i sammanhanget och formatet på innehållet på den länkande partens webbplats.
 
 Ingen användning av SEOmetodens logotyp eller annat konstverk är tillåtet för att länka från varumärkeslicensavtal.
