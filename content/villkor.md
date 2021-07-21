@@ -79,14 +79,13 @@ Dessa organisationer kan länka till vår hemsida, till publikationer eller anna
 
 Vi kan överväga och godkänna andra länkförfrågningar från följande typer av organisationer:
 
- allmänt kända konsument- och / eller affärsinformationskällor;
- dot.com community webbplatser;
- föreningar eller andra grupper som representerar välgörenhetsorganisationer;
- online katalogdistributörer;
- Internetportaler;
- bokförings-, juridik- och konsultföretag; och
- utbildningsinstitutioner och branschorganisationer.
-
+allmänt kända konsument- och / eller affärsinformationskällor;
+dot.com community webbplatser;
+föreningar eller andra grupper som representerar välgörenhetsorganisationer;
+online katalogdistributörer;
+Internetportaler;
+bokförings-, juridik- och konsultföretag; och
+utbildningsinstitutioner och branschorganisationer.
 
 Vi kommer att godkänna länkförfrågningar från dessa organisationer om vi beslutar att: (a) länken inte skulle få oss att se negativt ut för oss själva eller för våra ackrediterade företag; (b) organisationen har inga negativa register hos oss; (c) nyttan för oss av synligheten av hyperlänken kompenserar frånvaron av SEOmetoden; och (d) länken är i sammanhang med allmän resursinformation.
 
@@ -94,11 +93,9 @@ Dessa organisationer kan länka till vår hemsida så länge som länken: (a) in
 
 Om du är en av de organisationer som anges i punkt 2 ovan och är intresserad av att länka till vår webbplats måste du informera oss genom att skicka ett e-postmeddelande till SEOmetoden. Vänligen inkludera ditt namn, ditt organisationsnamn, kontaktinformation samt webbadressen till din webbplats, en lista över alla webbadresser som du tänker länka till vår webbplats och en lista över webbadresserna på vår webbplats som du vill länk. Vänta 2-3 veckor på svar.
 
-Godkända organisationer kan länka till vår webbplats enligt följande:
-
-     Genom att använda vårt företagsnamn; eller
-     Genom att använda den enhetliga resurssökaren som är länkad till; eller
-     Genom att använda någon annan beskrivning av vår webbplats som är länkad till som är vettigt i sammanhanget och formatet på innehållet på den länkande partens webbplats.
+Godkända organisationer kan länka till vår webbplats enligt följande: Genom att använda vårt företagsnamn; eller
+ Genom att använda den enhetliga resurssökaren som är länkad till; eller
+ Genom att använda någon annan beskrivning av vår webbplats som är länkad till som är vettigt i sammanhanget och formatet på innehållet på den länkande partens webbplats.
 
 Ingen användning av SEOmetodens logotyp eller annat konstverk är tillåtet för att länka från varumärkeslicensavtal.
 
@@ -129,19 +126,6 @@ begränsa eller utesluta vårt eller ditt ansvar för bedrägeri eller bedrägli
 begränsa någon av våra eller dina skulder på något sätt som inte är tillåtet enligt tillämplig lag; eller
 utesluter några av våra eller dina skulder som inte kan uteslutas enligt tillämplig lag.
 
-
 De begränsningar och förbud mot ansvar som anges i detta avsnitt och någon annanstans i denna ansvarsfriskrivning: (a) omfattas av föregående stycke; och (b) reglerar alla skulder som uppstår enligt ansvarsfriskrivningen, inklusive skulder som uppkommer i avtal, i skadestånd och för brott mot lagstadgad skyldighet.
 
 Så länge webbplatsen och informationen och tjänsterna på webbplatsen tillhandahålls gratis är vi inte ansvariga för någon förlust eller skada av något slag.
-
-
-
-
-
-
-
- 
- 
-
-
-
