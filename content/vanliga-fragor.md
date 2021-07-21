@@ -126,6 +126,30 @@ sections:
           förutom att delge information till en webbplats där allting går ut på
           att få besökarna att ringa, mejla eller ta kontakt på annat vis. Och
           hjälpa er synas bättre i Google naturligtvis. 
+      - title: lorem-ipsum
+        subtitle: lorem-ipsum
+        title_align: left
+        content: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        type: grid_item
     grid_cols: two
     grid_gap_vert: medium
     grid_gap_horiz: medium
