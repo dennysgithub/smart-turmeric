@@ -82,7 +82,7 @@ params:
     secondary_nav_links:
       - label: Prata med mig idag
         url: /kontakt
-        style: link
+        style: primary
         has_icon: false
         icon: arrow-left
         icon_position: right
