@@ -93,7 +93,7 @@ params:
         url: /kontakt
         style: primary
         has_icon: false
-        icon: youtube
+        icon: arrow-right
         icon_position: right
         new_window: false
         no_follow: false
