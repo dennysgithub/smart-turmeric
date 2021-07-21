@@ -130,7 +130,7 @@ sections:
         title_align: left
         content: >
           För en hemsida att brukar man räkna med 6-12 månader innan man ser
-          tydliga resultat. Google My Business däremot kan man se resultat
+          tydliga resultat. I Google My Business däremot kan man se resultat
           betydligt kvickare beroende på hur motståndet ser ut. Du kan hoppa in
           i det lokala 3-packet så snabbt som en vecka i vissa fall.
         content_align: left
