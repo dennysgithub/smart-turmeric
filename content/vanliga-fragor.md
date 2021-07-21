@@ -126,7 +126,7 @@ sections:
           förutom att delge information till en webbplats där allting går ut på
           att få besökarna att ringa, mejla eller ta kontakt på annat vis. Och
           hjälpa er synas bättre i Google naturligtvis. 
-      - title: lorem-ipsum
+      - title: Vilka är några essentiella SEO strategier?
         title_align: left
         content: >-
           ## Lorem ipsum
