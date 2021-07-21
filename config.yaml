@@ -62,7 +62,7 @@ params:
     tertiary_nav_title: Policy
     tertiary_nav_links:
       - type: action
-        label: Terms & Conditions
+        label: Villkor
         url: /terms-conditions
         style: link
       - type: action
