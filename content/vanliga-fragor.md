@@ -115,7 +115,7 @@ sections:
       - type: grid_item
         title: Var ska småföretagare börja?
         content: >
-          **Med en SEO analys** så du hittar läckorna och kan täppa igen,
+          **Med en SEO analys** så du hittar läckorna och kan täppa igen dem,
           smygtitta på konkurrenter och stjäl deras bästa idéer och med hjälp av
           keyword-research hitta dom bästa möjligheterna för er att börja synas
           bättre och på så sätt få in fler kunder.
