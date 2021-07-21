@@ -67,7 +67,7 @@ params:
         style: link
       - type: action
         label: Privatpolicy
-        url: /privacy-policy
+        url: /privat-
         style: link
     has_social: true
     social_links:
