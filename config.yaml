@@ -6,35 +6,6 @@ params:
   palette: green
   mode: light
   base_font: serif
-  header:
-    type: header
-    logo_alt: seometoden-logo
-    has_primary_nav: true
-    primary_nav_links:
-      - type: action
-        label: Blogg
-        url: /blogg
-        style: link
-        has_icon: false
-      - type: action
-        label: Vanliga Frågor
-        url: /vanliga-fragor
-        style: link
-    has_secondary_nav: true
-    secondary_nav_links:
-      - type: action
-        label: Prata med Dennis idag
-        url: /kontakt
-        style: primary
-    has_anncmnt: true
-    anncmnt_content: >
-      Den här webbplatsen använder kakor för att förbättra din upplevelse.
-      [**Läs mer**](www.google.com).
-    anncmnt_align: left
-    anncmnt_is_home_only: true
-    anncmnt_has_close: true
-    anncmnt_id: new-features
-    logo: /images/logo.png
   footer:
     type: footer
     logo: /images/logo.png
