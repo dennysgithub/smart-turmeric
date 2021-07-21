@@ -120,7 +120,7 @@ sections:
           keyword-research hitta dom bästa möjligheterna för er att börja synas
           bättre och på så sätt få in fler kunder.
       - type: grid_item
-        title: Vad menar du med sökmotoroptimerad hemsida?
+        title: Vad
         content: >-
           Facilisis gravida neque convallis a cras semper auctor neque vitae.
           Dictum varius duis at consectetur lorem donec massa. Porta non
