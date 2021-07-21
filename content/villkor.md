@@ -2,7 +2,7 @@
 title: Villkor
 seo:
   type: stackbit_page_meta
-  title: Terms and Conditions
+  title: Villkor
   description: This is the terms and conditions page
   extra:
     - name: 'og:type'
