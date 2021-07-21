@@ -8,31 +8,7 @@ sections:
     padding_top: large
     padding_bottom: small
   - type: grid_section
-    grid_items:
-      - type: grid_item
-        title: Webbdesign
-        subtitle: 'Wordpress, statisk hemsida'
-        title_align: left
-        content: |
-          ***
-
-          ### 9680 SEK
-
-          startar från
-
-          *   Et semper leo mattis orci conubia congue
-          *   Quisque eleifend imperdiet tortor
-          *   Elementum eu rhoncus, volutpat
-          *   Nisi cubilia interdum ultricies
-          *   Feugiat porta tortor
-        content_align: left
-        actions:
-          - type: action
-            label: Start with Business
-            url: /features
-            style: primary
-        actions_align: left
-        actions_width: full-width
+    grid_items: []
     grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
