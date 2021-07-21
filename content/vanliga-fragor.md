@@ -128,17 +128,13 @@ sections:
           hjälpa er synas bättre i Google naturligtvis. 
       - title: Vilka är några essentiella SEO strategier?
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          För en hemsida att brukar man räkna med 6-12 månader innan man ser
+          tydliga resultat. När jag säger resultat så menar jag ett mätbart
+          resultat av ökad trafik, leads & kundkonverteringar. I Google My
+          Business däremot kan man se resultat betydligt kvickare beroende på
+          hur motståndet ser ut. Du kan hoppa in i det lokala 3-packet så snabbt
+          som en vecka i vissa fall. 
         content_align: left
         actions: []
         actions_align: left
