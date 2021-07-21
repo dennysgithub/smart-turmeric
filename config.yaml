@@ -63,7 +63,7 @@ params:
     tertiary_nav_links:
       - type: action
         label: Villkor
-        url: /terms-conditions
+        url: /villkor
         style: link
       - type: action
         label: Privatpolicy
