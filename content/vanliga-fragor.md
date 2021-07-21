@@ -96,15 +96,9 @@ sections:
       - type: grid_item
         title: Vad är SEO?
         content: >
-          Ja. 
-
-
-          Även om det inte verkar rättvist för de flesta företagare kan vem som
-          helst föreslå en ändring eller redigering av din företagsinformation,
-          inklusive din konkurrens. Dessa användargenererade ändringar kan göras
-          live i din annons, och du kanske inte ens får meddelande om att
-          ändringarna har gjorts. Detta inkluderar att ändra din fysiska
-          affärsplats.
+          Välkommen till Google & Bing, dagens telefonböcker. Istället för att
+          basera på alfabetisk ordning är det sökmotorernas parametrar som
+          bestämmer. SEO hjälper dig vara överrens med dem.
       - type: grid_item
         title: Sagittis vitae et leo duis ut diam?
         content: >-
