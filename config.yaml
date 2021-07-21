@@ -70,7 +70,7 @@ params:
         no_follow: false
         type: action
       - label: Vanliga frågor
-        url: '#'
+        url: /vanliga-fragor
         style: link
         has_icon: false
         icon: arrow-left
