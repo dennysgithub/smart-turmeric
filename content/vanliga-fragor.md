@@ -94,9 +94,7 @@ sections:
     title: 'You asked, we answered!'
     grid_items:
       - type: grid_item
-        title: >-
-          Kan vem som helst verkligen göra ändringar i min Google My Business
-          Listing?
+        title: Vad är SEO?
         content: >
           Ja. 
 
