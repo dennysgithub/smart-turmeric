@@ -80,7 +80,7 @@ params:
         type: action
     has_secondary_nav: true
     secondary_nav_links:
-      - label: Prata med mig idag
+      - label: YouTube
         url: /kontakt
         style: primary
         has_icon: false
