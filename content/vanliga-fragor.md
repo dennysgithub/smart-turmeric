@@ -142,7 +142,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-      - title: Varför förskottsbetalas SEO?
+      - title: Varför kräver SEO förskottsbetalning?
         subtitle: lorem-ipsum
         title_align: left
         content: >-
