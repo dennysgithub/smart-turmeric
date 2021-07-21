@@ -117,8 +117,9 @@ sections:
       - title: Webbdesign i Wordpress
         title_align: center
         content: >
-          Mobilanpassade & sökmotoroptimerade hemsidor, så klart. Jobbet går
-          fort & smärtfritt när vi är klara så har du en hemsida som int
+          Mobilanpassade & sökmotoroptimerade hemsidor, så klart. En ny hemsida
+          idag kan skapas både fort, smärtfritt & billigt. Hör av dig om dina
+          orosmoln så pratar vi. 
         content_align: center
         actions:
           - label: GMB Ranking
