@@ -144,17 +144,14 @@ sections:
         type: grid_item
       - title: Varför kräver SEO förskottsbetalning?
         title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: >
+          En klockmakare kan ta betalt i efterhand för om du inte betalar så
+          behåller han klockan.
 
+           En takläggare kan ta tillbaka taket. 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          Men SEO arbete går inte att ta tillbaka, därför måste det betalas i
+          förskott. 
         content_align: left
         actions: []
         actions_align: left
