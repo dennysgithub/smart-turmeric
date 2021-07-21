@@ -91,7 +91,7 @@ params:
         type: action
       - label: Prata med mig idag
         url: /kontakt
-        style: secondary
+        style: primary
         has_icon: true
         icon: youtube
         icon_position: right
