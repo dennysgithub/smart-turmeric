@@ -82,24 +82,31 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-      - title: lorem-ipsum
-        subtitle: lorem-ipsum
+      - type: grid_item
+        title: GMB Optimering
+        subtitle: Ge GMB profilen en power boost.
         title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: |+
+          ***
 
+          ### 5387 SEK
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          fast kostnad
 
+          :white_check_mark: Et semper leo mattis orci conubia
 
-          - Lorem ipsum
+          \*\*\*
 
-          - dolor sit amet
+          \###
+
         content_align: left
-        actions: []
+        actions:
+          - type: action
+            label: Start with Personal
+            url: /features
+            style: primary
         actions_align: left
-        actions_width: auto
+        actions_width: full-width
         image_alt: lorem-ipsum
         image_position: top
         image_width: fifty
