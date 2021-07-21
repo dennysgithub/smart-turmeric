@@ -97,10 +97,16 @@ sections:
         title: >-
           Kan vem som helst verkligen göra ändringar i min Google My Business
           Listing?
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Ja. 
+
+
+          Även om det inte verkar rättvist för de flesta företagare kan vem som
+          helst föreslå en ändring eller redigering av din företagsinformation,
+          inklusive din konkurrens. Dessa användargenererade ändringar kan göras
+          live i din annons, och du kanske inte ens får meddelande om att
+          ändringarna har gjorts. Detta inkluderar att ändra din fysiska
+          affärsplats.
       - type: grid_item
         title: Sagittis vitae et leo duis ut diam?
         content: >-
