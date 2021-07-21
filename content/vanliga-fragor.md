@@ -126,7 +126,7 @@ sections:
           förutom att delge information till en webbplats där allting går ut på
           att få besökarna att ringa, mejla eller ta kontakt på annat vis. Och
           hjälpa er synas bättre i Google naturligtvis. 
-      - title: Vilka är några essentiella SEO strategier?
+      - title: Hur lång tid tar SEO?
         title_align: left
         content: >
           För en hemsida att brukar man räkna med 6-12 månader innan man ser
