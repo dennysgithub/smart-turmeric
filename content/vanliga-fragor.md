@@ -100,7 +100,7 @@ sections:
           baseras på alfabetisk ordning är det sökmotorernas parametrar som
           bestämmer. SEO hjälper dig vara överrens med dem.
       - type: grid_item
-        title: Sagittis vitae et leo duis ut diam?
+        title: Varför är SEO viktigt för småföretagare?
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
