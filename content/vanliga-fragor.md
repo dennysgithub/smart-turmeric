@@ -148,10 +148,12 @@ sections:
           En klockmakare kan ta betalt i efterhand för om du inte betalar så
           behåller han klockan.
 
-           En takläggare kan ta tillbaka taket. 
 
-          Men SEO arbete går inte att ta tillbaka, därför måste det betalas i
-          förskott. 
+          En takläggare kan ta tillbaka taket.
+
+
+          Men digitalt SEO arbete går inte att ta tillbaka, därför måste det
+          betalas i förskott.
         content_align: left
         actions: []
         actions_align: left
