@@ -56,7 +56,7 @@ params:
         style: link
       - type: action
         label: Vanliga frågor
-        url: /blog/category/general
+        url: /vanliga-fragor
         style: link
     has_tertiary_nav: true
     tertiary_nav_title: Policy
