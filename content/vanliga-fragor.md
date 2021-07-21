@@ -106,7 +106,7 @@ sections:
           många individuella jobb som; målare, fönsterputsare, frisörer,
           takläggare, etc.
       - type: grid_item
-        title: Viverra nam libero justo laoreet sit?
+        title: Hur vet jag om jag behöver SEO?
         content: >-
           In tellus integer feugiat scelerisque. Aliquam eleifend mi in nulla
           posuere. Bibendum neque egestas congue quisque egestas. Mauris sit
