@@ -142,7 +142,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-      - title: Varför är SEO något ma
+      - title: Varför förskottsbetalas SEO?
         subtitle: lorem-ipsum
         title_align: left
         content: >-
