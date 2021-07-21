@@ -114,11 +114,10 @@ sections:
           rankingresultat kan vara knepigt, ta kontakt så hjälper jag till.
       - type: grid_item
         title: Var ska småföretagare börja?
-        content: >-
-          Blandit aliquam etiam erat velit. In massa tempor nec feugiat.
-          Volutpat maecenas volutpat blandit aliquam. Sem integer vitae justo
-          eget magna fermentum iaculis. Amet est placerat in egestas erat
-          imperdiet sed euismod nisi. Facilisi morbi tempus iaculis urna.
+        content: >
+          Med en SEO analys så du hittar läckorna och kan täppa igen dom och
+          dessutom hittar guldgruvorna du inte utnyttjar som kan hjälpa er till
+          ännu fler kunder.
       - type: grid_item
         title: Porta nibh venenatis cras sed felis eget velit aliquet?
         content: >-
