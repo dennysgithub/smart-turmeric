@@ -107,12 +107,11 @@ sections:
           takläggare, etc.
       - type: grid_item
         title: Hur vet jag om jag behöver SEO?
-        content: >-
-          In tellus integer feugiat scelerisque. Aliquam eleifend mi in nulla
-          posuere. Bibendum neque egestas congue quisque egestas. Mauris sit
-          amet massa vitae tortor condimentum lacinia. Tortor at auctor urna
-          nunc id cursus metus aliquam eleifend. Sed nisi lacus sed viverra
-          tellus. Non enim praesent elementum facilisis.
+        content: >
+          Exempel; Om du har en målerifirma och söker med måleri-relaterade
+          sökord+området du vill hittas i; och inte dyker upp högt på sida 1 i
+          Google eller i det lokala 3-packet. OBS: Att få ett korrekt
+          rankingresultat kan vara knepigt, ta kontakt så hjälper jag till.
       - type: grid_item
         title: Cras tincidunt lobortis feugiat vivamus at augue eget arcu?
         content: >-
