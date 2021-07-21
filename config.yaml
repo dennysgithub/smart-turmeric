@@ -89,7 +89,7 @@ params:
         new_window: false
         no_follow: false
         type: action
-      - label: Videor
+      - label: VidYouTube
         url: '#'
         style: secondary
         has_icon: true
