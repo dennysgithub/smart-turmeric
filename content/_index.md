@@ -68,7 +68,7 @@ sections:
           kombinerat!**
         actions:
           - type: action
-            label: Kolla nu
+            label: 'Checka in '
             url: null
             style: primary
             has_icon: true
