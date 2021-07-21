@@ -10,30 +10,6 @@ sections:
   - type: grid_section
     grid_items:
       - type: grid_item
-        title: GMB Optimering Extra
-        subtitle: Power boost + underhåll
-        title_align: left
-        content: |
-          ***
-
-          ### 5387 SEK + 1874 SEK
-
-          fast kostnad + månatlig
-
-          *   Et semper leo mattis orci conubia congue
-          *   Quisque eleifend imperdiet tortor
-          *   Elementum eu rhoncus, volutpat
-          *   Fringilla diam magnis libero lacinia
-          *   Litora primis facilisis ullamcorper per
-        content_align: left
-        actions:
-          - type: action
-            label: Start with Premium
-            url: /features
-            style: primary
-        actions_align: left
-        actions_width: full-width
-      - type: grid_item
         title: Webbdesign
         subtitle: 'Wordpress, statisk hemsida'
         title_align: left
