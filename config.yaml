@@ -79,6 +79,7 @@ params:
     anncmnt_has_close: false
     anncmnt_id: lorem-ipsum
     type: header
+    logo: /images/logo.png
 disableKinds:
   - RSS
   - taxonomy
