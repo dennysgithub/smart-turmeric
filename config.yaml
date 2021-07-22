@@ -52,7 +52,7 @@ params:
         new_window: true
     content: '&copy; 2021  SEOmetoden.se'
   domain: 'https://seometoden.se'
-  favicon: /images/incredible-turmeric.png
+  favicon: /images/favicon.png
   taxonomies: null
   stub: stub
   header:
