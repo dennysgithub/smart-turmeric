@@ -119,7 +119,7 @@ sections:
   - title: Vad är du intresserad av?
     subtitle: Ett steg i taget..
     actions:
-      - label: lorem-ipsum
+      - label: Inled en diskussion
         url: '#'
         style: link
         has_icon: false
