@@ -28,7 +28,7 @@ sections:
         type: form_field
       - input_type: select
         name: Hur-vill-du-bli-kontaktad
-        label: lorem-ipsum
+        label: Hur vill du bli kontaktad?
         default_value: Kontakta mig på mejl
         options: []
         is_required: false
