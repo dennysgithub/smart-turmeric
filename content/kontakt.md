@@ -31,7 +31,7 @@ sections:
     form_position: right
     form_width: fifty
     form_layout: inline
-    enable_card: false
+    enable_card: true
     form_id: contact-form
     form_action: /tack-for-ditt-meddelande
     form_fields:
