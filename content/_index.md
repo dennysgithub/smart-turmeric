@@ -118,7 +118,16 @@ sections:
     padding_top: medium
   - title: Vad är du intresserad av?
     subtitle: Ett steg i taget..
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
+        type: action
     grid_items:
       - title: Webbdesign i Wordpress
         title_align: center
