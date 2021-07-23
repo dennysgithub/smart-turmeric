@@ -128,7 +128,7 @@ sections:
         new_window: true
         no_follow: false
         type: action
-      - label: Kolla startpaketen
+      - label: Inled en diskussion
         url: '#'
         style: primary
         has_icon: false
