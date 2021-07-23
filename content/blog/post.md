@@ -11,7 +11,7 @@ excerpt: >-
   magnitudine obruebantur. Duo Reges: constructio interrete.
 thumb_image: images/avvisningsfrekvens.png
 thumb_image_alt: Post 1 placeholder image
-image: images/classic/post-1.png
+image: images/avvisningsfrekvens.png
 image_alt: Post 1 placeholder image
 image_position: right
 seo:
