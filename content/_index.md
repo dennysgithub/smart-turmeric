@@ -121,7 +121,7 @@ sections:
     actions:
       - label: Inled en diskussion
         url: 'https://forms.gle/1WBVyEi9DQYp1C9XA'
-        style: primary
+        style: secondary
         has_icon: true
         icon: arrow-right
         icon_position: right
