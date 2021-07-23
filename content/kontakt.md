@@ -28,7 +28,7 @@ sections:
         type: form_field
       - input_type: select
         name: Hur-vill-du-bli-kontaktad
-        default_value: Telefon
+        default_value: Hur vill du bli kontakad?
         options:
           - Telefon
           - Mejl
