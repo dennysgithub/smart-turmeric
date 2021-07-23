@@ -39,7 +39,7 @@ sections:
         name: Beskrivning
         default_value: 'Skriv kortfattat vad det gäller, tack.'
         options: []
-        is_required: false
+        is_required: true
         type: form_field
       - type: form_field
         input_type: checkbox
