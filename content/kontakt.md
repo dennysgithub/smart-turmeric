@@ -26,7 +26,7 @@ sections:
       - type: form_field
         input_type: email
         name: email
-        label: Webbplats
+        label: Din mejl
         default_value: Webbplats URL
         is_required: true
       - input_type: text
