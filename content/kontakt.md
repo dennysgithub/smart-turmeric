@@ -2,24 +2,6 @@
 title: General enquiries
 sections:
   - type: form_section
-    content: >
-      ## Inled en diskussion
-
-
-      Allt börjar någonstans. Inled en diskussion så jag kan få lära mig mer om
-      just er speciella situation och bedöma om jag är rätt man att hjälpa er
-      eller inte. Jag återkommer alltid så snart jag kan.
-
-
-
-
-      ## Inled en diskussion
-
-
-
-      Allt börjar någonstans. Inled en diskussion så jag kan få lära mig mer om
-      just er speciella situation och bedöma om jag är rätt man att hjälpa er
-      eller inte. Jag återkommer alltid så snart jag kan.
     content_align: left
     form_position: right
     form_width: fifty
