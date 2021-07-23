@@ -37,7 +37,7 @@ sections:
         options: []
         is_required: false
         type: form_field
-    submit_label: Kolla hur jag står mig mot konkurrenter
+    submit_label: 'Analysera '
     align_vert: top
     padding_top: large
     padding_bottom: large
