@@ -119,7 +119,7 @@ sections:
   - title: Vad är du intresserad av?
     subtitle: Ett steg i taget..
     actions:
-      - label: Inled en diskussion
+      - label: Kolla startpaket
         url: '#'
         style: primary
         has_icon: true
