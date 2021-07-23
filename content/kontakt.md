@@ -46,7 +46,7 @@ sections:
           Jag förstår att det här formuläret lagrar min inlämnade information så
           att jag kan kontaktas.
         is_required: true
-    submit_label: Send Message
+    submit_label: Skicka
     align_vert: top
     padding_top: large
     padding_bottom: large
