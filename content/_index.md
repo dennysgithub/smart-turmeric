@@ -134,7 +134,7 @@ sections:
         has_icon: true
         icon: arrow-right
         icon_position: right
-        new_window: false
+        new_window: true
         no_follow: false
         type: action
     grid_items:
