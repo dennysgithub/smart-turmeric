@@ -26,6 +26,13 @@ sections:
         options: []
         is_required: false
         type: form_field
+      - input_type: text
+        name: lorem-ipsum
+        label: lorem-ipsum
+        default_value: lorem-ipsum
+        options: []
+        is_required: false
+        type: form_field
       - input_type: textarea
         name: Beskrivning
         default_value: 'Skriv kortfattat vad det gäller, tack.'
@@ -39,13 +46,6 @@ sections:
           Jag förstår att det här formuläret lagrar min inlämnade information så
           att jag kan kontaktas.
         is_required: true
-      - input_type: text
-        name: lorem-ipsum
-        label: lorem-ipsum
-        default_value: lorem-ipsum
-        options: []
-        is_required: false
-        type: form_field
     submit_label: Skicka
     align_vert: top
     padding_top: large
