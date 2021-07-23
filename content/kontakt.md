@@ -1,5 +1,5 @@
 ---
-title: General enquiries
+title: Kontakt
 sections:
   - type: form_section
     content_align: left
