@@ -32,7 +32,7 @@ sections:
         default_value: Telefon
         options:
           - Telefon
-          - lorem-ipsum
+          - Mejl
         is_required: false
         type: form_field
       - input_type: textarea
