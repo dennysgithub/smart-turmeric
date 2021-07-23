@@ -37,7 +37,7 @@ sections:
         options: []
         is_required: false
         type: form_field
-    submit_label: 'Analysera min '
+    submit_label: Analysera min GMB ranking
     align_vert: top
     padding_top: large
     padding_bottom: large
