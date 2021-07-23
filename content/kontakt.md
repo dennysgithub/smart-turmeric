@@ -25,7 +25,7 @@ sections:
       - type: form_field
         input_type: email
         name: email
-        default_value: din@mejl.nu
+        default_value: Din mejl
         is_required: true
       - input_type: text
         name: lorem-ipsum
