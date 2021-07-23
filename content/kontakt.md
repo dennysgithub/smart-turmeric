@@ -3,12 +3,23 @@ title: General enquiries
 sections:
   - type: form_section
     content: >
-      Det bästa stället att gömma en död kropp på är **sida två i Google.**
+      ## Inled en diskussion
+
+
+      Allt börjar någonstans. Inled en diskussion så jag kan få lära mig mer om
+      just er speciella situation och bedöma om jag är rätt man att hjälpa er
+      eller inte. Jag återkommer alltid så snart jag kan.
 
 
 
-      Missa inte chansen att få en gratis ranking analys av er Google My
-      Business + era konkurrenters.
+
+      ## Inled en diskussion
+
+
+
+      Allt börjar någonstans. Inled en diskussion så jag kan få lära mig mer om
+      just er speciella situation och bedöma om jag är rätt man att hjälpa er
+      eller inte. Jag återkommer alltid så snart jag kan.
     content_align: left
     form_position: right
     form_width: fifty
