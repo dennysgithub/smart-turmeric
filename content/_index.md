@@ -56,8 +56,7 @@ sections:
     type: form_section
     background_image: /images/dianne-ameter.jpg
     form_action: /tack
-  - title: lorem-ipsum
-    subtitle: lorem-ipsum
+  - subtitle: lorem-ipsum
     actions: []
     blog_feed_cols: three
     enable_cards: false
