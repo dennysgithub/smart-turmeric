@@ -1,5 +1,5 @@
 ---
-title: Dianne Ameter
+title: Dennis
 sections:
   - type: hero_section
     title: Dianne Ameter
