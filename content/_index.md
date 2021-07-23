@@ -19,7 +19,7 @@ sections:
     enable_card: true
     form_id: contact-form
     form_fields:
-      - input_type: email
+      - input_type: text
         name: webbplats
         default_value: Webbplats URL
         options: []
