@@ -43,8 +43,8 @@ sections:
         input_type: checkbox
         name: consent
         label: >-
-          I understand that this form is storing my submitted information so I
-          can be contacted.
+          Jag förstår att det här formuläret lagrar min inlämnade information så
+          att jag kan kontaktas.
         is_required: true
     submit_label: Send Message
     align_vert: top
