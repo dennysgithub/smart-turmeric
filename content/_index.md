@@ -128,6 +128,15 @@ sections:
         new_window: true
         no_follow: false
         type: action
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
+        type: action
     grid_items:
       - title: Webbdesign i Wordpress
         title_align: center
