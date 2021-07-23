@@ -27,7 +27,7 @@ sections:
         input_type: email
         name: email
         label: Din mejl
-        default_value: Webbplats URL
+        default_value: din@mejl.nu
         is_required: true
       - input_type: text
         name: lorem-ipsum
