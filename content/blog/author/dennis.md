@@ -2,7 +2,7 @@
 title: Dennis
 sections:
   - type: hero_section
-    title: Dianne Ameter
+    title: Dennis
     subtitle: The optional subtitle
     align: center
     padding_top: medium
