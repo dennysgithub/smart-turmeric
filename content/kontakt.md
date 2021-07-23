@@ -29,7 +29,7 @@ sections:
         is_required: true
       - input_type: tel
         name: Tele
-        default_value: 'Ditt '
+        default_value: Ditt telefonnummer
         options: []
         is_required: false
         type: form_field
