@@ -29,7 +29,7 @@ sections:
       - input_type: select
         name: Hur-vill-du-bli-kontaktad
         label: lorem-ipsum
-        default_value: lorem-ipsum
+        default_value: Kontakta mig på mejl
         options: []
         is_required: false
         type: form_field
