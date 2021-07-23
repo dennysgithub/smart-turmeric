@@ -17,7 +17,7 @@ sections:
     form_width: fourty
     form_layout: inline
     enable_card: true
-    form_id: conta
+    form_id: contact-form
     form_fields:
       - input_type: email
         name: webbplats
