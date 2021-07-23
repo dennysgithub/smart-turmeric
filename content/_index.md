@@ -128,7 +128,7 @@ sections:
         new_window: true
         no_follow: false
         type: action
-      - label: lorem-ipsum
+      - label: Kolla startpaketen
         url: '#'
         style: link
         has_icon: false
