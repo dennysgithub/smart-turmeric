@@ -27,7 +27,7 @@ sections:
         name: email
         default_value: Din mejl
         is_required: true
-      - input_type: text
+      - input_type: tel
         name: lorem-ipsum
         label: lorem-ipsum
         default_value: lorem-ipsum
