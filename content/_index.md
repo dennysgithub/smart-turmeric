@@ -60,7 +60,7 @@ sections:
     blog_feed_cols: three
     enable_cards: false
     show_recent: false
-    recent_count: 0
+    recent_count: -1
     show_date: true
     show_categories: false
     show_author: false
