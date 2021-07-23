@@ -33,7 +33,7 @@ sections:
           - Telefon
           - Mejl
           - Spelar ingen roll
-        is_required: false
+        is_required: true
         type: form_field
       - input_type: textarea
         name: Beskrivning
