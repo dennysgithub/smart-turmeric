@@ -7,7 +7,7 @@ sections:
     form_width: fifty
     form_layout: inline
     enable_card: true
-    form_id: contact-form
+    form_id: subscribeForm
     form_action: /tack-for-ditt-meddelande
     form_fields:
       - type: form_field
