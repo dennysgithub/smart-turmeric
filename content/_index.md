@@ -120,7 +120,7 @@ sections:
     subtitle: Ett steg i taget..
     actions:
       - label: Inled en diskussion
-        url: 'https://forms.gle/1WBVyEi9DQYp1C9XA'
+        url: '#'
         style: primary
         has_icon: true
         icon: arrow-right
