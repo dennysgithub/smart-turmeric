@@ -26,14 +26,14 @@ sections:
         is_required: true
         type: form_field
       - input_type: text
-        name: email
-        default_value: Din mejl
+        name: namn
+        default_value: Ditt namn
         options: []
         is_required: false
         type: form_field
       - input_type: text
-        name: namn
-        default_value: Ditt namn
+        name: email
+        default_value: Din mejl
         options: []
         is_required: false
         type: form_field
