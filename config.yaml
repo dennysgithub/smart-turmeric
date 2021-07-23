@@ -89,7 +89,7 @@ params:
         new_window: false
         no_follow: false
         type: action
-      - label: Prata med mig idag
+      - label: Inled en diskussion
         url: /kontakt
         style: primary
         has_icon: false
