@@ -1,8 +1,7 @@
 ---
 title: General enquiries
 sections:
-  - subtitle: lorem-ipsum
-    content: >-
+  - content: >-
       ## Lorem ipsum
 
 
