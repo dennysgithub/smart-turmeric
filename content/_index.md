@@ -214,7 +214,7 @@ sections:
           jag mig inte heller jobbet.
         actions:
           - label: Jag vill snacka lite
-            url: '#'
+            url: /kontakt
             style: primary
             has_icon: false
             icon: arrow-left
