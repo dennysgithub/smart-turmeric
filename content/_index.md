@@ -37,7 +37,7 @@ sections:
         options: []
         is_required: false
         type: form_field
-      - input_type: text
+      - input_type: tel
         name: telenr
         default_value: Ditt telefonnummer
         options: []
