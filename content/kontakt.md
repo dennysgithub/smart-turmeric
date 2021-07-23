@@ -29,7 +29,7 @@ sections:
       - input_type: select
         name: Hur-vill-du-bli-kontaktad
         label: Hur vill du bli kontaktad?
-        default_value: Kontakta mig på mejl
+        default_value: Telefon
         options: []
         is_required: false
         type: form_field
