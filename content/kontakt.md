@@ -26,7 +26,6 @@ sections:
       - type: form_field
         input_type: email
         name: email
-        label: Din mejl
         default_value: din@mejl.nu
         is_required: true
       - input_type: text
