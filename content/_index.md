@@ -37,7 +37,7 @@ sections:
         options: []
         is_required: false
         type: form_field
-    submit_label: 'Ge mig matnyttig info '
+    submit_label: Ge mig matnyttig info om min ranking
     align_vert: top
     padding_top: large
     padding_bottom: large
