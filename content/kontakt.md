@@ -31,7 +31,7 @@ sections:
         label: Hur vill du bli kontaktad?
         default_value: Telefon
         options:
-          - lorem-ipsum
+          - Telefon
         is_required: false
         type: form_field
       - input_type: textarea
