@@ -30,7 +30,8 @@ sections:
         name: Hur-vill-du-bli-kontaktad
         label: Hur vill du bli kontaktad?
         default_value: Telefon
-        options: []
+        options:
+          - lorem-ipsum
         is_required: false
         type: form_field
       - input_type: textarea
