@@ -38,7 +38,7 @@ sections:
         is_required: false
         type: form_field
       - input_type: text
-        name: lorem-ipsum
+        name: telenr
         default_value: Ditt telefonnummer
         options: []
         is_required: true
