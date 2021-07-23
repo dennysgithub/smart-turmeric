@@ -90,8 +90,7 @@ params:
         no_follow: false
         type: action
       - label: Inled en diskussion
-        url: >-
-          https://docs.google.com/forms/d/e/1FAIpQLSeYamgVjNzR7CtQKwgP3H0-2tdk8ZR0QQen9TQ6chv1yZ4mZg/viewform?usp=sf_link
+        url: 'https://forms.gle/1WBVyEi9DQYp1C9XA'
         style: primary
         has_icon: false
         icon: arrow-right
