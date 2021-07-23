@@ -129,7 +129,7 @@ sections:
         no_follow: false
         type: action
       - label: Inled en diskussion
-        url: '#'
+        url: 'https://forms.gle/1WBVyEi9DQYp1C9XA'
         style: secondary
         has_icon: true
         icon: arrow-right
