@@ -35,7 +35,7 @@ sections:
         type: form_field
       - input_type: textarea
         name: Beskrivning
-        default_value: Skriv kortfattat vad det gäller
+        default_value: 'Skriv kortfattat vad det gäller, tack.'
         options: []
         is_required: false
         type: form_field
