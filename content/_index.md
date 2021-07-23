@@ -153,16 +153,7 @@ sections:
           konkurrenter. Tillsammans gör vi det genom att förbättra din ranking i
           Google Maps.
         content_align: center
-        actions:
-          - label: SEO analys av hemsida
-            url: '#'
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: center
-            new_window: false
-            no_follow: false
-            type: action
+        actions: []
         actions_align: center
         actions_width: auto
         image_alt: lorem-ipsum
