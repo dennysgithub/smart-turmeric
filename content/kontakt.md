@@ -20,7 +20,6 @@ sections:
       - type: form_field
         input_type: text
         name: name
-        label: Namn
         default_value: Ditt namn
         is_required: true
       - type: form_field
