@@ -17,13 +17,6 @@ sections:
     form_id: contact-form
     form_action: /tack-for-ditt-meddelande
     form_fields:
-      - input_type: text
-        name: lorem-ipsum
-        label: lorem-ipsum
-        default_value: lorem-ipsum
-        options: []
-        is_required: false
-        type: form_field
       - type: form_field
         input_type: text
         name: name
@@ -36,6 +29,13 @@ sections:
         label: Webbplats
         default_value: Webbplats URL
         is_required: true
+      - input_type: text
+        name: lorem-ipsum
+        label: lorem-ipsum
+        default_value: lorem-ipsum
+        options: []
+        is_required: false
+        type: form_field
       - type: form_field
         input_type: checkbox
         name: consent
