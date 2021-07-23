@@ -29,7 +29,7 @@ sections:
         is_required: true
       - input_type: tel
         name: Tele
-        default_value: lorem-ipsum
+        default_value: 'Ditt '
         options: []
         is_required: false
         type: form_field
