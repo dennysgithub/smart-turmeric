@@ -170,16 +170,7 @@ sections:
           fart på motorvägen? Hemsidan kanske ser fin ut, men läcker det ut
           kunder överallt?
         content_align: center
-        actions:
-          - label: Webbdesign
-            url: '#'
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: center
-            new_window: false
-            no_follow: false
-            type: action
+        actions: []
         actions_align: center
         actions_width: auto
         image_alt: lorem-ipsum
