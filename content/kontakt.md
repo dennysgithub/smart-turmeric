@@ -3,11 +3,11 @@ title: General enquiries
 sections:
   - type: form_section
     content: >
-      ## Det bästa stället att gömma en död kropp på är **sida två i
-      Google.**&#xA;
+      Det bästa stället att gömma en död kropp på är **sida två i Google.**
 
 
-      ### Missa inte chansen att få en gratis ranking analys av er Google My
+
+      Missa inte chansen att få en gratis ranking analys av er Google My
       Business + era konkurrenters.
     content_align: left
     form_position: right
