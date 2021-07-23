@@ -136,16 +136,7 @@ sections:
           idag kan skapas både fort, smärtfritt & billigt. Hör av dig om dina
           orosmoln så pratar vi. 
         content_align: center
-        actions:
-          - label: GMB Ranking
-            url: '#'
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: center
-            new_window: false
-            no_follow: false
-            type: action
+        actions: []
         actions_align: center
         actions_width: auto
         image_alt: lorem-ipsum
