@@ -21,8 +21,8 @@ sections:
         content: >
           Exempel; Om du har en målerifirma och söker med måleri-relaterade
           sökord+området du vill hittas i; och inte dyker upp högt på sida 1 i
-          Google eller i det lokala 3-packet. OBS: Att få ett korrekt
-          rankingresultat kan vara knepigt, ta kontakt så hjälper jag till.
+          Google eller i det lokala 3-packet. **OBS: Att få ett korrekt
+          rankingresultat kan vara knepigt, ta kontakt så hjälper jag till.**
       - type: grid_item
         title: Var ska småföretagare börja?
         content: >
