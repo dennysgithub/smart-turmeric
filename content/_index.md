@@ -269,7 +269,7 @@ sections:
 
           *   dolor sit amet
         actions:
-          - label: lorem-ipsum
+          - label: Kolla mer på YouTube
             url: '#'
             style: link
             has_icon: false
