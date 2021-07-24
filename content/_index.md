@@ -272,8 +272,11 @@ sections:
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
-          <iframe src="https://www.youtube.com/embed/QH2-TGUlwu4" width="560"
-          height="315" frameborder="0"></iframe>
+          <iframe width="560" height="315"
+          src="https://www.youtube.com/embed/QH2-TGUlwu4" title="YouTube video
+          player" frameborder="0" allow="accelerometer; autoplay;
+          clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen></iframe>
         media_position: right
         media_width: fifty
         align: left
