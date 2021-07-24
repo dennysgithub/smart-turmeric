@@ -276,7 +276,7 @@ sections:
         video_embed_html: >-
           <iframe src="https://www.youtube.com/embed/QH2-TGUlwu4" width="560"
           height="315" frameborder="0"></iframe>
-        media_position: top
+        media_position: right
         media_width: fifty
         align: left
         type: feature
