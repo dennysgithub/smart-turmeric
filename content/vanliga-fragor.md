@@ -14,7 +14,7 @@ sections:
         title: Är SEO viktigare för vissa företag?
         content: >
           Ja! Det är viktigt för BTC företag (business-to-consumer) som gör
-          många individuella jobb som; målare, fönsterputsare, frisörer,
+          många individuella jobb ex; målare, fönsterputsare, frisörer,
           takläggare, etc.
       - type: grid_item
         title: Hur vet jag om jag behöver SEO?
