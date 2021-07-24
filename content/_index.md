@@ -257,8 +257,7 @@ sections:
     background_image_repeat: no-repeat
     type: features_section
   - features:
-      - title: lorem-ipsum
-        content: >-
+      - content: >-
           ## Lorem ipsum
 
 
