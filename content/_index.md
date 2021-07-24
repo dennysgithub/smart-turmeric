@@ -269,7 +269,7 @@ sections:
 
           *   dolor sit amet
         actions:
-          - label: Kolla mer på YouTube
+          - label: SEOmetoden på YouTube
             url: '#'
             style: primary
             has_icon: false
