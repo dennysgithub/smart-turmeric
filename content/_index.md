@@ -119,7 +119,7 @@ sections:
   - title: lorem-ipsum
     subtitle: lorem-ipsum
     actions:
-      - label: lorem-ipsum
+      - label: Se mer
         url: '#'
         style: link
         has_icon: false
