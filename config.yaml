@@ -98,7 +98,7 @@ params:
         new_window: true
         no_follow: false
         type: action
-    has_anncmnt: false
+    has_anncmnt: true
     anncmnt_content: >-
       ## Lorem ipsum
 
