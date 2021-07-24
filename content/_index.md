@@ -116,16 +116,7 @@ sections:
     align: center
     background_color: none
     padding_top: medium
-  - actions:
-      - label: Se mer
-        url: '#'
-        style: primary
-        has_icon: false
-        icon: arrow-left
-        icon_position: right
-        new_window: false
-        no_follow: false
-        type: action
+  - actions: []
     blog_feed_cols: three
     enable_cards: true
     show_recent: true
