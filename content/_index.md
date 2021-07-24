@@ -118,7 +118,16 @@ sections:
     padding_top: medium
   - title: lorem-ipsum
     subtitle: lorem-ipsum
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
+        type: action
     blog_feed_cols: three
     enable_cards: true
     show_recent: false
