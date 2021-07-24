@@ -15,16 +15,7 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: none
-    actions:
-      - label: lorem-ipsum
-        url: '#'
-        style: link
-        has_icon: false
-        icon: arrow-left
-        icon_position: right
-        new_window: false
-        no_follow: false
-        type: action
+    actions: []
   - type: grid_section
     title: Vanliga frågor & svar!
     grid_items:
