@@ -77,17 +77,11 @@ sections:
         type: grid_item
       - title: Vad menas med sökmotoroptimerad hemsida?
         title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: >2
+           är ett sätt att utforma och utveckla webbplatser för att göra dem sökmotorvänliga. Att göra en webbplats SEO-vänlig innebär att Google och andra sökmotorer kan genomsöka varje sida på webbplatsen effektivt, tolka innehållet effektivt och indexera det i sin databas.
 
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          En sökmotoroptimerad hemsida innebär att Google & andra sökmotorer kan
+          genomsöka den effektivt samt tolka inn
         content_align: left
         actions: []
         actions_align: left
