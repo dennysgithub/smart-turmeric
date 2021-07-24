@@ -257,18 +257,7 @@ sections:
     background_image_repeat: no-repeat
     type: features_section
   - features:
-      - content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
-        actions: []
+      - actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
           <iframe width="560" height="315"
