@@ -6,17 +6,6 @@ sections:
     padding_top: large
     padding_bottom: small
   - type: grid_section
-    grid_items: []
-    grid_cols: three
-    grid_gap_vert: small
-    grid_gap_horiz: small
-    enable_cards: true
-    padding_top: small
-    padding_bottom: medium
-    has_border: false
-    background_color: none
-    actions: []
-  - type: grid_section
     title: Vanliga frågor & svar!
     grid_items:
       - type: grid_item
