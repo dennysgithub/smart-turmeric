@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     align: center
     padding_top: large
-    padding_bottom: small
+    padding_bottom: none
     background_color: primary
   - type: grid_section
     title: Vanliga frågor & svar!
