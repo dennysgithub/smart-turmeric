@@ -256,8 +256,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: features_section
-  - subtitle: SEOmetoden på YouTube
-    features:
+  - features:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         content: >-
