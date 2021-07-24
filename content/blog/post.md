@@ -13,7 +13,7 @@ image: images/YouTube-Thumbnail-Dimensions.jpg
 image_alt: Post 1 placeholder image
 image_position: right
 seo:
-  title: 8
+  title: '8'
   description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
   extra:
     - name: 'og:type'
