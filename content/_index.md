@@ -116,6 +116,45 @@ sections:
     align: center
     background_color: none
     padding_top: medium
+  - features:
+      - content: >
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        actions:
+          - label: SEOmetoden på YouTube
+            url: '#'
+            style: primary
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
+        image_alt: lorem-ipsum
+        video_embed_html: >-
+          <iframe width="560" height="315"
+          src="https://www.youtube.com/embed/RyLA5sMqyr8" title="YouTube video
+          player" frameborder="0" allow="accelerometer; autoplay;
+          clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen></iframe>
+        media_position: right
+        media_width: fifty
+        align: left
+        type: feature
+    feature_padding_vert: medium
+    align: center
+    padding_top: small
+    padding_bottom: none
+    has_border: false
+    background_color: primary
+    background_image_opacity: 0
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: features_section
   - title: Vad är du intresserad av?
     subtitle: Ett steg i taget..
     actions:
@@ -236,45 +275,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: features_section
-  - features:
-      - content: >
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-        actions:
-          - label: SEOmetoden på YouTube
-            url: '#'
-            style: primary
-            has_icon: false
-            icon: arrow-left
-            icon_position: right
-            new_window: false
-            no_follow: false
-            type: action
-        image_alt: lorem-ipsum
-        video_embed_html: >-
-          <iframe width="560" height="315"
-          src="https://www.youtube.com/embed/RyLA5sMqyr8" title="YouTube video
-          player" frameborder="0" allow="accelerometer; autoplay;
-          clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-          allowfullscreen></iframe>
-        media_position: right
-        media_width: fifty
-        align: left
-        type: feature
-    feature_padding_vert: medium
-    align: center
-    padding_top: small
-    padding_bottom: none
-    has_border: false
-    background_color: primary
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: features_section
+  - null
 seo:
   type: stackbit_page_meta
   title: SEOmetoden | Är du redo för fler kunder från Google?
