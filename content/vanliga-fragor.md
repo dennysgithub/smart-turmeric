@@ -31,7 +31,7 @@ sections:
           Google My Business profil och utföra *spam fighting* på
           konkurrenter.**
       - type: grid_item
-        title: Vad kan webbdesign göra för en hemsida?
+        title: Varför ska jag ha en ny hemsida?
         content: >
           Ta den från en broschyr-hemsida som inte har någon tydligt riktning
           förutom att delge information till en webbplats där allting går ut på
