@@ -117,7 +117,6 @@ sections:
     background_color: none
     padding_top: medium
   - title: lorem-ipsum
-    subtitle: lorem-ipsum
     actions:
       - label: Se mer
         url: '#'
