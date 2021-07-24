@@ -267,7 +267,7 @@ sections:
           ## Lorem ipsum
 
 
-          {{< youtube w7Ft2ymGmfc >}}
+          rame frameborder="0" scrolling="
 
 
           - Lorem ipsum
