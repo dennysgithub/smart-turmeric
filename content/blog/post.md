@@ -9,7 +9,7 @@ excerpt: >-
   magnitudine obruebantur. Duo Reges: constructio interrete.
 thumb_image: /images/YouTube-Thumbnail-Dimensions.jpg
 thumb_image_alt: Post 1 placeholder image
-image: images/avvisningsfrekvens.png
+image: images/YouTube-Thumbnail-Dimensions.jpg
 image_alt: Post 1 placeholder image
 image_position: right
 seo:
