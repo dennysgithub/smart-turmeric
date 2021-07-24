@@ -270,8 +270,7 @@ sections:
           clipboard-write; encrypted-media; gyroscope; picture-in-picture"
           allowfullscreen></iframe>
         title: 'video '
-      - subtitle: lorem-ipsum
-        content: >
+      - content: >
           ## Lorem ipsum
 
 
