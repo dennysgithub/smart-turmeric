@@ -101,7 +101,7 @@ params:
     has_anncmnt: true
     anncmnt_content: >
       Den här webbplatsen använder sig av kakor för att förbättra din
-      upplevelse.
+      upplevelse. [Läs mer.](https://seometoden.se/privatpolicy/)
     anncmnt_align: left
     anncmnt_is_home_only: false
     anncmnt_has_close: true
