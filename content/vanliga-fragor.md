@@ -1,11 +1,6 @@
 ---
 title: Vanliga frågor
 sections:
-  - type: hero_section
-    align: center
-    padding_top: none
-    padding_bottom: none
-    background_color: primary
   - type: grid_section
     title: Vanliga frågor & svar!
     grid_items:
