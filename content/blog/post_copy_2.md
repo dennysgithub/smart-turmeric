@@ -6,7 +6,7 @@ subtitle: >-
 date: '2020-04-16'
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ea mala virtuti
-  magnitudine obruebantur. Duo Reges: constructio interrete.
+  magnitudine obruebantur. 
 thumb_image: /images/YoutubeThumbnailSize-1-1280x720.jpg
 thumb_image_alt: Post 1 placeholder image
 image: images/avvisningsfrekvens.png
