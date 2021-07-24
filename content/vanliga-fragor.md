@@ -30,13 +30,6 @@ sections:
           rekommenderar också starkt att göra en ordentlig optimering av er
           Google My Business profil och utföra *spam fighting* på
           konkurrenter.**
-      - type: grid_item
-        title: Varför ska jag ha en ny hemsida?
-        content: >
-          Så du kan ta den från en broschyr-hemsida som inte har någon tydligt
-          riktning förutom att delge information till en webbplats där allting
-          går ut på att få besökarna att ringa, mejla eller ta kontakt på annat
-          vis. Och hjälpa er synas bättre i Google naturligtvis.
       - title: Hur lång tid tar SEO?
         title_align: left
         content: >
