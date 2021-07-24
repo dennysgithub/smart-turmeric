@@ -4,12 +4,10 @@ subtitle: >-
   Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil quieti
   videre, nihil tranquilli potest.
 date: '2020-04-16'
-
- 
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ea mala virtuti
   magnitudine obruebantur. Duo Reges: constructio interrete.
-thumb_image: images/avvisningsfrekvens.png
+thumb_image: /images/YouTube-Thumbnail-Dimensions.jpg
 thumb_image_alt: Post 1 placeholder image
 image: images/avvisningsfrekvens.png
 image_alt: Post 1 placeholder image
