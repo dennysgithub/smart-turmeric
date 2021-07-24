@@ -280,7 +280,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
-      - title: ' '
+      - title: ' S'
         subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
