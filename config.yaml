@@ -104,7 +104,7 @@ params:
       upplevelse.
     anncmnt_align: left
     anncmnt_is_home_only: false
-    anncmnt_has_close: false
+    anncmnt_has_close: true
     anncmnt_id: lorem-ipsum
     type: header
     logo: /images/logo.png
