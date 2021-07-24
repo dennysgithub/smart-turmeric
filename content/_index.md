@@ -305,6 +305,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: features_section
+    title: youtube video
 seo:
   type: stackbit_page_meta
   title: SEOmetoden | Är du redo för fler kunder från Google?
