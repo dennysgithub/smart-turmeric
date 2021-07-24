@@ -26,9 +26,10 @@ sections:
       - type: grid_item
         title: Var ska småföretagare börja?
         content: >
-          **Med en SEO analys** så du hittar läckorna och kan täppa igen dem.
-          Jag rekommenderar också starkt att göra en ordentlig optimering av er
-          Google My Business profil och utföra *spam fighting* på konkurrenter.
+          Med en SEO analys så du hittar läckorna och kan täppa igen dem. **Jag
+          rekommenderar också starkt att göra en ordentlig optimering av er
+          Google My Business profil och utföra *spam fighting* på
+          konkurrenter.**
       - type: grid_item
         title: Vad kan SEO göra för en hemsida?
         content: >
