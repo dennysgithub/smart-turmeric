@@ -26,10 +26,9 @@ sections:
       - type: grid_item
         title: Var ska småföretagare börja?
         content: >
-          **Med en SEO analys** så du hittar läckorna och kan täppa igen dem,
-          smygtitta på konkurrenter och stjäl deras bästa idéer och med hjälp av
-          keyword-research hitta dom bästa möjligheterna för er att börja synas
-          bättre och på så sätt få in fler kunder.
+          **Med en SEO analys** så du hittar läckorna och kan täppa igen dem.
+          Jag rekommenderar också starkt att göra en ordentlig optimering av er
+          Google My Business profil och utföra *spam fighting* på konkurrenter.
       - type: grid_item
         title: Vad kan SEO göra för en hemsida?
         content: >
