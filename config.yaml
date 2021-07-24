@@ -99,17 +99,9 @@ params:
         no_follow: false
         type: action
     has_anncmnt: true
-    anncmnt_content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    anncmnt_content: >
+      Den här webbplatsen använder sig av kakor för att förbättra din
+      upplevelse.
     anncmnt_align: left
     anncmnt_is_home_only: false
     anncmnt_has_close: false
