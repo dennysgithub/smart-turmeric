@@ -116,8 +116,7 @@ sections:
     align: center
     background_color: none
     padding_top: medium
-  - title: lorem-ipsum
-    actions:
+  - actions:
       - label: Se mer
         url: '#'
         style: primary
