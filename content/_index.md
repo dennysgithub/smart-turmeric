@@ -269,7 +269,7 @@ sections:
           player" frameborder="0" allow="accelerometer; autoplay;
           clipboard-write; encrypted-media; gyroscope; picture-in-picture"
           allowfullscreen></iframe>
-      - title: lorem-ipsum
+      - title: Checka youtube
         subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
