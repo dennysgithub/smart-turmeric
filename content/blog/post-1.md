@@ -1,17 +1,19 @@
 ---
-title: 1
+title: Utrum Igitur Tibi Litteram Videor An Totas Paginas
 subtitle: >-
   Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil quieti
   videre, nihil tranquilli potest.
 date: '2020-04-16'
-
- 
+author: data/team/dianne-ameter.json
+categories:
+  - data/categories/tutorials.json
+  - data/categories/general.json
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ea mala virtuti
   magnitudine obruebantur. Duo Reges: constructio interrete.
-thumb_image: images/avvisningsfrekvens.png
+thumb_image: images/classic/post-1.png
 thumb_image_alt: Post 1 placeholder image
-image: images/avvisningsfrekvens.png
+image: images/classic/post-1.png
 image_alt: Post 1 placeholder image
 image_position: right
 seo:
